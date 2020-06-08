@@ -1,4 +1,15 @@
-{       
+{   
+    "maths":
+    [
+        {
+            "chname": "M S Dhoni",
+            "videos":
+            [
+                "Catches",
+                "Stumpings"
+            ]
+        }
+    ],    
     "quiz1":
     [
         {
@@ -19,21 +30,20 @@
     "quiz2":
     [
         {
-            "question": "Best batsman in world", 
+            "question": "Best wicket-keeper in world", 
             "op1": "MS Dhoni", 
             "op2": "Adam Gilchrist", 
             "op3": "Kumar Sangakara", 
             "op4": "A B De Villiers"
         },
        {
-            "question": "Best captain", 
+            "question": "Best finisher", 
             "op1": "MS Dhoni", 
-            "op2": "Ricky Ponting", 
+            "op2": "Hardik Pandya", 
             "op3": "Umar Akmal", 
             "op4": "A B De Villiers"
         }
     ]
 }
     
-   
    
