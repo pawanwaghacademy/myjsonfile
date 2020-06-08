@@ -3,11 +3,19 @@
     [
         {
             "chname": "M S Dhoni",
-            "videos": "Catches"
+            "videos":
+            [
+                "Catches",
+                "Stumpings"
+            ]
         },
         {
             "chname": "Rohit Sharma",
-            "videos": "209"
+            "videos":
+            [
+                "209",
+                "264"
+            ]
         }
     ],    
     "quiz1":
