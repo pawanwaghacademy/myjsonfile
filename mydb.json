@@ -3,17 +3,27 @@
     [
         {
             "chname": "M S Dhoni",
+            "video":
             [
-                "videos":"Catches",
-                "videos":"Stumpings",
-                "videos":"Wickets"
+                {
+                    "videos":"Catches"
+                },
+                {
+                    "videos":"Stumpings"
+                }
             ]
         },
         {
             "chname": "Rohit Sharma",
-            "videos":"209",
-            "videos":"264",
-            "videos":"211"
+            "video":
+            [
+                {
+                    "videos":"209"
+                },
+                {
+                    "videos":"264"
+                }
+            ]
         }
     ],    
     "quiz1":
@@ -51,4 +61,5 @@
         }
     ]
 }
+    
    
