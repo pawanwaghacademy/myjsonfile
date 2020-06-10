@@ -15,29 +15,7 @@
           "VL": "https://www.youtube.com/channel/UCM75YqEHqzuFHPmLVMdzNDQ"
         }   
       ],
-      "Quiz1": [
-        {
-            "question": "Best wicket-keeper in world", 
-            "op1": "MS Dhoni", 
-            "op2": "Adam Gilchrist", 
-            "op3": "Kumar Sangakara", 
-            "op4": "A B De Villiers"
-        },
-        {
-            "question": "Best finisher", 
-            "op1": "MS Dhoni", 
-            "op2": "Hardik Pandya", 
-            "op3": "Umar Akmal", 
-            "op4": "A B De Villiers"
-        },
-        {
-            "question": "Worldcup Won", 
-            "op1": "1983 & 2011", 
-            "op2": "1984", 
-            "op3": "1958", 
-            "op4": "1938"
-        }  
-      ]
+      "StudyL": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F...?alt=media&token=1ba2d024-b59d-4560-9ddf-e0078df81ebb"
     },
 
     {
@@ -62,14 +40,6 @@
             "VL": "https://www.youtube.com/channel/UCM75YqEHqzuFHPmLVMdzNDQ"
           }
         ],
-        "Quiz1": [
-          {
-              "question": "2011's Indian Captain?", 
-              "op1": "MS Dhoni", 
-              "op2": "Hardik Pandya", 
-              "op3": "Umar Akmal", 
-              "op4": "A B De Villiers"
-          }
-        ]
+        "StudyL": "https://www.youtube.com/channel/UCM75YqEHqzuFHPmLVMdzNDQ"
       }
 ]
