@@ -29,7 +29,14 @@
             "op2": "Hardik Pandya", 
             "op3": "Umar Akmal", 
             "op4": "A B De Villiers"
-        }
+        },
+        {
+            "question": "Worldcup Won", 
+            "op1": "1983 & 2011", 
+            "op2": "1984", 
+            "op3": "1958", 
+            "op4": "1938"
+        }  
       ]
     },
 
