@@ -25,5 +25,10 @@
               \"category\":\"Entertainment: Cartoon & Animations\",
               \"type\":\"multiple\",
               \"difficulty\":\"easy\",
-              \"question\":\"In the 1993 Disney animated series,
-              what is the name of Bonker\'s second partner?\",\"correct_answer\":\"Miranda Wright\",\"incorrect_answers\":[\"Dick Tracy\",\"Eddie Valiant\",\"Dr. Ludwig von Drake\"]},{\"category\":\"Geography\",\"type\":\"multiple\",\"difficulty\":\"easy\",\"question\":\"How many countries does Mexico border?\",\"correct_answer\":\"3\",\"incorrect_answers\":[\"2\",\"4\",\"1\"]}]}";
+              \"question\":\"In the 1993 Disney animated series,what is the name of Bonker\'s second partner?\",
+              \"correct_answer\":\"Miranda Wright\",
+              \"incorrect_answers\":[\"Dick Tracy\",
+              \"Eddie Valiant\",
+              \"Dr. Ludwig von Drake\"]
+          }
+           ]}";
