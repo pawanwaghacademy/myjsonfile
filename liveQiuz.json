@@ -1,9 +1,9 @@
 [
     {
         "question":"What is the largest organ of the human body?",
-        "correct_answer":"Skin",
-        "incorrect_answers":
+        "options":
         [
+            "Skin",
             "Heart",
             "large Intestine",
             "Liver"
@@ -11,9 +11,9 @@
     },
     {
         "question":"In Roman Numerals, what does XL equate to?",
-        "correct_answer":"40",
-        "incorrect_answers":
+        "options":
         [
+            "40",
             "60",
             "15",
             "90"
@@ -21,9 +21,9 @@
     },
     {
         "question":"Grant Gustin plays which superhero on the CW show of the same name?",
-        "correct_answer":"The Flash",
-        "incorrect_answers":
+        "options":
         [
+            "The Flash",
             "The Arrow",
             "Black Canary",
             "Daredevil"
@@ -31,9 +31,9 @@
     },
     {
         "question":"In the 1993 Disney animated series,what is the name of Bonkers second partner?",
-        "correct_answer":"Miranda Wright",
-        "incorrect_answers":
+        "options":
         [
+            "Miranda Wright",
             "Dick Tracy",
             "Eddie Valiant",
             "Dr. Ludwig von Drake"
