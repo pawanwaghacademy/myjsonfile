@@ -19,7 +19,20 @@
           "VL": "https://www.youtube.com/channel/UCM75YqEHqzuFHPmLVMdzNDQ"
         }
       ],
-      "StudyL": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F...?alt=media&token=1ba2d024-b59d-4560-9ddf-e0078df81ebb"
+      "StudyMaterial":[
+        {
+          "MN": "Material Name 1",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F...?alt=media&token=1ba2d024-b59d-4560-9ddf-e0078df81ebb"
+        },
+        {
+          "MN": "Material Name 2",
+          "ML": "https://www.youtube.com/channel/UCM75YqEHqzuFHPmLVMdzNDQ"
+        },
+        {
+          "MN": "Material Name 3",
+          "ML": "https://www.youtube.com/channel/UCM75YqEHqzuFHPmLVMdzNDQ"
+        }
+      ]
     },
 
     {
@@ -44,6 +57,19 @@
             "VL": "https://www.youtube.com/channel/UCM75YqEHqzuFHPmLVMdzNDQ"
           }
         ],
-        "StudyL": "https://www.youtube.com/channel/UCM75YqEHqzuFHPmLVMdzNDQ"
+        "StudyMaterial":[
+            {
+              "MN": "Material Name 1",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F...?alt=media&token=1ba2d024-b59d-4560-9ddf-e0078df81ebb"
+            },
+            {
+              "MN": "Material Name 2",
+              "ML": "https://www.youtube.com/channel/UCM75YqEHqzuFHPmLVMdzNDQ"
+            },
+            {
+              "MN": "Material Name 3",
+              "ML": "https://www.youtube.com/channel/UCM75YqEHqzuFHPmLVMdzNDQ"
+            }
+          ]
       }
 ]
