@@ -1,0 +1,265 @@
+[
+    {
+      "ChapterName": "Linear Equation in Two Variables ",
+      "Videos": [
+        {
+          "VN": "Practice Set 1.1",
+          "VL": "https://youtu.be/EXGLNF26T9E"
+        },
+        {
+          "VN": "Practice Set 1.2",
+          "VL": "https://youtu.be/jqIxWw_OSBs"
+        },
+        {
+          "VN": "Practice Set 1.3",
+          "VL": "https://youtu.be/H7zAcidf0PM"
+        },
+        {
+          "VN": "Practice Set 1.4",
+          "VL": "https://youtu.be/TaQDqxZs2p4"
+        },
+        {
+            "VN": "Practice Set 1.5",
+            "VL": "https://youtu.be/0GO9P35SCCQ"
+          },
+          {
+            "VN": "Problem Set 1 Part 2",
+            "VL": "https://youtu.be/_qjFGFIM9Qk"
+          },
+          {
+            "VN": "Problem Set 1 Part 3",
+            "VL": "https://youtu.be/g8PeEXpsGbA"
+          }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+
+    {
+        "ChapterName": "Quadratic Equation",
+        "Videos": [
+          {
+            "VN": "Practice Set 2.1",
+            "VL": "https://youtu.be/A-CrGsNiKNA"
+          },
+          {
+            "VN": "Practice Set 2.2",
+            "VL": "https://youtu.be/IubFc0z9AzQ"
+          },
+          {
+            "VN": "Practice Set 2.3",
+            "VL": "https://youtu.be/lLlFQdIC9UE"
+          },
+          {
+            "VN": "Practice Set 2.4",
+            "VL": "https://youtu.be/3pEbjaQAWqU"
+          },
+          {
+            "VN": "Practice Set 2.5",
+            "VL": "https://youtu.be/HJ_rfY8CwvA"
+          }, 
+          {
+            "VN": "Practice Set 2.6",
+            "VL": "https://youtu.be/FjlzvyTFNb8"
+          },
+          {
+            "VN": "Problem Set 2 Part 1",
+            "VL": "https://youtu.be/ngRNivvH4q4"
+          },
+          {
+            "VN": "Problem Set 2 Part 2",
+            "VL": "https://youtu.be/ofe6YOnkHuM"
+          },
+          {
+            "VN": "Problem Set 2 Part 3",
+            "VL": "https://youtu.be/VczirQBLMmc"
+          }
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    },
+
+    {
+        "ChapterName": "Arithmetic Progression",
+        "Videos": [
+          {
+            "VN": "Practice Set 3.1",
+            "VL": "https://youtu.be/XnF9esXDJEQ"
+          },
+          {
+            "VN": "Practice Set 3.2",
+            "VL": "https://youtu.be/5nTKjxPwqyM"
+          },
+          {
+            "VN": "Practice Set 3.3",
+            "VL": "https://youtu.be/nzSoxDfGtxQ"
+          },
+          {
+            "VN": "Practice Set 3.4",
+            "VL": "https://youtu.be/-elyfzPkvI0"
+          },
+          {
+            "VN": "Problem Set 3 Part 1",
+            "VL": "https://youtu.be/GZyqV0LsnO0"
+      
+          },
+          {
+            "VN": "Problem Set 3 Part 2",
+            "VL": "https://youtu.be/dWDsg7f9zCc"
+      
+      
+          }
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    },
+
+    {
+        "ChapterName": "Financial Planning",
+        "Videos": [
+          {
+            "VN": "Intruduction",
+            "VL": "https://youtu.be/l4GAhtVvTzk"
+          },
+          {
+            "VN": "Practice set 4.1",
+            "VL": "https://youtu.be/psSJ4zMn3BI"
+          },
+          {
+            "VN": "Practice set 4.2",
+            "VL": "https://youtu.be/NRrHgXDeJrY"
+          },
+          {
+            "VN": "Practice set 4.3",
+            "VL": "https://youtu.be/uM7uJxDUA7c"
+          },
+          {
+            "VN": "Practice set 4.4",
+            "VL": "https://youtu.be/ozp9G6UzWWs"
+          },
+          {
+            "VN": "Problem Set 4A Part 1",
+            "VL": "https://youtu.be/N0T5MEeot68"
+          },
+          {
+            "VN": "Problem Set 4A Part 2",
+            "VL": " https://youtu.be/bsSyFnYghS8"
+          },
+          {
+            "VN": "Problem Set 4B Part 1",
+            "VL": "https://youtu.be/p6zYPW8KWzA"
+          },
+          {
+            "VN": "Problem Set 4B Part 2",
+            "VL": "https://youtu.be/nQIg1_TRjnw"
+          }
+
+         
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    },
+    {
+        "ChapterName": "Probability",
+        "Videos": [
+          {
+            "VN": "Practice set 5.1",
+            "VL": "https://youtu.be/Nx4itDN_Qrs"
+          },
+          {
+            "VN": "Practice set 5.2",
+            "VL": "https://youtu.be/vJqD_lGw3Vs"
+          },
+          {
+            "VN": "Practice set 5.3",
+            "VL": "https://youtu.be/Y6HYnF07ZOQ"
+          },
+          {
+            "VN": "Practice set 5.4",
+            "VL": "https://youtu.be/w6ApSI2hYao"
+          },
+          {
+            "VN": "Problem Set 5 Part 1",
+            "VL": "https://youtu.be/tBw-GVgfMw4"
+          },
+          {
+            "VN": "Problem Set 5 Part 2",
+            "VL": "https://youtu.be/X7Q0E2gDULA"
+          },
+          {
+            "VN": "Problem Set 5 Part 3",
+            "VL": "https://youtu.be/KKzvXPgaF60"
+          }
+          
+         
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    },
+    {
+        "ChapterName": "Statistics",
+        "Videos": [
+          {
+            "VN": "Introduction",
+            "VL": "https://youtu.be/wpCYaEZCmsA"
+          },
+          {
+            "VN": "Practice set 6.1",
+            "VL": "https://youtu.be/hhayisj8sl4"
+          },
+          {
+            "VN": "Practice set 6.2",
+            "VL": "https://youtu.be/owPaOxqXCrs"
+          },
+          {
+            "VN": "Practice set 6.3",
+            "VL": "https://youtu.be/vE1qy3dTGgw"
+          },
+          {
+            "VN": "Practice set 6.4",
+            "VL": "https://youtu.be/Csna7Jx9CSE"
+          },
+          {
+            "VN": "Practice set 6.5",
+            "VL": "https://youtu.be/wkFxXq5VfT8"
+          },
+          {
+            "VN": "Practice set 6.6",
+            "VL": "https://youtu.be/NSXSZa3zl0g"
+          }
+          
+         
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    }
+]
