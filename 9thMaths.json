@@ -1,0 +1,233 @@
+[
+    {
+      "ChapterName": "Sets",
+      "Videos": [
+        {
+          "VN": "Practice Set 1.1",
+          "VL": "https://youtu.be/p0aGSsTbW4I"
+        },
+        {
+          "VN": "Practice Set 1.2",
+          "VL": "https://youtu.be/WRwOjY6y0co"
+        },
+        {
+          "VN": "Practice Set 1.3",
+          "VL": "https://youtu.be/UFZ7dSk-U0Q"
+        },
+        {
+          "VN": "Practice Set 1.4",
+          "VL": "https://youtu.be/3_dvObCG0H0"
+        },
+        {
+            "VN": "Problem Set 1 Part 1",
+            "VL": " https://youtu.be/1OyxZaWtFxg"
+          },
+          {
+            "VN": "Problem Set 1 Part 2",
+            "VL": " https://youtu.be/MYBYNzuzkAc"
+          }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+
+    {
+        "ChapterName": "Real Numbers",
+        "Videos": [
+          {
+            "VN": "Basic of Practice Set 2.1",
+            "VL": "https://youtu.be/YcyVmxD8jPE"
+          },
+          {
+            "VN": "Practice Set 2.1",
+            "VL": "https://youtu.be/p3qMsfgrWqQ"
+          },
+          {
+            "VN": "Practice Set 2.2 Part 1",
+            "VL": "https://youtu.be/B8XCaP2LdpM"
+          },
+          {
+            "VN": "Practice Set 2.2 Part 2",
+            "VL": "https://youtu.be/6HFpWNIerK4"
+          },
+          {
+            "VN": "Basic of Practice Set 2.3 ",
+            "VL": "https://youtu.be/5WybPf_JT4I"
+          }, 
+          {
+            "VN": "Practice Set 2.3 Part 1 ",
+            "VL": "https://youtu.be/1PyVGNRZ71s"
+          },
+          {
+            "VN": "Practice Set 2.3 Part 2 ",
+            "VL": "https://youtu.be/ygn7gITyFfY"
+          },
+          {
+            "VN": "Practice Set 2.4",
+            "VL": "https://youtu.be/64E9xwV7A8Q"
+          },
+          {
+            "VN": "Practice Set 2.5",
+            "VL": "https://youtu.be/XPELSCzJ2RY"
+          }
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    },
+
+    {
+        "ChapterName": "Polynomials",
+        "Videos": [
+          {
+            "VN": "Basic ",
+            "VL": "https://youtu.be/ODbg3S0OszA "
+          },
+          {
+            "VN": "Practice Set 3.1",
+            "VL": "https://youtu.be/IfUGE8jKi6E"
+          },
+          {
+            "VN": "Practice Set 3.2 basic",
+            "VL": "https://youtu.be/WelQPUfAzc0"
+          },
+          {
+            "VN": "Practice Set 3.2 Part 1",
+            "VL": " https://youtu.be/007fCcI7ezo"
+          },
+          {
+            "VN": "Basic of Practice Set 3.2 Part 2",
+            "VL": "https://youtu.be/0hZ2gUlsivM"
+          }, 
+          {
+            "VN": "Practice Set 3.3",
+            "VL": "https://youtu.be/ZKjcGFEPMvA"
+          },
+          {
+            "VN": "Practice set 3.4",
+            "VL": "https://youtu.be/dWDsg7f9zCc"
+      
+          }
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    },
+
+    {
+        "ChapterName": "Ratios and proportion",
+        "Videos": [
+          {
+            "VN": "Practice set 4.1",
+            "VL": "https://youtu.be/0cIUnoigCKo"
+          },
+          {
+            "VN": "Practice set 4.2",
+            "VL": "https://youtu.be/YzYbe9la8O0"
+          },
+          {
+            "VN": "Practice set 4.3",
+            "VL": "https://youtu.be/1gOvdsnjgt4"
+          },
+          {
+            "VN": "Practice set 4.4",
+            "VL": " https://youtu.be/Cn7scBazaaQ"
+          },
+          {
+            "VN": "Practice set 4.5 ",
+            "VL": "https://youtu.be/zVlq5a6fTGQ"
+          }
+         
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    },
+    {
+        "ChapterName": "Linear equations in two Variables ",
+        "Videos": [
+          {
+            "VN": "Practice set 5.1",
+            "VL": "https://youtu.be/RKQj3YF3IaI"
+          },
+          {
+            "VN": "Practice set 5.2",
+            "VL": "https://youtu.be/lTq-4E27TB8"
+          }
+          
+         
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    },
+    {
+        "ChapterName": "Financial planning",
+        "Videos": [
+          {
+            "VN": "Practice set 6.1",
+            "VL": "https://youtu.be/ujjAfFoqOmE"
+          },
+          {
+            "VN": "Practice set 6.2",
+            "VL": "https://youtu.be/Zz8_K09NM0o"
+          }
+          
+         
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    },
+    {
+        "ChapterName": "Statistics ",
+        "Videos": [
+          {
+            "VN": "Practice set 7.1",
+            "VL": "https://youtu.be/PqAHmnseQVc"
+          },
+          {
+            "VN": "Practice set 7.2",
+            "VL": "https://youtu.be/wyHn_u2wltI"
+          },
+          {
+            "VN": "Practice set 7.3",
+            "VL": "https://youtu.be/GjU-qGNVGi4"
+          }
+          
+         
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    }
+
+]
