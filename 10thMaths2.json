@@ -1,0 +1,313 @@
+[
+    {
+      "ChapterName": "Similarity",
+      "Videos": [
+        {
+          "VN": "Practice Set 1.1",
+          "VL": "https://youtu.be/vkyPot5u2Uk"
+        },
+        {
+          "VN": "Practice Set 1.2",
+          "VL": "https://youtu.be/5wYJIPOWaiY"
+        },
+        {
+          "VN": "Practice Set 1.3",
+          "VL": "https://youtu.be/uytDGPONR-o"
+        },
+        {
+          "VN": "Practice Set 1.4",
+          "VL": "https://youtu.be/rXnb6_f53uE"
+        },
+        {
+            "VN": "Problem Set 1",
+            "VL": "https://youtu.be/xWVZMVc9l-A"
+          
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+
+    {
+        "ChapterName": "Pythagoras Theorem",
+        "Videos": [
+          {
+            "VN": "Introduction",
+            "VL": "https://youtu.be/kEuTDwh8Pos"
+          },
+          {
+            "VN": "Practice Set 2.1",
+            "VL": "https://youtu.be/ObXLoAhX3Xk"
+          },
+          {
+            "VN": "Basic of Practice Set 2.2",
+            "VL": "https://youtu.be/MqU_C1yZA-I"
+          },
+          {
+            "VN": "Practice Set 2.2",
+            "VL": "https://youtu.be/ErTvBsEfiwU"
+          },
+          {
+            "VN": "Problem Set 2 Part 1",
+            "VL": "https://youtu.be/bI5JR6m2C4M"
+          }, 
+          {
+            "VN": "Problem Set 2 Part 2",
+            "VL": "https://youtu.be/vOiBYUaKUs0"
+          },
+          {
+            "VN": "Problem Set 2 Part 3",
+            "VL": "https://youtu.be/aX06tYiVA0U"
+        
+          }
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    },
+
+    {
+        "ChapterName": "Circle",
+        "Videos": [
+          {
+            "VN": "Introduction and basic of Practice Set 3.1",
+            "VL": "https://youtu.be/_JwTWpgeLU0"
+          },
+          {
+            "VN": "Practice Set 3.1",
+            "VL": "https://youtu.be/XqCygTPW7V8"
+          },
+          {
+            "VN": "Practice Set 3.2",
+            "VL": "https://youtu.be/tnzb-NoMHJY"
+          },
+          {
+            "VN": "Practice Set 3.3",
+            "VL": "https://youtu.be/dMgu9M2QEuY"
+          },
+          {
+            "VN": "Practice Set 3,4",
+            "VL": "https://youtu.be/TK9ZJNKR-cQ"
+      
+          },
+          {
+            "VN": "Basic of Practice Set 3.5",
+            "VL": "https://youtu.be/F9FpDCcNzpE"
+      
+      
+          },
+          {
+            "VN": "Practice Set 3.5",
+            "VL": "https://youtu.be/m7zlfF7-BTM"
+      
+      
+          },
+          {
+            "VN": "Problem Set 3 Part 1",
+            "VL": "https://youtu.be/cW6cTf95Fas"
+      
+      
+          },
+          {
+            "VN": "Problem Set 3 Part 2",
+            "VL": "https://youtu.be/DYSgIHDgKjc"
+      
+      
+          },
+          {
+            "VN": "Problem Set 3 Part 3",
+            "VL": "https://youtu.be/EUlsATVjUAk"
+      
+      
+          },
+          {
+            "VN": "Problem Set 3 Part 4",
+            "VL": "https://youtu.be/K2eLbskjkl0"
+      
+      
+          },
+          {
+            "VN": "Problem Set 3 Part 5",
+            "VL": "https://youtu.be/VLQiMd2vcOg"
+      
+      
+          },
+          {
+            "VN": "Problem Set 3 Part 6",
+            "VL": "https://youtu.be/HjHBPRckRJk"
+      
+      
+          }
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    },
+
+    {
+        "ChapterName": "Geometric Construction",
+        "Videos": [
+          {
+            "VN": "Introduction and Basic of Practice Set 4.1",
+            "VL": "https://youtu.be/Zbuz1tNdn3Q"
+          },
+          {
+            "VN": "Practice set 4.1",
+            "VL": "https://youtu.be/EpXEmlOc7sA"
+          },
+          {
+            "VN": "Practice set 4.2",
+            "VL": "https://youtu.be/-YiCCqwiRh0"
+          },
+          {
+            "VN": "Practice set 4",
+            "VL": "https://youtu.be/ClDhh2O8Y-s"
+          }
+
+         
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    },
+    {
+        "ChapterName": "Co-ordinate Geometry",
+        "Videos": [
+          {
+            "VN": "Practice set 5.1 Part 1",
+            "VL": "https://youtu.be/8tH_dkBwRoc"
+          },
+          {
+            "VN": "Practice set 5.1 Part 2",
+            "VL": "https://youtu.be/rHHPVC7BiHA"
+          },
+          {
+            "VN": "Practice set 5.2 Part 1",
+            "VL": "https://youtu.be/xij6tm5DpTA"
+          },
+          {
+            "VN": "Practice set 5.2 Part 2",
+            "VL": "https://youtu.be/SuLWw5h1FR4"
+          },
+          {
+            "VN": "Practice set 5.2 Part 3",
+            "VL": "https://youtu.be/BjrrzLwHL0Q"
+          }
+          
+          
+         
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    },
+    {
+        "ChapterName": "Trigonometry",
+        "Videos": [
+          {
+            "VN": "Basic of Practice Set  6.1 Part 1",
+            "VL": "https://youtu.be/pn1vH9NdxAw"
+          },
+          {
+            "VN": "Practice set 6.1 Part 2",
+            "VL": "https://youtu.be/QrBgEKCr4Kk"
+          },
+          {
+            "VN": "Practice set 6.2",
+            "VL": " https://youtu.be/d8uFbo4DsPw"
+          },
+          {
+            "VN": "Problem Set 6 Part 1",
+            "VL": "https://youtu.be/ZZMvehltgVU"
+          },
+          {
+            "VN": "Problem Set 6 Part 2",
+            "VL": "https://youtu.be/J9yhlppyUJI"
+          },
+          {
+            "VN": "Problem Set 6 Part 3",
+            "VL": "https://youtu.be/eH5HpXHa9H0"
+          }
+          
+         
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    },
+    {
+        "ChapterName": "Mensuration",
+        "Videos": [
+          {
+            "VN": "Practice Set  7.1 Part 1",
+            "VL": "https://youtu.be/5CNHT_SY2mY"
+          },
+          {
+            "VN": "Practice set 7.1 Part 2",
+            "VL": "https://youtu.be/fWfOUpcfloE"
+          },
+          {
+            "VN": "Practice set 7.2",
+            "VL": "https://youtu.be/4L4wgFUhUYQ"
+          },
+          {
+            "VN": "Practice Set 7.3 Part 1",
+            "VL": "https://youtu.be/XZ_Po9AQYMU"
+          },
+          {
+            "VN": "Practice Set 7.3 Part 2",
+            "VL": "https://youtu.be/OhtzRC8QOTQ"
+          },
+          {
+            "VN": "Practice Set 7.4",
+            "VL": "https://youtu.be/ashgpLACfBw"
+          },
+          {
+            "VN": "Problem Set 7 Part 1",
+            "VL": "https://youtu.be/6eVit8r52Mc"
+          },
+          {
+            "VN": "Problem Set 7 Part 2",
+            "VL": "https://youtu.be/YxPgepNK390"
+          },
+          {
+            "VN": "Problem Set 7 Part 3",
+            "VL": "https://youtu.be/_TBWEkTECno"
+          }
+        
+          
+         
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    }
+]
