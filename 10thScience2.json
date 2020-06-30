@@ -1,0 +1,91 @@
+[
+    {
+      "ChapterName": "Heredity And Evolution",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/qjMrCUDUGBY"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/AJ1RvSccFz8"
+        },
+        {
+          "VN": "Part 3",
+          "VL": "https://youtu.be/XO134oINfDI"
+        },
+        {
+          "VN": "Part 4",
+          "VL": "https://youtu.be/ppZC6zdAfDM"
+        },
+        {
+            "VN": "Part 5",
+            "VL": "https://youtu.be/IaiuOhDSeyg"
+          
+        },
+        {
+            "VN": "Part 6",
+            "VL": "https://youtu.be/oltqQOiX3-c"
+          
+        }
+       
+        ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+
+    {
+        "ChapterName": "Life processes in living organism Part 1",
+        "Videos": [
+          {
+            "VN": "Part 1",
+            "VL": "https://youtu.be/1wI4iBtQMEI"
+          },
+          {
+            "VN": "Part 2",
+            "VL": "https://youtu.be/lpcyyhqBr6Q"
+          },
+          {
+            "VN": "Part 3",
+            "VL": "https://youtu.be/_2HyG2wJd7g"
+          },
+          {
+            "VN": "Part 4",
+            "VL": "https://youtu.be/CL4z0WdCXa4"
+          },
+          {
+            "VN": "Part 5",
+            "VL": "https://youtu.be/3MPwZsW2ZDw"
+          }
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    },
+
+    {
+        "ChapterName": "Life processes in living organism Part 2",
+        "Videos": [
+          {
+            "VN": "Part 1",
+            "VL": "https://youtu.be/xq_6ilkzKo4"
+          },
+          {
+            "VN": "Part 2",
+            "VL": "https://youtu.be/lpcyyhqBr6Q"
+          },
+          {
+            "VN": "Part 3",
+            "VL": "https://youtu.be/jPFVupVtkMM"
+          }
+        ]
+    }
+]
