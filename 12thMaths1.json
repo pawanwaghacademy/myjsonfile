@@ -1,0 +1,104 @@
+[
+    {
+      "ChapterName": "Mathematical logic",
+      "Videos": [
+        {
+          "VN": "Introduction",
+          "VL": "https://youtu.be/VU5o7vJD9E0"
+        },
+        {
+          "VN": "Exercise 1.1",
+          "VL": "https://youtu.be/ceIcWmP0lfA"
+        },
+        {
+          "VN": "Exercise 1.2 Part 1",
+          "VL": "https://youtu.be/U3uoRVMfoU0"
+        },
+        {
+          "VN": "Exercise 1.2 Part 2",
+          "VL": "https://youtu.be/7hQ5nSs1WhI"
+        },
+        {
+            "VN": "Exercise 1.3 Part 1",
+            "VL": "https://youtu.be/nlxNV6yyalo"
+          },
+          {
+            "VN": "Exercise 1.3 Part 2",
+            "VL": "https://youtu.be/7-iUsdTf_G0"
+          },
+          {
+            "VN": "Exercise 1.4 Part 1",
+            "VL": "https://youtu.be/4Nafo6jeoMg"
+          },
+          {
+            "VN": "Exercise 1.4 Part 2",
+            "VL": "https://youtu.be/jiEjFDZhSUg"
+          },
+          {
+            "VN": "Exercise 1.5 Part 1",
+            "VL": "https://youtu.be/A8CXWqkvNXw"
+          },
+          {
+            "VN": "Exercise 1.5 Part 2",
+            "VL": "https://youtu.be/A-K8Kt_jJvo"
+          },
+          {
+            "VN": "Exercise 1.5 Part 3",
+            "VL": "https://youtu.be/pbEgObTwXyc"
+          }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+
+    {
+        "ChapterName": "Matrices",
+        "Videos": [
+          {
+            "VN": "Basic of Matrices Part 1",
+            "VL": "https://youtu.be/tcAzciIKwt0"
+          },
+          {
+            "VN": " Basic of Matrices Part 2",
+            "VL": "https://youtu.be/XNmHk-KfS-I"
+          },
+          {
+            "VN": "Exercise 2.1",
+            "VL": "https://youtu.be/Qgvy6snXoIw"
+          },
+          {
+            "VN": "Exercise 2.2 Basic Part 1",
+            "VL": "https://youtu.be/BbAtmWEzlsE"
+          },
+          {
+            "VN": "Exercise 2.2 Part 2",
+            "VL": "https://youtu.be/75BfAilWMqE"
+          }, 
+          {
+            "VN": "Exercise 2.2 Part 3",
+            "VL": "https://youtu.be/YXZjzZxiBJ4"
+          },
+          {
+            "VN": "Exercise 2.3 Part 1",
+            "VL": "https://youtu.be/twrCjaD2IFQ"
+          },
+          {
+            "VN": "Exercise 2.3 Part 2",
+            "VL": "https://youtu.be/M8JrKTQcJU8"
+          }
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    }
+
+
+]
