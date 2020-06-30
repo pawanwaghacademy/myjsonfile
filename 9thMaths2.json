@@ -1,0 +1,258 @@
+[
+    {
+      "ChapterName": "Basic concepts in geometry",
+      "Videos": [
+        {
+          "VN": "Practice Set 1.1",
+          "VL": "https://youtu.be/mQLelmVMP3I"
+        },
+        {
+          "VN": "Practice Set 1.2",
+          "VL": "https://youtu.be/TCIFjv76TjY"
+        },
+        {
+          "VN": "Practice Set 1.3",
+          "VL": "https://youtu.be/H6MkBPJnVZs"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+
+    {
+        "ChapterName": "Parallel lines ",
+        "Videos": [
+          {
+            "VN": "Practice Set 2.1",
+            "VL": "https://youtu.be/Dczy59KFN_0"
+          },
+          {
+            "VN": "Practice Set 2.2",
+            "VL": "https://youtu.be/eT8LXdblP94"
+          }
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    },
+
+    {
+        "ChapterName": "Triangles ",
+        "Videos": [
+          {
+            "VN": "Basic of Practice Set 3.1",
+            "VL": "https://youtu.be/cxnB5Do9Z40"
+          },
+          {
+            "VN": "Practice Set 3.1 Part 1",
+            "VL": "https://youtu.be/hzEB8FB3Y3c"
+            
+          },
+          {
+            "VN": "Practice Set 3.1 Part 2",
+            "VL": "https://youtu.be/QDGFpye1OkA"
+            
+          },
+          {
+            "VN": "Practice Set 3.2 Part 1",
+            "VL": " https://youtu.be/007fCcI7ezo"
+          }
+
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    },
+
+   
+    {
+        "ChapterName": "Quadrilaterals",
+        "Videos": [
+          {
+            "VN": "Introduction",
+            "VL": "https://youtu.be/sK15X6_GEpk"
+            
+          },
+          {
+            "VN": "Practice Set 5.1",
+            "VL": "https://youtu.be/fviZfr5nsBE"
+          },
+          {
+            "VN": "Practice Set 5.2",
+            "VL": "https://youtu.be/uzJRTi8iXzM"
+          },
+          {
+            "VN": "Practice Set 5.3",
+            "VL": "https://youtu.be/-UyHpDvHvyA"
+          },
+          {
+            "VN": "Practice Set 5.4",
+            "VL": "https://youtu.be/2y1kK1lJGZg"
+          },
+          {
+            "VN": "Basic of Practice Set 5.5",
+            "VL": "https://youtu.be/z0Jcyjtufvc"
+          },
+          {
+            "VN": "Practice Set 5.5",
+            "VL": "https://youtu.be/XoQ65zGOPOs"
+          },
+          {
+            "VN": "Problem Set 5 Part 1",
+            "VL": "https://youtu.be/iPhQ7tQn3eo"
+          },
+          {
+            "VN": "Problem Set 5 Part 2",
+            "VL": "https://youtu.be/j8rthQV4mJk"
+          },
+          {
+            "VN": "Problem Set 5 Part 3",
+            "VL": "https://youtu.be/t0cp8tWq_T0"
+          }
+          
+         
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    },
+    {
+        "ChapterName": "Circle",
+        "Videos": [
+          {
+            "VN": "Practice Set 6.1 Part 1",
+            "VL": "https://youtu.be/pP84cMfILYA"
+
+          },
+          {
+            "VN": "Practice Set 6.1 Part 2",
+            "VL": "https://youtu.be/BMyLOmoPVXM"
+
+          },
+          {
+            "VN": "Practice Set 6.2",
+            "VL": "https://youtu.be/EG81wsAMT8M"
+          },
+          {
+            "VN": "Practice Set 6.3",
+            "VL": "https://youtu.be/WFzZXmFigD4"
+
+          }
+          
+         
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    },
+    {
+        "ChapterName": "Co-ordinate Geometry",
+        "Videos": [
+          {
+            "VN": "Practice Set 7.1",
+            "VL": "https://youtu.be/jObSOoYkDG0"
+
+          },
+          {
+            "VN": "Practice Set 7.2",
+            "VL": "https://youtu.be/WMkUdnws4-E"
+
+          },
+          {
+            "VN": "Problem Set 7",
+            "VL": "https://youtu.be/tbFRAYyxnIw"
+          }
+          
+         
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    },
+    {
+        "ChapterName": "Trigonometry",
+        "Videos": [
+          {
+            "VN": "Introduction and Practice set 8.1",
+            "VL": "https://youtu.be/3FpPAuhds-Q"
+
+          },
+          {
+            "VN": "Practice Set 8.2",
+            "VL": "https://youtu.be/pedT08cfDqU"
+
+          },
+          {
+            "VN": "Problem Set 8",
+            "VL": "https://youtu.be/NiXWv7IDzQE"
+          }
+          
+         
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    },
+    {
+        "ChapterName": "Surface Area and Volume",
+        "Videos": [
+          {
+            "VN": "Practice Set 9.1",
+            "VL": "https://youtu.be/-BdAtlN70PI"
+
+          },
+          {
+            "VN": "Practice Set 9.2",
+            "VL": "https://youtu.be/rAFh-cprT28"
+
+          },
+          {
+            "VN": "Practice Set 9.3",
+            "VL": "https://youtu.be/xCwnIrRJEo0"
+          },
+          
+          {
+            "VN": "Problem Set 9",
+            "VL": "https://youtu.be/JoPTLUXlPMo"
+          }
+          
+         
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    }
+
+]
