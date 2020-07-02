@@ -351,5 +351,201 @@
     
                 }
             ]
+        },
+    
+        {
+            "ChapterName": "Functions",
+            "Videos": [
+              {
+                "VN": "Functions Basic Part 1",
+                "VL": "https://youtu.be/4ThJTcNvcNI"
+              },
+              {
+                "VN": "Functions Basic Part 2",
+                "VL": "https://youtu.be/D3bLrl5wAeA"
+              },
+              {
+                "VN": "Functions Basic Part 3",
+                "VL": "https://youtu.be/ETQCbHKfi4A"
+              },
+              {
+                "VN": "Exercise 6.1 Part 1",
+                "VL": "https://youtu.be/0XmF9JOiGc4"
+              },
+              {
+                "VN": "Exercise 6.1 Part 2",
+                "VL": "https://youtu.be/8lZt10WNGK4"
+              }
+    
+             
+            ],
+            "StudyMaterial":[
+                {
+                  "MN": "",
+                  "ML": ""
+    
+                }
+            ]
+        },
+    
+        {
+            "ChapterName": "Limits",
+            "Videos": [
+              {
+                "VN": "Exercise 7.1 Part 1",
+                "VL": "https://youtu.be/lrvmVcaxu2o"
+              },
+              {
+                "VN": "Exercise 7.1 Part 2",
+                "VL": "https://youtu.be/eOAnEcPgA3A"
+              },
+              {
+                "VN": "Exercise 7.1 Part 3",
+                "VL": "https://youtu.be/557P3h83vIE"
+              },
+              {
+                "VN": "Exercise 7.2 Part 1",
+                "VL": "https://youtu.be/oNhSFRtvHW4"
+              },
+              {
+                "VN": "Exercise 7.2 Part 2",
+                "VL": "https://youtu.be/vi_k9EH63Xo"
+              },
+              {
+                "VN": "Exercise 7.2 Part 3",
+                "VL": "https://youtu.be/JLGBgCWiVak"
+              },
+              {
+                "VN": "Exercise 7.3 Part 1",
+                "VL": "https://youtu.be/z-qbxtGgJxQ"
+              },
+              {
+                "VN": "Exercise 7.3 Part 2",
+                "VL": "https://youtu.be/sIGGtiH3dCU"
+              },
+              {
+                "VN": "Exercise 7.3 Part 3",
+                "VL": "https://youtu.be/Y6Y5n2hkCRc"
+              },
+              {
+                "VN": "Exercise 7.4 Part 1",
+                "VL": "https://youtu.be/oX2MyrcKfEw"
+              },
+              {
+                "VN": "Exercise 7.4 Part 2",
+                "VL": "https://youtu.be/jbj1ezmwNF8"
+              },
+              {
+                "VN": "Exercise 7.5 Part 1",
+                "VL": "https://youtu.be/mkYyurrJGZA"
+              },
+              {
+                "VN": "Exercise 7.5 Part 2",
+                "VL": "https://youtu.be/NTP5l9Z0XBM"
+              },
+              {
+                "VN": "Exercise 7.6 Part 1",
+                "VL": "https://youtu.be/0WV5wYhK2aI"
+              },
+              {
+                "VN": "Exercise 7.6 Part 2",
+                "VL": "https://youtu.be/CaMq5sLtZyQ"
+              },
+              {
+                "VN": "Exercise 7.6 Part 3",
+                "VL": "https://youtu.be/Z6QTNX2RGIk"
+              },
+              {
+                "VN": "Exercise 7.7 Part 1",
+                "VL": "https://youtu.be/oOZlxBl9Q_Y"
+              }
+    
+             
+            ],
+            "StudyMaterial":[
+                {
+                  "MN": "",
+                  "ML": ""
+    
+                }
+            ]
+        },
+    
+        {
+            "ChapterName": "Continuity",
+            "Videos": [
+              {
+                "VN": "Continuity Basic",
+                "VL": "https://youtu.be/DsF9fKmfnhQ"
+              },
+              {
+                "VN": "Exercise 8.1 Part 1",
+                "VL": "https://youtu.be/r1Q8Hj4Ce6w"
+              },
+              {
+                "VN": "Exercise 8.1 Part 2",
+                "VL": "https://youtu.be/kWHZZB2dCuU"
+              },
+              {
+                "VN": "Exercise 8.1 Part 3",
+                "VL": "https://youtu.be/CK1trkSu7_8"
+              },
+              {
+                "VN": "Exercise 8.1 Part 4",
+                "VL": "https://youtu.be/wnrX2xAtrYA"
+              },
+              {
+                "VN": "Exercise 8.1 Part 5",
+                "VL": "https://youtu.be/pINvl8Cs4qM"
+              },
+              {
+                "VN": "Exercise 8.1 Part 6",
+                "VL": "https://youtu.be/HZH4BruT9LY"
+              },
+              {
+                "VN": "Exercise 8.1 Part 7",
+                "VL": "https://youtu.be/T7bF0946gfk"
+              }
+    
+             
+            ],
+            "StudyMaterial":[
+                {
+                  "MN": "",
+                  "ML": ""
+    
+                }
+            ]
+        },
+    
+        {
+            "ChapterName": "Differentiation",
+            "Videos": [
+              {
+                "VN": "Exercise 9.1 Part 1",
+                "VL": "https://youtu.be/2ioFFb8wMTM"
+              },
+              {
+                "VN": "Exercise 9.2 Part 1",
+                "VL": "https://youtu.be/FbtEsy_7qQc"
+              },
+              {
+                "VN": "Exercise 9.2 Part 2",
+                "VL": "https://youtu.be/eUYHsDl-85o"
+              },
+              {
+                "VN": "Exercise 9.2 Part 3",
+                "VL": "https://youtu.be/J8Jr5IQLVDc"
+              }
+    
+             
+            ],
+            "StudyMaterial":[
+                {
+                  "MN": "",
+                  "ML": ""
+    
+                }
+            ]
         }
     ]
