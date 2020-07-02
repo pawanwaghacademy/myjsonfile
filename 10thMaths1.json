@@ -33,8 +33,8 @@
       ],
       "StudyMaterial":[
         {
-          "MN": "Practice Paper1",
-          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FAlgebra%20paper%201.pdf?alt=media&token=08ac8cac-32fc-43b8-be08-21bace4dd494"
+          "MN": "",
+          "ML": ""
         }
       ]
     },
@@ -136,19 +136,19 @@
             "VL": "https://youtu.be/l4GAhtVvTzk"
           },
           {
-            "VN": "Practice set 4.1",
+            "VN": "Practice Set 4.1",
             "VL": "https://youtu.be/psSJ4zMn3BI"
           },
           {
-            "VN": "Practice set 4.2",
+            "VN": "Practice Set 4.2",
             "VL": "https://youtu.be/NRrHgXDeJrY"
           },
           {
-            "VN": "Practice set 4.3",
+            "VN": "Practice Set 4.3",
             "VL": "https://youtu.be/uM7uJxDUA7c"
           },
           {
-            "VN": "Practice set 4.4",
+            "VN": "Practice Set 4.4",
             "VL": "https://youtu.be/ozp9G6UzWWs"
           },
           {
@@ -182,19 +182,19 @@
         "ChapterName": "Probability",
         "Videos": [
           {
-            "VN": "Practice set 5.1",
+            "VN": "Practice Set 5.1",
             "VL": "https://youtu.be/Nx4itDN_Qrs"
           },
           {
-            "VN": "Practice set 5.2",
+            "VN": "Practice Set 5.2",
             "VL": "https://youtu.be/vJqD_lGw3Vs"
           },
           {
-            "VN": "Practice set 5.3",
+            "VN": "Practice Set 5.3",
             "VL": "https://youtu.be/Y6HYnF07ZOQ"
           },
           {
-            "VN": "Practice set 5.4",
+            "VN": "Practice Set 5.4",
             "VL": "https://youtu.be/w6ApSI2hYao"
           },
           {
@@ -228,27 +228,27 @@
             "VL": "https://youtu.be/wpCYaEZCmsA"
           },
           {
-            "VN": "Practice set 6.1",
+            "VN": "Practice Set 6.1",
             "VL": "https://youtu.be/hhayisj8sl4"
           },
           {
-            "VN": "Practice set 6.2",
+            "VN": "Practice Set 6.2",
             "VL": "https://youtu.be/owPaOxqXCrs"
           },
           {
-            "VN": "Practice set 6.3",
+            "VN": "Practice Set 6.3",
             "VL": "https://youtu.be/vE1qy3dTGgw"
           },
           {
-            "VN": "Practice set 6.4",
+            "VN": "Practice Set 6.4",
             "VL": "https://youtu.be/Csna7Jx9CSE"
           },
           {
-            "VN": "Practice set 6.5",
+            "VN": "Practice Set 6.5",
             "VL": "https://youtu.be/wkFxXq5VfT8"
           },
           {
-            "VN": "Practice set 6.6",
+            "VN": "Practice Set 6.6",
             "VL": "https://youtu.be/NSXSZa3zl0g"
           }
           
