@@ -33,11 +33,10 @@
       "StudyMaterial":[
         {
           "MN": "Practice Paper 1",
-          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChapter%201%20Practice%20Paper%201.pdf?alt=media&token=5701ee75-5603-4090-a56a-ee535328230c"
-        },
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChapter%201%20Practice%20Paper%201.pdf?alt=media&token=5701ee75-5603-4090-a56a"
         {
           "MN": "Practice Paper 2",
-          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChapter%201%20Practice%20Paper%202.pdf?alt=media&token=8256149c-3383-404a-bff5-796ad3adc439"
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChapter%201%20Practice%20Paper%202.pdf?alt=media&token=639e2532-6652-4020-9ec1-0000a7ca3fd8"
         }
       ]
     },
@@ -69,14 +68,15 @@
         "StudyMaterial":[
             {
               "MN": "Practice Paper 1",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FPractice%20Paper%201.pdf?alt=media&token=b4f7ee80-19e5-4c3b-bc97-580fd4b76819"
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSci%202%20Chapter%202%20Practice%20Paper%201.pdf?alt=media&token=045bc690-8b2f-4a67-8bc4-92981b9b1c99"
             },
             {
               "MN": "Practice Paper 2",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FPractice%20Paper%202.pdf?alt=media&token=682e22c3-bfc1-449e-b86d-c1c0e5f25915"
-            },{
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSci%202%20Chapter%202%20Practice%20Paper%202.pdf?alt=media&token=03d0d4df-d1f8-445b-9cee-aca8fe4a7dfb"
+            },
+            {
               "MN": "Practice Paper 3",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FPractice%20Paper%203.pdf?alt=media&token=de4f67eb-fd22-49f7-858a-a578fc44693b"
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSci%202%20Chapter%202%20Practice%20Paper%203.pdf?alt=media&token=92a44f66-6252-42bb-b4bc-9ae2a5bc383d"
             }
         ]
     },
@@ -121,19 +121,19 @@
         "StudyMaterial":[
             {
               "MN": "Practice Paper 1",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChapter%203%20Practice%20Paper%201.pdf?alt=media&token=d3cba8f8-2efb-400c-aaf7-cc6fd04ac17d"
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSci%202%20Chapter%203%20Practice%20Paper%201.pdf?alt=media&token=f0e1dff2-c19d-474e-ab73-cbb8bcf1a8ac"
             },
             {
               "MN": "Practice Paper 2",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChapter%203%20Practice%20Paper%202.pdf?alt=media&token=cb5bfddf-4770-43a8-8456-8cffa3908603"
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSci%202%20Chapter%203%20Practice%20Paper%202.pdf?alt=media&token=40c863a4-9b32-40dc-8a19-5fee2dd55927"
             },
             {
               "MN": "Practice Paper 3",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChapter%203%20Practice%20Paper%203.pdf?alt=media&token=c4c86d5a-f139-4f1a-8081-6b77109f0da1"
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSci%202%20Chapter%203%20Practice%20Paper%203.pdf?alt=media&token=500ee6f4-55b9-4aa2-a293-cf141064cfba"
             },
             {
               "MN": "Practice Paper 4",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChapter%203%20Practice%20Paper%204.pdf?alt=media&token=2729d2a0-b288-478a-acb8-eaa0e673023a"
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSci%202%20Chapter%203%20Practice%20Paper%204.pdf?alt=media&token=123b984e-a202-4b9f-9f1f-ace409071b03"
             }
         ]
     },
@@ -143,19 +143,35 @@
           {
             "VN": "Part 1",
             "VL": "https://youtu.be/eZf8pL6e26w"
+          },
+          {
+            "VN": "Part 2",
+            "VL": "https://youtu.be/SU-wFOql7fM"
+          },
+          {
+            "VN": "Part 3",
+            "VL": "https://youtu.be/CEwil-ifUMs"
+          },
+          {
+            "VN": "Part 4",
+            "VL": "https://youtu.be/RLgdF1L6dPg"
+          },
+          {
+            "VN": "Part 5",
+            "VL": "https://youtu.be/I6BmTNXiRTs"
           }
         ],
         "StudyMaterial":[
             {
               "MN": "Practice Paper 1",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChapter%204%20Practice%20Paper%201.pdf?alt=media&token=a8c152c6-d169-4ef8-aecb-00d3a739f855"
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSci%202%20Chapter%204%20Practice%20Paper%201.pdf?alt=media&token=acfc1b8e-6659-4124-94ea-e2f08f766aea"
             },
             {
               "MN": "Practice Paper 2",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChapter%204%20Practice%20Paper%202.pdf?alt=media&token=f316fbf4-3b4b-4f77-86fb-fa19f2493091"
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSci%202%20Chapter%204%20Practice%20Paper%202.pdf?alt=media&token=f7d5cbd9-81be-46e9-9eca-8920ffa3acb6"
             },{
               "MN": "Practice Paper 3",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChapter%204%20Practice%20Paper%203.pdf?alt=media&token=655510be-68fa-4100-b7ea-be4e66f798ca"
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSci%202%20Chapter%204%20Practice%20Paper%203.pdf?alt=media&token=bbe20e42-71c9-4989-849f-e67cba1ff9e4"
             }
         ]
     }
