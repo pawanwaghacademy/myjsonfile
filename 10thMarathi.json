@@ -1,10 +1,25 @@
   [
     {
-      "ChapterName": "",
+      "ChapterName": "कृतीपत्रिका आराखडा",
       "Videos": [
         {
-          "VN": "",
-          "VL": ""
+          "VN": "भाग १",
+          "VL": "https://youtu.be/htSv2ezlsck"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "जय जय हे भारत देशा",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/QAsJqRmPXIg"
         }
       ],
       "StudyMaterial":[
