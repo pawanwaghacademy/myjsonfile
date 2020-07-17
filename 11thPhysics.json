@@ -1,131 +1,232 @@
 [
-    {
-      "ChapterName": "Units and Measurement",
+  {
+    "ChapterName": "Rotational Dynamics",
+    "Videos": [
+      {
+        "VN": "Part 1",
+        "VL": "https://youtu.be/-Iv2sdZ-Cu0"
+      },
+      {
+        "VN": "Part 2",
+        "VL": "https://youtu.be/DK7NoyZr_w4"
+      },
+      {
+        "VN": "Part 3",
+        "VL": "https://youtu.be/SfcB6KB0tac"
+      },
+      {
+        "VN": "Part 4",
+        "VL": "https://youtu.be/SPoqve4Q7rU"
+      },
+      {
+          "VN": "Part 5",
+          "VL": "https://youtu.be/NXXr2iicsYo"
+        
+      },
+      {
+          "VN": "Part 6",
+          "VL": "https://youtu.be/c21XT7ibevk"
+        
+      },
+      {
+          "VN": "Part 7",
+          "VL": "https://youtu.be/JIWpoikzu4g"
+        
+      },
+      {
+          "VN": "Part 8",
+          "VL": "https://youtu.be/-e3LxUg2b-U"
+        
+      },
+      {
+          "VN": "Part 9",
+          "VL": "https://youtu.be/gDGpkXpEHpg"
+        
+      },
+      {
+          "VN": "Part 10",
+          "VL": "https://youtu.be/PUfLfG2ySdo"
+        
+      },
+      {
+          "VN": "Part 11",
+          "VL": "https://youtu.be/HiAVyuqnSFQ"
+        
+      },
+      {
+          "VN": "Part 12",
+          "VL": "https://youtu.be/_x4SycyG0n0"
+        
+      },
+      {
+          "VN": "Part 13",
+          "VL": "https://youtu.be/3dIuftg_Z20"
+        
+      },
+      {
+          "VN": "Part 14",
+          "VL": "https://youtu.be/jQP9QBMQCok"
+        
+      },
+      {
+          "VN": "Part 15",
+          "VL": "https://youtu.be/6vRXl0X6jXM"
+        
+      },
+      {
+          "VN": "Part 16",
+          "VL": "https://youtu.be/IFYnqO5TV_k"
+        
+      },
+      {
+          "VN": "Part 17",
+          "VL": "https://youtu.be/Tc-FsIZoUGA"
+        
+      },
+      {
+          "VN": "Part 18",
+          "VL": "https://youtu.be/NviIE6D7NKo"
+        
+      },
+      {
+          "VN": "Part 19",
+          "VL": "https://youtu.be/D77jUFEgDAc"
+        
+      },
+      {
+          "VN": "Part 20",
+          "VL": "https://youtu.be/oGXsNUImvK8"
+        
+      },
+      {
+          "VN": "Part 21",
+          "VL": "https://youtu.be/5XKjW6mIaqg"
+        
+      },
+      {
+          "VN": "Part 22",
+          "VL": "https://youtu.be/yibJCkc61rk"
+        
+      },
+      {
+          "VN": "Part 23",
+          "VL": "https://youtu.be/SSKhBlcx9n0"
+        
+      },
+      {
+          "VN": "Part 24",
+          "VL": "https://youtu.be/rPnP7gMgpcc"
+        
+      },
+      {
+          "VN": "Part 25",
+          "VL": "https://youtu.be/fMIXtIRXA9Y"
+        
+      },
+      {
+          "VN": "Part 26",
+          "VL": "https://youtu.be/CwldIdLQXfQ"
+        
+      }
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "",
+        "ML": ""
+      }
+    ]
+  },
+
+  {
+      "ChapterName": "Mechanical Properties of Fluids",
       "Videos": [
         {
           "VN": "Part 1",
-          "VL": "https://youtu.be/hVzLZTt0_YM"
+          "VL": "https://youtu.be/EWGP3MlVEJE"
         },
         {
           "VN": "Part 2",
-          "VL": " https://youtu.be/YntFcEKcgms"
+          "VL": "https://youtu.be/VD3DxxCR3yM"
         },
         {
           "VN": "Part 3",
-          "VL": "https://youtu.be/3MM1Loksa6A"
+          "VL": "https://youtu.be/lYfN8X1wTJ0"
         },
         {
           "VN": "Part 4",
-          "VL": " https://youtu.be/VswuIBhcZsM"
+          "VL": "https://youtu.be/CiXBJ1JELZk"
         },
         {
-            "VN": "Part 5",
-            "VL": "https://youtu.be/m56oHHN15KU"
-          
+          "VN": "Part 5",
+          "VL": "https://youtu.be/SfC4LBr_vwE"
         },
         {
-            "VN": "Part 6",
-            "VL": " https://youtu.be/J5b1Nn_F1Qk"
-          
+          "VN": "Part 6",
+          "VL": "https://youtu.be/1Xkn_1JwTxY"
         },
         {
-            "VN": "Part 7",
-            "VL": "https://youtu.be/npffXHb0nZo"
-          
+          "VN": "Part 7",
+          "VL": "https://youtu.be/we0eOmNPgIw"
         },
         {
-            "VN": "Part 8",
-            "VL": "https://youtu.be/yyl24qR7VIw"
-          
+          "VN": "Part 8",
+          "VL": "https://youtu.be/VA4sAI72CXE"
         },
         {
-            "VN": "Part 9",
-            "VL": " https://youtu.be/YNP8i3CGmS0"
-          
+          "VN": "Part 9",
+          "VL": "https://youtu.be/G-4vF6GGB7k"
         },
         {
-            "VN": "Part 10",
-            "VL": " https://youtu.be/jQtx1knp1yw"
-          
+          "VN": "Part 10",
+          "VL": "https://youtu.be/IGbo6oyeNgE"
         },
         {
-            "VN": "Part 11",
-            "VL": " https://youtu.be/3veqloZlIEo"
-          
+          "VN": "Part 11",
+          "VL": "https://youtu.be/HkqeNlpAOQk"
         },
         {
-            "VN": "Part 12",
-            "VL": "https://youtu.be/WV__Ifbc4H0"
-          
+          "VN": "Part 12",
+          "VL": "https://youtu.be/WF5VYuOGn7M"
         },
         {
-            "VN": "Part 13",
-            "VL": "https://youtu.be/2bS0DYwuiq8"
-          
+          "VN": "Part 13",
+          "VL": "https://youtu.be/9HiiTtBZFcI"
+        },
+        {
+          "VN": "Part 14",
+          "VL": "https://youtu.be/IGbo6oyeNgE"
         }
       ],
       "StudyMaterial":[
+          {
+            "MN": "",
+            "ML": ""
+
+          }
+      ]
+  },
+  {
+    "ChapterName": "Motion in a Plane",
+    "Videos": [
+      {
+        "VN": "Part 1",
+        "VL": "https://youtu.be/uHgZYJFrnsw"
+      },
+      {
+        "VN": "Part 2",
+        "VL": "https://youtu.be/nFJG2_GVVtQ"
+      },
+      {
+        "VN": "Part 3",
+        "VL": "https://youtu.be/2D_nYJnCxRk"
+      }
+    ],
+    "StudyMaterial":[
         {
           "MN": "",
           "ML": ""
+
         }
-      ]
-    },
-
-    {
-        "ChapterName": "Mathematical Method",
-        "Videos": [
-          {
-            "VN": "Part 1",
-            "VL": " https://youtu.be/7JjLMMs1zSY"
-          },
-          {
-            "VN": "Part 2",
-            "VL": " https://youtu.be/iI_9Il-Jmbg"
-          },
-          {
-            "VN": "Part 3",
-            "VL": "https://youtu.be/jPNvpWD1V_A"
-          },
-          {
-            "VN": "Part 4",
-            "VL": "https://youtu.be/s8dFMX2wvSg"
-          },
-          {
-            "VN": "Part 5",
-            "VL": "https://youtu.be/9omrkpJv5p0"
-          },
-          {
-            "VN": "Part 6",
-            "VL": "https://youtu.be/UTh7BtJfO5E"
-          },
-          {
-            "VN": "Part 7",
-            "VL": "https://youtu.be/es1QnlR1Cjk"
-          },
-          {
-            "VN": "Part 8",
-            "VL": "https://youtu.be/8Ou70cONH5A"
-          },
-          {
-            "VN": "Part 9",
-            "VL": "https://youtu.be/JIpdmzKW5fA"
-          },
-          {
-            "VN": "Part 10",
-            "VL": "https://youtu.be/8LqWAKnn1ck"
-          },
-          {
-            "VN": "Part 11",
-            "VL": "https://youtu.be/W8l19NPpxkM"
-          }
-        ],
-        "StudyMaterial":[
-            {
-              "MN": "",
-              "ML": ""
-
-            }
-        ]
-    }
+    ]
+}
 ]
