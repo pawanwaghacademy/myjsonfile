@@ -1,78 +1,119 @@
 [
-    
-
     {
-        "ChapterName": "Angle & its Measurement",
-        "Videos": [
-          {
-            "VN": "Basic Part 1",
-            "VL": "https://youtu.be/xki7hIW9NUo"
+      "ChapterName": "Mathematical logic",
+      "Videos": [
+        {
+          "VN": "Introduction",
+          "VL": "https://youtu.be/VU5o7vJD9E0"
+        },
+        {
+          "VN": "Exercise 1.1",
+          "VL": "https://youtu.be/ceIcWmP0lfA"
+        },
+        {
+          "VN": "Exercise 1.2 Part 1",
+          "VL": "https://youtu.be/U3uoRVMfoU0"
+        },
+        {
+          "VN": "Exercise 1.2 Part 2",
+          "VL": "https://youtu.be/7hQ5nSs1WhI"
+        },
+        {
+            "VN": "Exercise 1.3 Part 1",
+            "VL": "https://youtu.be/nlxNV6yyalo"
           },
           {
-            "VN": "Exercise 1.1 Part 1",
-            "VL": "https://youtu.be/lqPm_A9AY7o"
+            "VN": "Exercise 1.3 Part 2",
+            "VL": "https://youtu.be/7-iUsdTf_G0"
           },
           {
-            "VN": "Exercise 1.1 Part 2",
-            "VL": "https://youtu.be/YfwfP2fRKYw"
+            "VN": "Exercise 1.4 Part 1",
+            "VL": "https://youtu.be/4Nafo6jeoMg"
           },
           {
-            "VN": "Exercise 1.2 Part 1",
-            "VL": "https://youtu.be/_B49nTOw9Aw"
+            "VN": "Exercise 1.4 Part 2",
+            "VL": "https://youtu.be/jiEjFDZhSUg"
           },
           {
-            "VN": "Exercise 1.2 Part 2",
-            "VL": "https://youtu.be/m56478ybBLk"
-      
+            "VN": "Exercise 1.5 Part 1",
+            "VL": "https://youtu.be/A8CXWqkvNXw"
+          },
+          {
+            "VN": "Exercise 1.5 Part 2",
+            "VL": "https://youtu.be/A-K8Kt_jJvo"
+          },
+          {
+            "VN": "Exercise 1.5 Part 3",
+            "VL": "https://youtu.be/pbEgObTwXyc"
           }
-        ],
-        "StudyMaterial":[
-            {
-              "MN": "",
-              "ML": ""
-
-            }
-        ]
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "Practice Paper Based on Exercise 1.1",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F12th%20paper%20Based%20on%20Chapter%201%20Exercise%201.1.pdf?alt=media&token=587e60df-7625-4194-861a-1d51b60ed040"
+        },
+        {
+          "MN": "Practice Paper Based on Exercise 1.2",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F12th%20paper%20Based%20on%20Chapter%201%20Exercise%201.2.pdf?alt=media&token=1ed58d05-661a-4012-8410-55cbc228f015"
+        },
+        {
+          "MN": "Practice Paper Based on Exercise 1.3",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F12th%20paper%20Based%20on%20Chapter%201%20Exercise%201.3.pdf?alt=media&token=9e911fe5-b4de-4919-8171-ceb175da1f40"
+        },
+        {
+          "MN": "Practice Paper Based on Exercise 1.4",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F12th%20paper%20Based%20on%20Chapter%201%20Exercise%201.4.pdf?alt=media&token=8883aae7-497a-4d0f-a5bc-6d7ec54d6375"
+        }
+      ]
     },
 
     {
-        "ChapterName": "Trigonometry 1 Class 11th Math’s – 1",
+        "ChapterName": "Matrices",
         "Videos": [
           {
-            "VN": "Part 1",
-            "VL": "https://youtu.be/03mYffmyceY"
+            "VN": "Basic of Matrices Part 1",
+            "VL": "https://youtu.be/tcAzciIKwt0"
           },
           {
-            "VN": "Part 2",
-            "VL": "https://youtu.be/dYO3ih_3OQU"
+            "VN": "Basic of Matrices Part 2",
+            "VL": "https://youtu.be/XNmHk-KfS-I"
           },
           {
-            "VN": "Exercise 2.1 Part 1",
-            "VL": "https://youtu.be/JCS-4oS8aSw"
+            "VN": "Exercise 2.1",
+            "VL": "https://youtu.be/Qgvy6snXoIw"
           },
           {
-            "VN": "Exercise 2.1 Part 2",
-            "VL": "https://youtu.be/cB_PpuzFZ2U"
-          },
-          {
-            "VN": "Exercise 2.2 Part 1",
-            "VL": "https://youtu.be/VwKorzrxH-s"
+            "VN": "Exercise 2.2 Basic Part 1",
+            "VL": "https://youtu.be/BbAtmWEzlsE"
           },
           {
             "VN": "Exercise 2.2 Part 2",
-            "VL": "https://youtu.be/lVFiI5e7mew"
-          },
+            "VL": "https://youtu.be/75BfAilWMqE"
+          }, 
           {
             "VN": "Exercise 2.2 Part 3",
-            "VL": "https://youtu.be/wvTMXVhzg70"
+            "VL": "https://youtu.be/YXZjzZxiBJ4"
           },
           {
-            "VN": "Graph of Trigonometric Functions",
-            "VL": "https://youtu.be/mKI35TzZkQE"
+            "VN": "Exercise 2.2 Part 4",
+            "VL": "https://youtu.be/BbAtmWEzlsE"
+          },
+          {
+            "VN": "Exercise 2.2 Part 5",
+            "VL": "https://youtu.be/75BfAilWMqE"
+          },
+          {
+            "VN": "Exercise 2.2 Part 6",
+            "VL": "https://youtu.be/YXZjzZxiBJ4"
+          },
+          {
+            "VN": "Exercise 2.3 Part 1",
+            "VL": "https://youtu.be/twrCjaD2IFQ"
+          },
+          {
+            "VN": "Exercise 2.3 Part 2",
+            "VL": "https://youtu.be/M8JrKTQcJU8"
           }
-
-
-         
         ],
         "StudyMaterial":[
             {
@@ -81,358 +122,7 @@
 
             }
         ]
-    },
-    
+    }
 
-        {
-            "ChapterName": "Trigonometric 2",
-            "Videos": [
-              {
-                "VN": "Exercise 3.1 Part 1",
-                "VL": "https://youtu.be/FfdyvtpOw88"
-              },
-              {
-                "VN": "Exercise 3.1 Part 2",
-                "VL": "https://youtu.be/lJ_x8yyAguk"
-              },
-              {
-                "VN": "Exercise 3.1 Part 3",
-                "VL": "https://youtu.be/OFqS12JwzVo"
-              },
-              {
-                "VN": "Exercise 3.2 Part 1",
-                "VL": "https://youtu.be/tpQ39C3uRBs"
-              },
-              {
-                "VN": "Exercise 3.2 Part 2",
-                "VL": "https://youtu.be/utKqqiIoHCU"
-          
-              },
-              {
-                "VN": "Exercise 3.3 Basic",
-                "VL": "https://youtu.be/gvGFDrvZgyc"
-          
-              },
-              {
-                "VN": "Exercise 3.3 Part 1",
-                "VL": "https://youtu.be/v9X3GImvhgI"
-          
-              },
-              {
-                "VN": "Exercise 3.3 Part 2",
-                "VL": "https://youtu.be/gcEf0iydVLM"
-          
-              },
-              {
-                "VN": "Exercise 3.3 Part 3",
-                "VL": "https://youtu.be/7-UN5MNmwGs"
-          
-              },
-              {
-                "VN": "Exercise 3.3 Part 4",
-                "VL": "https://youtu.be/xBxWwmxIPx4"
-          
-              },
-              {
-                "VN": "Exercise 3.4 Part 1",
-                "VL": "https://youtu.be/GMiCWeV3p5U"
-          
-              },
-              {
-                "VN": "Exercise 3.4 Part 2",
-                "VL": "https://youtu.be/2efNGpXDu1Q"
-          
-              },
-              {
-                "VN": "Exercise 3.5 Part 1",
-                "VL": "https://youtu.be/jdn8_EuBQI0"
-          
-              },
-              {
-                "VN": "Exercise 3.5 Part 2",
-                "VL": "https://youtu.be/JKAV1AZcuyI"
-          
-              }
-            ],
-            "StudyMaterial":[
-                {
-                  "MN": "",
-                  "ML": ""
-    
-                }
-            ]
-        },
-    
-        {
-            "ChapterName": "Determinants & Matrices Class ",
-            "Videos": [
-              {
-                "VN": "Exercise 4.1 Part 1",
-                "VL": "https://youtu.be/ah1T7gAYo94"
-              },
-              {
-                "VN": "Exercise 4.1 Part 2",
-                "VL": "https://youtu.be/ah1T7gAYo94"
-              },
-              {
-                "VN": "Exercise 4.1 Part 3",
-                "VL": "https://youtu.be/jyqUHm31Sgo"
-              },
-              {
-                "VN": "Exercise 4.2 Part 1",
-                "VL": "https://youtu.be/hYueTe54qbs"
-              },
-              {
-                "VN": "Exercise 4.2 Part 2",
-                "VL": "https://youtu.be/-ha4IYQCNYo"
-              },
-              {
-                "VN": "Exercise 4.2 Part 3",
-                "VL": "https://youtu.be/k6HTssBuYsI"
-              },
-              {
-                "VN": "Exercise 4.3 Part 1",
-                "VL": "https://youtu.be/qzqqVoUyThQ"
-              },
-              {
-                "VN": "Exercise 4.3 Part 2",
-                "VL": "https://youtu.be/iQV79gvPzY8"
-              },
-              {
-                "VN": "Exercise 4.3 Part 3",
-                "VL": "https://youtu.be/55j8qhXr7c0"
-              },
-              {
-                "VN": "Exercise 4.3 Part 4",
-                "VL": "https://youtu.be/HUgc7vOmH4I"
-              },
-              {
-                "VN": "Exercise 4.4 Part 1",
-                "VL": "https://youtu.be/Xp7jCfxfuHw"
-              },
-              {
-                "VN": "Exercise 4.4 Part 2",
-                "VL": "https://youtu.be/-i88DEXBvaQ"
-              },
-              {
-                "VN": "Exercise 4.4 Part 3",
-                "VL": "https://youtu.be/3GsWM54Is_0"
-              },
-              {
-                "VN": "Exercise 4.4 Part 4",
-                "VL": "https://youtu.be/_rXqm_-aYCY"
-              },
-              {
-                "VN": "Exercise 4.5 Part 1",
-                "VL": "https://youtu.be/ysdOZaI_CKo"
-              },
-              {
-                "VN": "Exercise 4.5 Part 2",
-                "VL": "https://youtu.be/2UhDqzUnJlg"
-              },
-              {
-                "VN": "Exercise 4.5 Part 3",
-                "VL": "https://youtu.be/XpFIthbeCF0"
-              },
-              {
-                "VN": "Exercise 4.5 Part 3",
-                "VL": "https://youtu.be/XpFIthbeCF0"
-              },
-              {
-                "VN": "Exercise 4.6 Part 1",
-                "VL": "https://youtu.be/vFaTbntsoHE"
-              },
-              {
-                "VN": "Exercise 4.6 Part 2",
-                "VL": "https://youtu.be/jBfAj2y3HNY"
-              },
-              {
-                "VN": "Exercise 4.6 Part 3",
-                "VL": "https://youtu.be/T-oIAswb-Gk"
-              },
-              {
-                "VN": "Exercise 4.6 Part 4",
-                "VL": "https://youtu.be/nkfQzcPXrnE"
-              },
-              {
-                "VN": "Exercise 4.7",
-                "VL": "https://youtu.be/RzJ3xl_uwRI"
-              }
-    
-             
-            ],
-            "StudyMaterial":[
-                {
-                  "MN": "",
-                  "ML": ""
-    
-                }
-            ]
-        },
-        {
-            "ChapterName": "Straight Line",
-            "Videos": [
-              {
-                "VN": "Exercise 5.1 Part 1",
-                "VL": "https://youtu.be/eJcZxstQL4M"
-              },
-              {
-                "VN": "Exercise 5.1 Part 2",
-                "VL": "https://youtu.be/xez8kjqwqzw"
-              },
-              {
-                "VN": "Exercise 5.2 Part 1",
-                "VL": "https://youtu.be/0MghVR9_A8s"
-              },
-              {
-                "VN": "Exercise 5.2 Part 2",
-                "VL": "https://youtu.be/C8fMzbUf_fE"
-              },
-              {
-                "VN": "Exercise 5.3 Part 1",
-                "VL": "https://youtu.be/7hWOEkPL4sg"
-              },
-              {
-                "VN": "Exercise 5.3 Part 2",
-                "VL": "https://youtu.be/tKdchIXSznw"
-              },
-              {
-                "VN": "Exercise 5.3 Part 3",
-                "VL": "https://youtu.be/d5CIXuDfR8o"
-              },
-              {
-                "VN": "Exercise 5.3 Part 4",
-                "VL": "https://youtu.be/08Z5JbNrB2I"
-              },
-              {
-                "VN": "Exercise 5.4 Part 1",
-                "VL": "https://youtu.be/axufPTbzwO8"
-              },
-              {
-                "VN": "Exercise 5.4 Part 2",
-                "VL": "https://youtu.be/rZH22azWync"
-              },
-              {
-                "VN": "Exercise 5.4 Part 3",
-                "VL": "https://youtu.be/ZHNq0Tkf2t8"
-              },
-              {
-                "VN": "Exercise 5.4 Part 4",
-                "VL": "https://youtu.be/8xAKzGWwTbM"
-              },
-              {
-                "VN": "Exercise 5.4 Part 4",
-                "VL": "https://youtu.be/S8-dRRz8dQI"
-              }
-    
-             
-            ],
-            "StudyMaterial":[
-                {
-                  "MN": "",
-                  "ML": ""
-    
-                }
-            ]
-        },
-        {
-            "ChapterName": "Circle",
-            "Videos": [
-              {
-                "VN": "Exercise 6.1 Part 1",
-                "VL": "https://youtu.be/Ih3P3cxOrp0"
-              },
-              {
-                "VN": "Exercise 6.1 Part 2",
-                "VL": "https://youtu.be/U9dWVQ1JEt8"
-              },
-              {
-                "VN": "Exercise 6.1 Part 3",
-                "VL": "https://youtu.be/o4f1ekQg_wU"
-              },
-              {
-                "VN": "Exercise 6.2 Part 1",
-                "VL": "https://youtu.be/WuHzZv6xAZI"
-              },
-              {
-                "VN": "Exercise 6.2 Part 2",
-                "VL": "https://youtu.be/chP3ljoajqE"
-              },
-              {
-                "VN": "Exercise 6.3 Part 1",
-                "VL": "https://youtu.be/FhncXtAQtpQ"
-              }
-    
-             
-            ],
-            "StudyMaterial":[
-                {
-                  "MN": "",
-                  "ML": ""
-    
-                }
-            ]
-        },
-        {
-            "ChapterName": "Conic Section",
-            "Videos": [
-              {
-                "VN": "Exercise 7.1 Basic",
-                "VL": "https://youtu.be/oHOFS2Sh1HM"
-              },
-              {
-                "VN": "Exercise 7.1 Part 1",
-                "VL": "https://youtu.be/Cb8q0HEMnlg"
-              },
-              {
-                "VN": "Exercise 7.1 Part 2",
-                "VL": "https://youtu.be/n5EdudoBj-8"
-              },
-              {
-                "VN": "Exercise 7.1 Part 3",
-                "VL": "https://youtu.be/Bi6P6ZZFU8E"
-              },
-              {
-                "VN": "Exercise 7.1 Part 4",
-                "VL": "https://youtu.be/XfO5S45tUOg"
-              }
-             
-            ],
-            "StudyMaterial":[
-                {
-                  "MN": "",
-                  "ML": ""
-    
-                }
-            ]
-        },
-        {
-            "ChapterName": "Measures of Dispersion",
-            "Videos": [
-              {
-                "VN": "Exercise 8.1 Part 1",
-                "VL": "https://youtu.be/5wbfjycd1qg"
-              },
-              {
-                "VN": "Exercise 8.1 Part 2",
-                "VL": "https://youtu.be/QLFb6nnt3hY"
-              },
-              {
-                "VN": "Exercise 8.1 Part 3",
-                "VL": "https://youtu.be/0SUVeVR_usQ"
-              },
-              {
-                "VN": "Exercise 8.2 Part 1",
-                "VL": "https://youtu.be/mJm82lwAMOY"
-              }
-             
-            ],
-            "StudyMaterial":[
-                {
-                  "MN": "",
-                  "ML": ""
-    
-                }
-            ]
-        }
-    ]
+
+]
