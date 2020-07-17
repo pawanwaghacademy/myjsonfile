@@ -172,5 +172,20 @@
             "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSci%202%20Chapter%204%20Practice%20Paper%203.pdf?alt=media&token=bbe20e42-71c9-4989-849f-e67cba1ff9e4"
           }
       ]
+  },
+  {
+      "ChapterName": "Introduction to Microbiology ",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/KWp12dFaUkM"
+        }
+      ],
+      "StudyMaterial":[
+          {
+            "MN": "",
+            "ML": ""
+          }
+      ]
   }
 ]
