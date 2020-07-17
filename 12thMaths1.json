@@ -122,6 +122,51 @@
 
             }
         ]
+    },
+
+    {
+        "ChapterName": "Trigonometric Functions",
+        "Videos": [
+          {
+            "VN": "Basic of Exercise 3.1",
+            "VL": "https://youtu.be/K7OlTXDAdFk"
+          },
+          {
+            "VN": "Exercise 3.1 Part 1",
+            "VL": "https://youtu.be/G4KdH2qAMjw"
+          },
+          {
+            "VN": "Exercise 3.1 Part 2",
+            "VL": "https://youtu.be/SbdOb9OSFkE"
+          },
+          {
+            "VN": "Basic of Exercise 3.2",
+            "VL": "https://youtu.be/DD2__Q04EXQ"
+          },
+          {
+            "VN": "Exercise 3.2 Part 1",
+            "VL": "https://youtu.be/476fFMGfS8M"
+          }, 
+          {
+            "VN": "Exercise 3.2 Part 2",
+            "VL": "https://youtu.be/cjOpxmPqmpc"
+          },
+          {
+            "VN": "Exercise 3.2 Part 3",
+            "VL": "https://youtu.be/vlohJPrt0aM"
+          },
+          {
+            "VN": "Exercise 3.2 Part 4",
+            "VL": "https://youtu.be/Y8hfY_vTFhU"
+          }
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
     }
 
 
