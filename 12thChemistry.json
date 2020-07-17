@@ -1,10 +1,37 @@
 [
     {
-      "ChapterName": "",
+      "ChapterName": "Halogen Derivatives",
       "Videos": [
         {
-          "VN": "",
-          "VL": ""
+          "VN": "Basic of Organic Chemistry",
+          "VL": "https://youtu.be/OEyC3xyDQik"
+        },
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/AlMMnAl_2SM"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/Ej63FBeKmuU"
+        },
+        {
+          "VN": "Part 3",
+          "VL": "https://youtu.be/EvM9pM4Ubtw"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "Alcohol Phenols and Ethers",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/AyBSM2xlCsY"
         }
       ],
       "StudyMaterial":[
