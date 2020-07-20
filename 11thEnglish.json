@@ -13,5 +13,24 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "Being Neighborly",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/ZktqsPx9l8E"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/ljvaCn0w3j0"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
