@@ -1,4 +1,6 @@
 [
+    
+
     {
         "ChapterName": "Differentiation",
         "Videos": [
@@ -152,32 +154,10 @@
         ],
         "StudyMaterial":[
             {
-              "MN": "Exercise 1.1",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FDifferentiation%20ex%201.1.pdf?alt=media&token=50563688-3c48-41d2-91a0-415070ae8ca2"
-
-            },
-            {
-              "MN": "Exercise 1.2",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FDifferentiation%20ex%201.2.pdf?alt=media&token=36eec22b-b700-41a6-823a-30b4fdf9c1a7"
-
-            },
-            {
-              "MN": "Exercise 1.3",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FDifferentiation%20ex%201.3.pdf?alt=media&token=c455174b-ea0c-441d-aeeb-b6e374ec0798"
-
-            },
-            {
-              "MN": "Exercise 1.4",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FDifferentiation%20ex%201.4.pdf?alt=media&token=2debc633-8f67-4cc7-b594-b8e52c05e5de"
-
-            },
-            {
-              "MN": "Exercise 1.5",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FDifferentiation%20ex%201.5.pdf?alt=media&token=f51c4e75-0231-45a4-8c81-397d7d2e947a"
+              "MN": "",
+              "ML": ""
 
             }
-        
-
         ]
     },
 
@@ -231,6 +211,37 @@
           {
             "VN": "Exercise 2.4 Part 3",
             "VL": "https://youtu.be/z6e6xmGRJoQ"
+          }
+
+         
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    },
+
+    {
+        "ChapterName": "Indefinite Integration",
+        "Videos": [
+          {
+            "VN": "Basic of Integration",
+            "VL": "https://youtu.be/wQhna4_FDfs"
+          },
+          {
+            "VN": "Exercise 3.1 Part 1",
+            "VL": "https://youtu.be/BGfzSoXOZXw"
+          },
+          {
+            "VN": "Exercise 3.1 Part 2",
+            "VL": "https://youtu.be/knQwzWFanEk"
+          },
+          {
+            "VN": "Exercise 3.1 Part 3",
+            "VL": "https://youtu.be/_mw86wI4O58"
           }
 
          
