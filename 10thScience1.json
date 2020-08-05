@@ -47,7 +47,15 @@
       "StudyMaterial":[
         {
           "MN": "Practice Paper 1",
-          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FGravitation%20Paper%201%20.pdf?alt=media&token=05bcfe51-deb6-4b29-9f7d-1d58518ba1cf"
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F1.Gravitation%2010%20th%20Part%20Practice%20Paper%201.pdf?alt=media&token=c7e7aa30-6fba-4447-bb06-72dcebbb8de2"
+        },
+        {
+          "MN": "Practice Paper 2",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F1.Gravitation%2010%20th%20Part%201%20Practice%20Paper%202.pdf?alt=media&token=bfdee697-445c-4797-aa9d-5139684dc778"
+        },
+        {
+          "MN": "Practice Paper 3",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F1Gravitation%2010%20th%20Part%201%20Parctice%20Paper%203.pdf?alt=media&token=55f1ab06-5bfd-45a1-b3e0-8c437a7edcb3"
         }
       ]
     },
@@ -100,7 +108,7 @@
     },
 
     {
-        "ChapterName": "Chemical reactions and equations",
+        "ChapterName": "Chemical Reactions and Equations",
         "Videos": [
           {
             "VN": "Part 1",
@@ -151,29 +159,29 @@
         "StudyMaterial":[
             {
               "MN": "Practice Paper 1",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChemical%20Reactions%20and%20Equations%20%20paper%201.pdf?alt=media&token=faa2e70a-5107-43e0-aefc-186fcebb882e"
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F3.Chemical%20Reactions%20and%20Equations%2010%20th%20Part%201%20Practice%20paper%201.pdf?alt=media&token=6fba5b3b-18d4-4acd-9128-004269ae5e78"
 
             },
             {
               "MN": "Practice Paper 2",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChemical%20Reactions%20and%20Equations%20%20paper%202.pdf?alt=media&token=5591a90d-dcad-48aa-a7b6-5c8e9124e4ba"
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F3.Chemical%20Reactions%20and%20Equations%2010%20th%20Part%201%20Practice%20paper%202.pdf?alt=media&token=f90baa29-0fbe-49e8-b10e-cdf2bb3ba810"
 
             },
             {
               "MN": "Practice Paper 3",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChemical%20Reactions%20and%20Equations%20%20paper%203.pdf?alt=media&token=9dc884de-ba09-4c79-a0e4-5863ae5c1352"
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F3.Chemical%20Reactions%20and%20Equations%2010%20th%20Part%201%20Practice%20paper%203.pdf?alt=media&token=50c9dfb7-d7d0-404f-b05d-7b67073335b6"
 
             },
             {
               "MN": "Practice Paper 4",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChemical%20Reactions%20and%20Equations%20%20paper%204.pdf?alt=media&token=f7455c4e-8955-4b11-93ac-36ebb804bd0a"
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F3.Chemical%20Reactions%20and%20Equations%2010%20th%20Part%201%20Practice%20paper%204.pdf?alt=media&token=29a9daba-2ccc-4e6b-b29e-647ee93d82ea"
 
             }
         ]
     },
 
     {
-        "ChapterName": "Effects of electric current",
+        "ChapterName": "Effects of Electric Current",
         "Videos": [
           {
             "VN": "Part 1",
@@ -212,22 +220,55 @@
         "StudyMaterial":[
             {
               "MN": "Practice Paper 1",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FEffects%20of%20Electric%20Current%20paper%201.pdf?alt=media&token=40aebd38-9e2e-4aa3-a67a-141f5c66e607"
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F4.Effects%20of%20Electric%20Current%2010%20th%20Part%201%20Practice%20Paper%201.pdf?alt=media&token=b053f0a5-5d2e-4b2c-9fa4-c0ec197f4893"
 
             },
             {
               "MN": "Practice Paper 2",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FEffects%20of%20Electric%20Current%20paper%202.pdf?alt=media&token=73c67534-da00-48b6-9376-eeba6e00a151"
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F4.Effects%20of%20Electric%20Current%2010%20th%20Part%201%20Practice%20paper%202.pdf?alt=media&token=1e4d9e51-a5b7-48a8-980f-8b0f7bc4f1f2"
 
             },
             {
               "MN": "Practice Paper 3",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FEffects%20of%20Electric%20Current%20paper%203.pdf?alt=media&token=0c070108-a513-4701-8015-445995908690"
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F4.Effects%20of%20Electric%20Current%2010%20th%20Part%201%20Practices%20Paper%203.pdf?alt=media&token=1bdc1052-2f2f-49bd-ac2f-9e2dd429cfd7"
 
             },
             {
               "MN": "Practice Paper 4",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FEffects%20of%20Electric%20Current%20paper%204.pdf?alt=media&token=cde6481b-0be4-4857-8fa2-bf02d9ea24be"
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F4.Effects%20of%20Electric%20Current%2010%20th%20Part%201%20Practices%20Paper%204.pdf?alt=media&token=2e6733eb-ef46-4a29-bf80-f686eec2c8b9"
+
+            }
+        ]
+    },
+    {
+        "ChapterName": "Heat",
+        "Videos": [
+          {
+            "VN": "Part 1",
+            "VL": "https://youtu.be/HUz0jUKmnaA"
+          },
+          {
+            "VN": "Part 2",
+            "VL": "https://youtu.be/TInTUK2YLho"
+          }
+
+
+         
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "Practice Paper 1",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F5.Heat%2010%20th%20Part%201%20Practices%20%20paper%201.pdf?alt=media&token=7543f6d9-0bf2-45da-8fcf-cbd347852e31"
+
+            },
+            {
+              "MN": "Practice Paper 2",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F5.%20Heat%2010%20th%20Part%201%20Practices%20paper%202.pdf?alt=media&token=695c0e19-0e9a-4e09-bd35-a346ce4b1f5f"
+
+            },
+            {
+              "MN": "Practice Paper 3",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F5.%20Heat%2010%20th%20Part%201%20Partices%20%20paper%203.pdf?alt=media&token=36609efe-7eb2-4ff6-a250-1c8231780935"
 
             }
         ]
@@ -278,22 +319,22 @@
       "StudyMaterial":[
           {
             "MN": "Practice Paper 1",
-            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FMetallurgy%20%20paper%201.pdf?alt=media&token=654e4f0e-695b-43cd-b1f5-383884a9315f"
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F8.Metallurgy%2010%20th%20Part%201%20Practice%20%20paper%201.pdf?alt=media&token=36f69654-ea09-4088-aac7-830602c70799"
 
           },
           {
             "MN": "Practice Paper 2",
-            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FMetallurgy%20%20paper%202.pdf?alt=media&token=590a541d-1f07-4bf1-bcc2-caeec6657f60"
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F8.Metallurgy%2010%20th%20Part%201%20Practice%20%20paper%202.pdf?alt=media&token=6e86797d-7dc8-410d-9cb6-591544fa67ad"
 
           },
           {
             "MN": "Practice Paper 3",
-            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FMetallurgy%20%20paper%203.pdf?alt=media&token=6db26283-89d2-4817-aab8-fec82bae0906"
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F8.Metallurgy%2010%20th%20Part%201%20Practice%20%20%20paper%203.pdf?alt=media&token=7dfc1143-4b81-4968-ae3f-4afb705e4065"
 
           },
           {
             "MN": "Practice Paper 4",
-            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FMetallurgy%20%20paper%204.pdf?alt=media&token=93e33ac7-0815-4cd5-a0dd-0be796f598a2"
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F8.Metallurgy%2010%20th%20Part%201%20Practice%20%20paper%204.pdf?alt=media&token=79aedac7-90f0-4ced-80b7-16164dc29acd"
 
           }
       ]
@@ -357,27 +398,27 @@
         "StudyMaterial":[
             {
               "MN": "Practice Paper 1",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FCarbon%20Compounds%20%20paper%201.pdf?alt=media&token=cdee8867-95c7-4cc6-8793-685d1f6ea090"
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F9.Carbon%20Compounds%2010%20th%20Part%201%20Practice%20%20paper%201.pdf?alt=media&token=c40e4e3b-b564-4d4b-a1b2-850f03e81da8"
 
             },
             {
               "MN": "Practice Paper 2",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FCarbon%20Compounds%20%20paper%202.pdf?alt=media&token=6a716126-f216-423c-94fb-73575f687fc8"
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F9.Carbon%20Compounds%2010%20th%20Part%201%20Practice%20%20paper%202.pdf?alt=media&token=b944e018-54d5-4786-b0d8-b7f0510ec195"
 
             },
             {
               "MN": "Practice Paper 3",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FCarbon%20Compounds%20%20paper%203.pdf?alt=media&token=5da90f28-62da-4092-ae9d-efc446b196c7"
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F9.Carbon%20Compounds%2010%20th%20Part%201%20Practice%20%20paper%203.pdf?alt=media&token=3b655ec6-602d-4b0f-919c-7928a91d863f"
 
             },
             {
               "MN": "Practice Paper 4",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FCarbon%20Compounds%20%20paper%204.pdf?alt=media&token=29221485-57cc-437a-97be-05cb5016671e"
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F9.Carbon%20Compounds%2010%20th%20Part%201%20Practice%20%20paper%204.pdf?alt=media&token=4ddf0321-392e-46c3-8ad7-f103ff66810e"
 
             },
             {
               "MN": "Practice Paper 5",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FCarbon%20Compounds%20%20paper%205.pdf?alt=media&token=79288104-c5f0-4527-9091-a7bd38571e78"
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F9.Carbon%20Compounds%2010%20th%20Part%201%20Practice%20%20paper%205.pdf?alt=media&token=784c9817-1d12-4a8f-99e8-15a7edb18de6"
 
             }
         ]
@@ -421,12 +462,12 @@
         "StudyMaterial":[
             {
               "MN": "Practice Paper 1",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSpace%20Missions%20%20%20paper%201.pdf?alt=media&token=277bd3f5-efd3-452f-a74e-9d0fd91cb369"
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F10.Space%20Missions%2010%20th%20Part%201%20Practice%20paper%201.pdf?alt=media&token=905df0b8-ec58-4202-bff1-6bd0c87f618a"
 
             },
             {
               "MN": "Practice Paper 2",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSpace%20Missions%20%20%20paper%202.pdf?alt=media&token=ef1ad862-2700-4225-85aa-70745790918b"
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F10.Space%20Missions%2010%20th%20Part%201%20Practice%20paper%202.pdf?alt=media&token=15ef5755-ef67-452d-a44d-5cc51d73c77a"
 
             }
         ]
