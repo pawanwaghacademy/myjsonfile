@@ -13,5 +13,24 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "An Astrologers Day",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/28BjMv7rG4E"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/Tz0TXWF8f8s"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
