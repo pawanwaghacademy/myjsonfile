@@ -1,6 +1,6 @@
 [
     {
-      "ChapterName": "Units and measurement",
+      "ChapterName": "Units and its Measurement",
       "Videos": [
         {
           "VN": "Part 1",
@@ -73,7 +73,7 @@
     },
 
     {
-        "ChapterName": "Mathematical method",
+        "ChapterName": "Mathematical Method",
         "Videos": [
           {
             "VN": "Part 1",
@@ -154,6 +154,14 @@
         {
           "VN": "Part 6",
           "VL": "https://youtu.be/iebArf_KebU"
+        },
+        {
+          "VN": "Part 7",
+          "VL": "https://youtu.be/bVPDSEq-u5s"
+        },
+        {
+          "VN": "Part 8",
+          "VL": "https://youtu.be/WzkM3CB5ASI"
         }
       ],
       "StudyMaterial":[
@@ -163,5 +171,29 @@
   
           }
       ]
-  }
+  },
+  {
+    "ChapterName": "Projectile Motion",
+    "Videos": [
+      {
+        "VN": "Part 1",
+        "VL": "https://youtu.be/1Z-HIHTEAOc"
+      },
+      {
+        "VN": "Part 2",
+        "VL": "https://youtu.be/epwVUq5Mi_c"
+      },
+      {
+        "VN": "Part 3",
+        "VL": "https://youtu.be/Tmwpt7738i0"
+      }
+    ],
+    "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+
+        }
+    ]
+}
 ]
