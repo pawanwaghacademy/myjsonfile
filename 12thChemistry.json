@@ -86,6 +86,87 @@
         {
           "VN": "Part 3",
           "VL": "https://youtu.be/F2pUEFFJaHY"
+        },
+        {
+          "VN": "Part 4",
+          "VL": "https://youtu.be/G-9ePLEb4e4"
+        },
+        {
+          "VN": "Part 5",
+          "VL": "https://youtu.be/8MVy_MGMI3I"
+        },
+        {
+          "VN": "Part 6",
+          "VL": "https://youtu.be/T2b5dD5deck"
+        },
+        {
+          "VN": "Part 7",
+          "VL": "https://youtu.be/V0QvcYuls00"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "Amines",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/sfrbxSry7N8"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/9C1Fq-NA53c"
+        },
+        {
+          "VN": "Part 3",
+          "VL": "https://youtu.be/lXCgJFWSDBE"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "Biomolecules",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/FBuvsqonLco"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/f_lpyX1jjEU"
+        },
+        {
+          "VN": "Part 3",
+          "VL": "https://youtu.be/ghl2aNwjkEw"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "Introduction to Polymer Chemistry",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/sy4IfQLHY7s"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/2UPTpyTqa7o"
         }
       ],
       "StudyMaterial":[
