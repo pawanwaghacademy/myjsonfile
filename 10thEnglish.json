@@ -1,10 +1,29 @@
   [
     {
-      "ChapterName": "",
+      "ChapterName": "A Teenager's Prayer",
       "Videos": [
         {
-          "VN": "",
-          "VL": ""
+          "VN": "Part 1",
+          "VL": "https://youtu.be/safs5MCLyJI"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "An Encounter of a Special Kind",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/BHM6L3_BwNw"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/cBPKMrBinio"
         }
       ],
       "StudyMaterial":[
