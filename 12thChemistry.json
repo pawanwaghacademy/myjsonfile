@@ -57,21 +57,7 @@
         }
       ]
     },
-    {
-      "ChapterName": "Revision Videos",
-      "Videos": [
-        {
-          "VN": "Revision of Chapter 1 & 2 Organic Chemistry Part 1",
-          "VL": "https://youtu.be/BxYCgK4_EZM"
-        }
-      ],
-      "StudyMaterial":[
-        {
-          "MN": "",
-          "ML": ""
-        }
-      ]
-    },
+    
     {
       "ChapterName": "Aldehydes Ketones and Carboxylic Acid",
       "Videos": [
@@ -167,6 +153,25 @@
         {
           "VN": "Part 2",
           "VL": "https://youtu.be/2UPTpyTqa7o"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "Revision Videos",
+      "Videos": [
+        {
+          "VN": "Revision of Chapter 1 & 2 Organic Chemistry",
+          "VL": "https://youtu.be/BxYCgK4_EZM"
+        },
+        {
+          "VN": "Revision of Chapter 3 & 4 Organic Chemistry",
+          "VL": "https://youtu.be/BxYCgK4_EZM"
         }
       ],
       "StudyMaterial":[
