@@ -59,13 +59,13 @@
         },
         {
           "MN": "Notes on Gravitation",
-          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FNotes%20on%20Gravitation.pdf?alt=media&token=b4620d22-ab75-4d4a-9e3a-d4ab3b8baa8e"
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FNotes%20on%20Gravitation%20(1).pdf?alt=media&token=2988a9c1-a1be-432b-83f1-156f142fcebd"
         }
       ]
     },
 
     {
-        "ChapterName": "Periodic classification of element",
+        "ChapterName": "Periodic Classification of Elements",
         "Videos": [
           {
             "VN": "Part 1",
@@ -104,8 +104,8 @@
         ],
         "StudyMaterial":[
             {
-              "MN": "",
-              "ML": ""
+              "MN": "Notes on Periodic Classification of Elements",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FNotes%20on%20Periodic%20Classification%20of%20Elememts.pdf?alt=media&token=2f5e8daf-f5e4-46b1-af1c-46b3830fffba"
 
             }
         ]
@@ -180,6 +180,11 @@
               "MN": "Practice Paper 4",
               "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F3.Chemical%20Reactions%20and%20Equations%2010%20th%20Part%201%20Practice%20paper%204.pdf?alt=media&token=29a9daba-2ccc-4e6b-b29e-647ee93d82ea"
 
+            },
+            {
+              "MN": "Notes on Chemical Reactions and Equations",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FNotes%20on%20Chemical%20Reactions%20and%20Equations.pdf?alt=media&token=8874028a-af16-4c36-9433-b9f4f41eea33"
+
             }
         ]
     },
@@ -241,6 +246,11 @@
               "MN": "Practice Paper 4",
               "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F4.Effects%20of%20Electric%20Current%2010%20th%20Part%201%20Practices%20Paper%204.pdf?alt=media&token=2e6733eb-ef46-4a29-bf80-f686eec2c8b9"
 
+            },
+            {
+              "MN": "Notes on Effects of Electric Current",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FNotes%20on%20Effect%20of%20Electric%20Current.pdf?alt=media&token=57fb7075-3657-47c1-be3a-107b21a86b0e"
+
             }
         ]
     },
@@ -273,6 +283,11 @@
             {
               "MN": "Practice Paper 3",
               "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F5.%20Heat%2010%20th%20Part%201%20Partices%20%20paper%203.pdf?alt=media&token=36609efe-7eb2-4ff6-a250-1c8231780935"
+
+            },
+            {
+              "MN": "Notes on Heat",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FNotes%20on%20Heat.pdf?alt=media&token=56c1cf02-19ca-479e-83f4-e4a4a90fd9a7"
 
             }
         ]
@@ -339,6 +354,11 @@
           {
             "MN": "Practice Paper 4",
             "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F8.Metallurgy%2010%20th%20Part%201%20Practice%20%20paper%204.pdf?alt=media&token=79aedac7-90f0-4ced-80b7-16164dc29acd"
+
+          },
+          {
+            "MN": "Notes on Metallurgy",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FNotes%20on%20metallurgy.pdf?alt=media&token=6ca5375d-baf5-481a-9a8d-1a932dd06047"
 
           }
       ]
@@ -424,6 +444,11 @@
               "MN": "Practice Paper 5",
               "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F9.Carbon%20Compounds%2010%20th%20Part%201%20Practice%20%20paper%205.pdf?alt=media&token=784c9817-1d12-4a8f-99e8-15a7edb18de6"
 
+            },
+            {
+              "MN": "Notes on Carbon Compounds",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FNotes%20on%20Carbon%20Compounds%20Class.pdf?alt=media&token=e4975b2e-332a-4570-9152-30abaab68151"
+
             }
         ]
     },
@@ -472,6 +497,11 @@
             {
               "MN": "Practice Paper 2",
               "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F10.Space%20Missions%2010%20th%20Part%201%20Practice%20paper%202.pdf?alt=media&token=15ef5755-ef67-452d-a44d-5cc51d73c77a"
+
+            },
+            {
+              "MN": "Notes on Space Missons",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FNotes%20on%20Sapce%20Missions.pdf?alt=media&token=2ffd3f79-a70f-45d3-96c9-078dbcc6e760"
 
             }
         ]
