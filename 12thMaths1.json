@@ -117,8 +117,18 @@
         ],
         "StudyMaterial":[
             {
-              "MN": "",
-              "ML": ""
+              "MN": "Practice Paper Based on Exercise 2.1",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20based%20on%20exercise%202.1%2012th%20chapter%202%20part%201.pdf?alt=media&token=16af8cda-0390-4417-bcca-a476fadbeba6"
+
+            },
+            {
+              "MN": "Practice Paper Based on Exercise 2.2",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20based%20on%20exercise%202.2%2012th%20chapter%202%20part%201.pdf?alt=media&token=b2cbcc9f-676d-453b-9d60-ee9b07a0aa10"
+
+            },
+            {
+              "MN": "Practice Paper Based on Exercise 2.3",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FPractice%20Paper%20Based%20on%20exercise%202.3%2012th%20Part%201.pdf?alt=media&token=bbe41469-e493-495e-a36c-cf151f1ffd46"
 
             }
         ]
