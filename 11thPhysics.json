@@ -1,6 +1,6 @@
 [
     {
-      "ChapterName": "Units and its Measurement",
+      "ChapterName": "Units and measurement",
       "Videos": [
         {
           "VN": "Part 1",
@@ -73,7 +73,7 @@
     },
 
     {
-        "ChapterName": "Mathematical Method",
+        "ChapterName": "Mathematical method",
         "Videos": [
           {
             "VN": "Part 1",
@@ -186,6 +186,10 @@
       {
         "VN": "Part 3",
         "VL": "https://youtu.be/Tmwpt7738i0"
+      },
+      {
+        "VN": "Part 4",
+        "VL": "https://youtu.be/SUV3aNnPvMc"
       }
     ],
     "StudyMaterial":[
