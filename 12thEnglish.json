@@ -36,5 +36,32 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "On Saying 'Please'",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/cZwETPvaoXo"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/gmCtrJet4E0"
+        },
+        {
+          "VN": "Part 3",
+          "VL": "https://youtu.be/Vt3Nr0r3H6k"
+        },
+        {
+          "VN": "Part 4",
+          "VL": "https://youtu.be/2kmAtJx8_xo"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
