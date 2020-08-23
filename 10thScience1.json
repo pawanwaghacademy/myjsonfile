@@ -293,6 +293,25 @@
         ]
     },
     {
+        "ChapterName": "Refraction of Light",
+        "Videos": [
+          {
+            "VN": "Part 1",
+            "VL": "https://youtu.be/GYlG18i9B2I"
+          }
+
+
+         
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    },
+    {
       "ChapterName": "Metallurgy",
       "Videos": [
         {
