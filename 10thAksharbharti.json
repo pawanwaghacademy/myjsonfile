@@ -1,10 +1,25 @@
 [
-    {
-      "ChapterName": "",
+  {
+    "ChapterName": "मराठी व्याकरण",
+    "Videos": [
+      {
+        "VN": "जाहिरात लेखन #1",
+        "VL": "https://youtu.be/-ak7PYEY6_M"
+      }
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "",
+        "ML": ""
+      }
+    ]
+  },
+  {
+      "ChapterName": "तू बुद्धी दे (प्रार्थना)",
       "Videos": [
         {
-          "VN": "",
-          "VL": ""
+          "VN": "भाग १",
+          "VL": "https://youtu.be/Qb6e3q9Rdks"
         }
       ],
       "StudyMaterial":[
@@ -13,5 +28,77 @@
           "ML": ""
         }
       ]
-    }
+    },
+    {
+        "ChapterName": "संतवाणी",
+        "Videos": [
+          {
+            "VN": "अ] अकीला मी दास तुझा - संत नामदेव",
+            "VL": "https://youtu.be/o9a-GwFISpA"
+          },
+          {
+            "VN": "आ] योगी सर्वकाळ सुखदाता-संत एकनाथ",
+            "VL": "https://youtu.be/o9a-GwFISpA"
+          }
+          
+        ],
+        "StudyMaterial":[
+          {
+            "MN": "",
+            "ML": ""
+          }
+        ]
+      },
+      {
+          "ChapterName": "शाल",
+          "Videos": [
+            {
+              "VN": "भाग १",
+              "VL": "https://youtu.be/7Evm7xhcC8U"
+            }
+            
+          ],
+          "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+            }
+          ]
+        },
+        {
+            "ChapterName": "उपास",
+            "Videos": [
+              {
+                "VN": "भाग १",
+                "VL": "https://youtu.be/jbwEecO2vmM"
+              },
+              {
+                "VN": "भाग २",
+                "VL": "https://youtu.be/C-rNAfX8onw"
+              }
+              
+            ],
+            "StudyMaterial":[
+              {
+                "MN": "",
+                "ML": ""
+              }
+            ]
+          },
+          {
+              "ChapterName": "मोठे होत असलेल्या मुलांनो (स्थूलवाचन)",
+              "Videos": [
+                {
+                  "VN": "भाग १",
+                  "VL": "https://youtu.be/zIWLuG4RwGM"
+                }
+                
+              ],
+              "StudyMaterial":[
+                {
+                  "MN": "",
+                  "ML": ""
+                }
+              ]
+            }
 ]
