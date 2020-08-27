@@ -1,11 +1,38 @@
 [
     {
-      "Date": "",
+      "Date": "12 Aug 2020",
       "Videos": [
         {
-          "VN": "",
-          "VL": ""
+          "VN": "EduNews #1 - Important Update for Class 10th",
+          "VL": "https://youtu.be/Uvr3B4rfZzY"
         }
       ]
+    },
+    {
+        "Date": "20 Aug 2020",
+        "Videos": [
+          {
+            "VN": "EduNews #2 - Good News for Banking Railways and SSC Exams",
+            "VL": "https://youtu.be/ecWhQNoQJfY"
+          }
+        ]
+    },
+    {
+        "Date": "21 Aug 2020",
+        "Videos": [
+          {
+            "VN": "EduNews #3 - New Academic Year January to December",
+            "VL": "https://youtu.be/Uvr3B4rfZzY"
+          }
+        ]
+    },
+    {
+        "Date": "25 Aug 2020",
+        "Videos": [
+          {
+            "VN": "EduNews #4 - Aaditya Thakreyji Letter to PM",
+            "VL": "https://youtu.be/KawJBYHKlCI"
+          }
+        ]
     }
 ]
