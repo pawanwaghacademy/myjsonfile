@@ -77,5 +77,20 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "वस्तू",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/Zp-JwCbF7G8"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
