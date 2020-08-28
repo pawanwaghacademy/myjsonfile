@@ -1,0 +1,42 @@
+[
+    {
+        "title": "ENGLISH",
+        "image": "images/11theng.jpg",
+        "link": "https://raw.githubusercontent.com/pawanwaghacademy/myjsonfile/master/11thEnglish.json"
+    },
+    {
+        "title": "MATHEMATICS - 1",
+        "image": "images/11thM1.jpg",
+        "link": "https://raw.githubusercontent.com/pawanwaghacademy/myjsonfile/master/11thMaths1.json"
+    },
+    {
+        "title": "COM - MATH - 1",
+        "image": "images/11M1C.jpg",
+        "link": "https://raw.githubusercontent.com/pawanwaghacademy/myjsonfile/master/11CommerceM1.json"
+    },
+    {
+        "title": "MATHEMATICS - 2",
+        "image": "images/11thM2.jpg",
+        "link": "https://raw.githubusercontent.com/pawanwaghacademy/myjsonfile/master/11thMaths2.json"
+    },
+    {
+        "title": "COM - MATH - 2",
+        "image": "images/11M2C.jpg",
+        "link": "https://raw.githubusercontent.com/pawanwaghacademy/myjsonfile/master/11CommerceM2.json"
+    },
+    {
+        "title": "PHYSICS",
+        "image": "images/11thPhy.jpg",
+        "link": "https://raw.githubusercontent.com/pawanwaghacademy/myjsonfile/master/11thPhysics.json"
+    },
+    {
+        "title": "CHEMISTRY",
+        "image": "images/11thChem.jpg",
+        "link": "https://raw.githubusercontent.com/pawanwaghacademy/myjsonfile/master/11thChemisrty.json"
+    },
+    {
+        "title": "BIOLOGY",
+        "image": "images/11thBio.jpg",
+        "link": "https://raw.githubusercontent.com/pawanwaghacademy/myjsonfile/master/11thBiology.json"
+    }
+]
