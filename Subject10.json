@@ -1,0 +1,47 @@
+[
+    {
+        "title": "ENGLISH",
+        "image": "images/10theng.jpg",
+        "link": "https://raw.githubusercontent.com/pawanwaghacademy/myjsonfile/master/10thEnglish.json"
+    },
+    {
+        "title": "KUMARBHARTI",
+        "image": "images/10thmar.jpg",
+        "link": "https://raw.githubusercontent.com/pawanwaghacademy/myjsonfile/master/10thMarathi.json"
+    },
+    {
+        "title": "AKSHARBHARTI",
+        "image": "images/10thAksharbharti.jpg",
+        "link": "https://raw.githubusercontent.com/pawanwaghacademy/myjsonfile/master/10thAksharbharti.json"
+    },
+    {
+        "title": "HINDI",
+        "image": "images/10thhinsd.jpg",
+        "link": "https://raw.githubusercontent.com/pawanwaghacademy/myjsonfile/master/10thHindi.json"
+    },
+    {
+        "title": "SANSKRIT",
+        "image": "images/10thsanskrit.jpg",
+        "link": "https://raw.githubusercontent.com/pawanwaghacademy/myjsonfile/master/10thSanskrit.json"
+    },
+    {
+        "title": "MATHEMATICS-1",
+        "image": "images/10thM1.jpg",
+        "link": "https://raw.githubusercontent.com/pawanwaghacademy/myjsonfile/master/10thMaths1.json"
+    },
+    {
+        "title": "MATHEMATICS-2",
+        "image": "images/10thM2.jpg",
+        "link": "https://raw.githubusercontent.com/pawanwaghacademy/myjsonfile/master/10thMaths2.json"
+    },
+    {
+        "title": "SCIENCE-1",
+        "image": "images/10thSci1.jpg",
+        "link": "https://raw.githubusercontent.com/pawanwaghacademy/myjsonfile/master/10thScience1.json"
+    },
+    {
+        "title": "SCIENCE-2",
+        "image": "images/10thSci2.jpg",
+        "link": "https://raw.githubusercontent.com/pawanwaghacademy/myjsonfile/master/10thScience2.json"
+    }
+]
