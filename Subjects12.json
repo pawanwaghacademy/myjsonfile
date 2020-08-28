@@ -1,0 +1,34 @@
+[
+    {
+        "title": "images/12eng.jpg",
+        "image": "images/12eng.jpg"
+    },
+    {
+        "title": "MATHEMATICS - 1",
+        "image": "images/12thM1.jpg"
+    },
+    {
+        "title": "COM - MATH - 1",
+        "image": "images/12M1C.jpg"
+    },
+    {
+        "title": "MATHEMATICS - 2",
+        "image": "images/12thM2.jpg"
+    },
+    {
+        "title": "COM - MATH - 2",
+        "image": "images/12M2C.jpg"
+    },
+    {
+        "title": "PHYSICS",
+        "image": "images/12thPhy.jpg"
+    },
+    {
+        "title": "CHEMISTRY",
+        "image": "images/12thChem.jpg"
+    },
+    {
+        "title": "BIOLOGY",
+        "image": "images/12thBio.jpg"
+    }
+]
