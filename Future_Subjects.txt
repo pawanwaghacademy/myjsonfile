@@ -1,0 +1,171 @@
+12TH
+
+{
+    "title": "MARATHI",
+    "image": "images/12thMarathi.jpg",
+    "link": ""
+}
+
+{
+    "title": "SANSKRIT",
+    "image": "images/12thSanskrit.jpg",
+    "link": ""
+}
+
+{
+    "title": "IT",
+    "image": "images/12thIT.jpg",
+    "link": ""
+}
+
+
+
+
+
+11TH
+
+{
+    "title": "MARATHI",
+    "image": "images/11thMarathiYuvakbharti.jpg",
+    "link": ""
+}
+
+{
+    "title": "SANSKRIT",
+    "image": "images/11thSanskrit.jpg",
+    "link": ""
+}
+
+{
+    "title": "IT",
+    "image": "images/11thIT.jpg",
+    "link": ""
+}
+
+
+
+
+
+10TH
+
+{
+    "title": "ENGLISH",
+    "image": "images/10thEngKumarbharti.jpg",
+    "link": ""
+}
+
+
+
+
+
+9TH
+
+{
+    "title": "ENGLISH",
+    "image": "images/9thEnglishKumarbharti.jpg",
+    "link": ""
+}
+
+
+
+
+
+8TH
+
+{
+    "title": "ENGLISH",
+    "image": "images/8thEnglishCourseBook.jpg",
+    "link": ""
+}
+
+{
+    "title": "ENGLISH_BALBHARTI",
+    "image": "images/8thEnglishBalbharti.jpg",
+    "link": ""
+}
+
+{
+    "title": "MARATHI-SULAB_BHARTI",
+    "image": "images/8thMarathiSulabharti.jpg",
+    "link": ""
+}
+
+{
+    "title": "MARATHI-SUGAM_BHARTI",
+    "image": "images/8thMarathiSugambharti.jpg",
+    "link": ""
+}
+
+{
+    "title": "HINDI-SULAB_BHARTI",
+    "image": "images/8thHindiSulabharti.jpg",
+    "link": ""
+}
+
+{
+    "title": "HINDI-SUGAM_BHARTI",
+    "image": "images/8thHindiSugambharti.jpg",
+    "link": ""
+}
+
+
+
+
+
+7TH
+
+{
+    "title": "ENGLISH",
+    "image": "images/7thMyEng.jpg",
+    "link": ""
+}
+
+{
+    "title": "ENGLISH_BALBHARTI",
+    "image": "images/7thEnglishBalbharti.jpg",
+    "link": ""
+}
+
+{
+    "title": "MARATHI-SULAB_BHARTI",
+    "image": "images/7thMarathiSulabharti.jpg",
+    "link": ""
+}
+
+{
+    "title": "MARATHI-SUGAM_BHARTI",
+    "image": "images/7thMarathiSugambharti.jpg",
+    "link": ""
+}
+
+{
+    "title": "MARATHI-BALBHARTI",
+    "image": "images/7thMarathiBalbharti.jpg",
+    "link": ""
+}
+
+{
+    "title": "HINDI-BALBHARTI",
+    "image": "images/7thHindiBalbharti.jpg",
+    "link": ""
+}
+{
+    "title": "HINDI-SULAB_BHARTI",
+    "image": "images/7thHindiSulabharti.jpg",
+    "link": ""
+}
+
+{
+    "title": "HINDI-SUGAM_BHARTI",
+    "image": "images/7thHindiSugambharti.jpg",
+    "link": ""
+}
+
+{
+    "title": "SCIENCE",
+    "image": "images/7thScience.jpg",
+    "link": ""
+}
+
+
+
