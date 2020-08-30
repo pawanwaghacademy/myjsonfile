@@ -94,5 +94,24 @@
                 "ML": ""
               }
             ]
-          }
+          },
+          {
+              "ChapterName": "Factorisation of Algebraic Expressions",
+              "Videos": [
+                {
+                  "VN": "Practice Set 6.1 Part 1",
+                  "VL": "https://youtu.be/8eqnAyuWckg"
+                },
+                {
+                    "VN": "Practice Set 6.1 Part 2",
+                    "VL": "https://youtu.be/XBwP15KpwG8"
+                }
+              ],
+              "StudyMaterial":[
+                {
+                  "MN": "",
+                  "ML": ""
+                }
+              ]
+            }
 ]
