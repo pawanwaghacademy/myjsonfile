@@ -47,5 +47,24 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "Be Smart.. !",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/FSkYBsA-65I"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/1y3lAklg7w0"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
