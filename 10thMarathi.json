@@ -49,11 +49,56 @@
       ]
     },
     {
+      "ChapterName": "बोलतो मराठी",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/RFK29uWnFao"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "आजी: कुटुंबाच आगळ",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/3yG8JWFQ-q8"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
       "ChapterName": "उत्तमलक्षण (संतकाव्य)",
       "Videos": [
         {
           "VN": "भाग १",
           "VL": "https://youtu.be/3cCNLmEA5gk"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "वसंतहृदय चैत्र",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/djMf78QSIxU"
         }
       ],
       "StudyMaterial":[
