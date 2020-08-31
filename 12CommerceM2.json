@@ -1,10 +1,18 @@
 [
     {
-      "ChapterName": "",
+      "ChapterName": "Commission, Brokerage & Discount",
       "Videos": [
         {
-          "VN": "",
-          "VL": ""
+          "VN": "Exercise 1.1 Part 1",
+          "VL": "https://youtu.be/MLPJ1Xx5xcg"
+        },
+        {
+            "VN": "Exercise 1.1 Part 2",
+            "VL": "https://youtu.be/VVuCvKaz5_E"
+        },
+        {
+            "VN": "Exercise 1.1 Part 3",
+            "VL": "https://youtu.be/0c5-JUS08is"
         }
       ],
       "StudyMaterial":[
