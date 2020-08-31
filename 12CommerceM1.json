@@ -1,11 +1,55 @@
 [
     {
-      "ChapterName": "",
+      "ChapterName": "Mathematical Logic",
       "Videos": [
         {
-          "VN": "",
-          "VL": ""
-        }
+          "VN": "Exercise 1.1",
+          "VL": "https://youtu.be/KqyO_S8kDp4"
+        },
+        {
+            "VN": "Exercise 1.2",
+            "VL": "https://youtu.be/KjjbIXuEDhA"
+          },
+          {
+            "VN": "Exercise 1.3",
+            "VL": "https://youtu.be/m7I-Zh3l840"
+          },
+          {
+            "VN": "Exercise 1.4",
+            "VL": "https://youtu.be/392QQMqYz-w"
+          },
+          {
+            "VN": "Exercise 1.5",
+            "VL": "https://youtu.be/_8i5XzuJOE0"
+          },
+          {
+            "VN": "Exercise 1.6 Part 1",
+            "VL": "https://youtu.be/rbEdhKhzzts"
+          },
+          {
+            "VN": "Exercise 1.6 Part 2",
+            "VL": "https://youtu.be/g6VcHxhCsgE"
+          },
+          {
+            "VN": "Exercise 1.7",
+            "VL": "https://youtu.be/XsZVKptW8uc"
+          },
+          {
+            "VN": "Exercise 1.8 Part 1",
+            "VL": "https://youtu.be/KzSHlQvN2LQ"
+          },
+          {
+            "VN": "Exercise 1.8 Part 2",
+            "VL": "https://youtu.be/EV8Ouc4oLTs"
+          },
+          {
+            "VN": "Exercise 1.9",
+            "VL": "https://youtu.be/38KS9eTgs9s"
+          },
+          {
+            "VN": "Exercise 1.10",
+            "VL": "https://youtu.be/82T6pWQE_vY"
+          }
       ],
       "StudyMaterial":[
         {
@@ -13,5 +57,56 @@
           "ML": ""
         }
       ]
+    },
+    {
+        "ChapterName": "Differentiation",
+        "Videos": [
+          {
+            "VN": "Basics of Differentiation",
+            "VL": "https://youtu.be/Va_Ei90ePu4"
+          },
+          {
+              "VN": "Exercise 3.1",
+              "VL": "https://youtu.be/DeCxadszT_k"
+            },
+            {
+              "VN": "Exercise 3.2",
+              "VL": "https://youtu.be/JS8rzKC_MCA"
+            },
+            {
+              "VN": "Exercise 3.3 Part 1",
+              "VL": "https://youtu.be/K-ZsLKhqwpI"
+            },
+            {
+              "VN": "Exercise 3.3 Part 2",
+              "VL": "https://youtu.be/DyCQ8MlGv2o"
+            },
+            {
+              "VN": "Exercise 3.3 Part 3",
+              "VL": "https://youtu.be/3IqQD13m6o8"
+            },
+            {
+              "VN": "Exercise 3.4 Part 1",
+              "VL": "https://youtu.be/ccvyiSDKgqg"
+            },
+            {
+              "VN": "Exercise 3.4 Part 2",
+              "VL": "https://youtu.be/A8KncCW8a50"
+            },
+            {
+              "VN": "Exercise 3.5",
+              "VL": "https://youtu.be/lXfWydQFQrE"
+            },
+            {
+              "VN": "Exercise 3.6 ",
+              "VL": "https://youtu.be/QMzUaJKflgY"
+            }
+        ],
+        "StudyMaterial":[
+          {
+            "MN": "",
+            "ML": ""
+          }
+        ]
     }
 ]
