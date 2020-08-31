@@ -1,10 +1,38 @@
 [
     {
-      "ChapterName": "",
+      "ChapterName": "Partition Values",
       "Videos": [
         {
-          "VN": "",
-          "VL": ""
+          "VN": "Basic of Exercise 1.1 Part 1",
+          "VL": "https://youtu.be/qnvE0arVHAM"
+        },
+        {
+            "VN": "Basic of Exercise 1.1 Part 2",
+            "VL": "https://youtu.be/7Dz_fupwJHo"
+        },
+        {
+            "VN": "Exercise 1.1 Part 1",
+            "VL": "https://youtu.be/d-bS_UqOa_8"
+        },
+        {
+            "VN": "Exercise 1.1 Part 2",
+            "VL": "https://youtu.be/eSNG5tDmgDA"
+        },
+        {
+            "VN": "Exercise 1.2 Part 1",
+            "VL": "https://youtu.be/77XR3oGT23g"
+        },
+        {
+            "VN": "Exercise 1.2 Part 2",
+            "VL": "https://youtu.be/NlRkNSKpysg"
+        },
+        {
+            "VN": "Exercise 1.2 Part 3",
+            "VL": "https://youtu.be/GYDAxVXB1RE"
+        },
+        {
+            "VN": "Exercise 1.3 Part 1",
+            "VL": "https://youtu.be/Xh5VV5TRhqc"
         }
       ],
       "StudyMaterial":[
@@ -13,5 +41,131 @@
           "ML": ""
         }
       ]
-    }
-]
+    },
+    {
+        "ChapterName": "Measures of Dispersion",
+        "Videos": [
+          {
+            "VN": "Exercise 2.1 Part 1",
+            "VL": "https://youtu.be/5wbfjycd1qg"
+          },
+          {
+              "VN": "Exercise 2.1 Part 2",
+              "VL": "https://youtu.be/QLFb6nnt3hY"
+          },
+          {
+              "VN": "Exercise 2.1 Part 3",
+              "VL": "https://youtu.be/0SUVeVR_usQ"
+          },
+          {
+              "VN": "Exercise 2.2",
+              "VL": "https://youtu.be/mJm82lwAMOY"
+          }
+        ],
+        "StudyMaterial":[
+          {
+            "MN": "",
+            "ML": ""
+          }
+        ]
+      },
+      {
+          "ChapterName": "Permutations and Combinations",
+          "Videos": [
+            {
+              "VN": "Exercise 6.1 Part 1",
+              "VL": "https://youtu.be/9HaIbhngUnA"
+            },
+            {
+                "VN": "Exercise 6.1 Part 2",
+                "VL": "https://youtu.be/cRSizlj0U5o"
+            },
+            {
+              "VN": "Exercise 6.1 Part 3",
+              "VL": "https://youtu.be/pQm5aEQZN-Y"
+            },
+            {
+              "VN": "Exercise 6.2 Part 1",
+              "VL": "https://youtu.be/VofJvz8PGu8"
+            },
+            {
+              "VN": "Exercise 6.2 Part 2",
+              "VL": "https://youtu.be/zoD3JgQ_XZg"
+        
+            },
+            {
+              "VN": "Exercise 6.2 Part 3",
+              "VL": "https://youtu.be/xesVfgWXCmk"
+        
+            },
+            {
+              "VN": "Exercise 6.2 Part 4",
+              "VL": "https://youtu.be/GJYlrS3OAQI"
+        
+            },
+            {
+              "VN": "Exercise 6.3 Part 1",
+              "VL": "https://youtu.be/7UBK5nlGCL4"
+        
+            },
+            {
+                "VN": "Exercise 6.3 Part 2",
+                "VL": "https://youtu.be/hQ0o1Nr8owI"
+            },
+            {
+                "VN": "Exercise 6.3 Part 3",
+                "VL": "https://youtu.be/1PjTalw4J4M"
+            },
+            {
+                "VN": "Exercise 6.3 Part 4",
+                "VL": "https://youtu.be/8jSm0EezqGA"
+            },
+            {
+                "VN": "Exercise 6.3 Part 5",
+                "VL": "https://youtu.be/pODk-55QAiA"
+            },
+            {
+                "VN": "Exercise 6.4 Part 1",
+                "VL": "https://youtu.be/3dxjp2cxRRk"
+            },
+            {
+                "VN": "Exercise 6.4 Part 2",
+                "VL": "https://youtu.be/ULX0ZgmQ0q4"
+            },
+            {
+                "VN": "Exercise 6.4 Part 3",
+                "VL": "https://youtu.be/WsJ16yUPfYo"
+            },
+            {
+                "VN": "Exercise 6.5 Part 1",
+                "VL": "https://youtu.be/iTelm1gZz-U"
+            },
+            {
+                "VN": "Exercise 6.5 Part 2",
+                "VL": "https://youtu.be/AuaH-gsWY4g"
+            },
+            {
+                "VN": "Exercise 6.6 Part 1",
+                "VL": "https://youtu.be/kZS33VB0ggk"
+            },
+            {
+                "VN": "Exercise 6.6 Part 2",
+                "VL": "https://youtu.be/XcyQ5yrwvLA"
+            },
+            {
+                "VN": "Exercise 6.6 Part 3",
+                "VL": "https://youtu.be/4bhGwnW3nU0"
+            },
+            {
+                "VN": "Exercise 6.7 Part 1",
+                "VL": "https://youtu.be/EufmqpFNULU"
+            }
+          ],
+          "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+            }
+          ]
+        }
+    ]
