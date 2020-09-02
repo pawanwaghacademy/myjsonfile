@@ -66,5 +66,24 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "His First Flight",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/rX01juRXLOc"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/yV7ROf00pB0"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
