@@ -191,12 +191,28 @@
         {
           "VN": "Part 4",
           "VL": "https://youtu.be/kz-MdShC9JU"
+        },
+        {
+          "VN": "Part 5",
+          "VL": "https://youtu.be/S4NtwckrhS8"
+        },
+        {
+          "VN": "Part 6",
+          "VL": "https://youtu.be/GSuzvv7DQAI"
         }
       ],
       "StudyMaterial":[
           {
-            "MN": "",
-            "ML": ""
+            "MN": "Practice Paper 1",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F5.%20Towards%20Green%20Energy%2010%20th%20part%202%20Practice%20Paper%201.pdf?alt=media&token=351f4f2b-5e3c-4c9d-8c7a-b6f34cf85e3b"
+          },
+          {
+            "MN": "Practice Paper 2",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F5.%20Towards%20Green%20Energy%2010%20th%20part%202%20Practice%20Paper%202.pdf?alt=media&token=27f279de-f381-492d-bba7-0facc44fab4b"
+          },
+          {
+            "MN": "Practice Paper 3",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F5.%20Towards%20Green%20Energy%2010%20th%20part%202%20Practice%20Paper%203.pdf?alt=media&token=2acfa7c2-ea69-4199-90af-4404dc804783"
           }
       ]
   },
