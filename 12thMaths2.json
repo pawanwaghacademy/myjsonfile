@@ -249,8 +249,23 @@
         ],
         "StudyMaterial":[
             {
-              "MN": "",
-              "ML": ""
+              "MN": "Practice Paper Based on Exercise 2.1",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20based%20on%20exercise%202.1%2012th%20chapter%202%20part%202.pdf?alt=media&token=c5af139f-79ad-41e7-9d1b-2fb87cc79b07"
+
+            },
+            {
+              "MN": "Practice Paper Based on Exercise 2.2",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20based%20on%20exercise%202.2%2012th%20chapter%202%20part%202.pdf?alt=media&token=9c083942-b13e-4aeb-9799-6fc6b58f7b4b"
+
+            },
+            {
+              "MN": "Practice Paper Based on Exercise 2.3",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20based%20on%20exercise%202.3%2012th%20chapter%202%20part%202.pdf?alt=media&token=6a201372-a3f2-46b3-a77e-64b14da902f6"
+
+            },
+            {
+              "MN": "Practice Paper Based on Exercise 2.4",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20based%20on%20exercise%202.4%2012th%20chapter%202%20part%202.pdf?alt=media&token=daabc50e-0c1a-4037-8f63-7114bd902d14"
 
             }
         ]
@@ -354,6 +369,10 @@
           {
             "VN": "Exercise 3.3 Part 6",
             "VL": "https://youtu.be/EDHVEMzNftY"
+          },
+          {
+            "VN": "Exercise 3.3 Part 7",
+            "VL": "https://youtu.be/lFIDGuGukXU"
           }
             
 
@@ -361,8 +380,33 @@
         ],
         "StudyMaterial":[
             {
-              "MN": "",
-              "ML": ""
+              "MN": "Practice Paper Based on Exercise 3.1 Paper 1",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20based%20on%20exercise%203.1%2012th%20chapter%203%20part%202.pdf?alt=media&token=61265a68-4714-430e-8308-45260e1a736f"
+
+            },
+            {
+              "MN": "Practice Paper Based on Exercise 3.2(A) Paper 1",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20based%20on%20exercise%203.1(A)%2012th%20chapter%202%20part%202.pdf?alt=media&token=5419cf54-de2b-4ece-98b1-7e338975462a"
+
+            },
+            {
+              "MN": "Practice Paper Based on Exercise 3.2(B) Paper 1",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20based%20on%20exercise%203.2(B)%2012th%20chapter%203%20part%202.pdf?alt=media&token=6e3ea1d7-361a-4737-9824-db0ba249276c"
+
+            },
+            {
+              "MN": "Practice Paper Based on Exercise 3.2(C) Paper 1",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20based%20on%20exercise%203.2(c)12th%20chapter%203%20part%202.pdf?alt=media&token=26d32370-c369-48cf-8d67-0eb37e2ac0d2"
+
+            },
+            {
+              "MN": "Practice Paper Based on Exercise 3.3 Paper 1",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20based%20on%20exercise%203.3%2012th%20chapter%203%20part%202.pdf?alt=media&token=43760359-7bdc-4430-8a13-c78bf74fc97b"
+
+            },
+            {
+              "MN": "Practice Paper Based on Exercise 3.4 Paper 1",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20based%20on%20exercise%203.4%2012th%20chapter%203%20part%202.pdf?alt=media&token=6d827ae4-1e8a-4e99-8ff2-b8a7d8e65221"
 
             }
         ]
