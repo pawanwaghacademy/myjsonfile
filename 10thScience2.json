@@ -1,258 +1,29 @@
 [
-  {
-    "ChapterName": "Heredity and Evolution",
-    "Videos": [
-      {
-        "VN": "Part 1",
-        "VL": "https://youtu.be/qjMrCUDUGBY"
-      },
-      {
-        "VN": "Part 2",
-        "VL": "https://youtu.be/AJ1RvSccFz8"
-      },
-      {
-        "VN": "Part 3",
-        "VL": "https://youtu.be/XO134oINfDI"
-      },
-      {
-        "VN": "Part 4",
-        "VL": "https://youtu.be/ppZC6zdAfDM"
-      },
-      {
-          "VN": "Part 5",
-          "VL": "https://youtu.be/IaiuOhDSeyg"
-      },
-      {
-          "VN": "Part 6",
-          "VL": "https://youtu.be/oltqQOiX3-c"
-      }
-    ],
-    "StudyMaterial":[
-      {
-        "MN": "Practice Paper 1",
-        "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F1.%20Hearedity%20and%20Evolution%2010th%20part%202%20Practice%20Paper%201.pdf?alt=media&token=6b2dff66-6852-4bc8-8753-da252bb0a419"
-      },
-      {
-        "MN": "Practice Paper 2",
-        "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F1.%20Heredity%20and%20Evolution%2010th%20part%202Practice%20Paper%202.pdf?alt=media&token=58f1ee43-9d6e-4221-8eed-0221f6fcb016"
-      }
-    ]
-  },
-
-  {
-      "ChapterName": "Life Processes in Living Organism Part 1",
+    {
+      "ChapterName": "Energy Flow in an Ecosystem",
       "Videos": [
         {
           "VN": "Part 1",
-          "VL": "https://youtu.be/1wI4iBtQMEI"
+          "VL": "https://youtu.be/e6pDVFo7y7s"
         },
         {
           "VN": "Part 2",
-          "VL": "https://youtu.be/lpcyyhqBr6Q"
+          "VL": "https://youtu.be/dkDWo6GT4yM"
         },
         {
           "VN": "Part 3",
-          "VL": "https://youtu.be/_2HyG2wJd7g"
+          "VL": "https://youtu.be/NvNG6S3pc98"
         },
         {
           "VN": "Part 4",
-          "VL": "https://youtu.be/CL4z0WdCXa4"
-        },
-        {
-          "VN": "Part 5",
-          "VL": "https://youtu.be/3MPwZsW2ZDw"
+          "VL": "https://youtu.be/T3c7paUYSxg"
         }
       ],
       "StudyMaterial":[
-          {
-            "MN": "Practice Paper 1",
-            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F2.%20Life%20Process%20In%20Living%20Oraganism%2010th%20part%202Practice%20Paper%201.pdf?alt=media&token=b23b263c-57f5-4b4e-88eb-5d8c3cadfdba"
-          },
-          {
-            "MN": "Practice Paper 2",
-            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F2.%20Life%20Process%20In%20Living%20%20Oraganism%2010th%20part%202%20Practice%20Paper%202.pdf?alt=media&token=9c278d88-f9bc-4dfb-866e-b6f325f811b5"
-          },
-          {
-            "MN": "Practice Paper 3",
-            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F2.%20Life%20Process%20In%20Living%20Organisum%2010%20th%20part%202%20Practice%20Paper%203.pdf?alt=media&token=c288d6c8-e23f-4627-bc9e-2a56adb8f22b"
-          }
-      ]
-  },
-
-  {
-      "ChapterName": "Life Processes in Living Organism Part 2",
-      "Videos": [
         {
-          "VN": "Part 1",
-          "VL": "https://youtu.be/xq_6ilkzKo4"
-        },
-        {
-          "VN": "Part 2",
-          "VL": "https://youtu.be/lpcyyhqBr6Q"
-        },
-        {
-          "VN": "Part 3",
-          "VL": "https://youtu.be/jPFVupVtkMM"
-        },
-        {
-          "VN": "Part 4",
-          "VL": "https://youtu.be/REOsgArAUKQ"
-        },
-        {
-          "VN": "Part 5",
-          "VL": "https://youtu.be/wA5zi8BaCtU"
-        },
-        {
-          "VN": "Part 6",
-          "VL": "https://youtu.be/A8alBusXxCs"
-        },
-        {
-          "VN": "Part 7",
-          "VL": "https://youtu.be/guPKhqQgw0I"
-        },
-        {
-          "VN": "Part 8",
-          "VL": "https://youtu.be/_U8MeSX-G6A"
+          "MN": "",
+          "ML": ""
         }
-
-      ],
-      "StudyMaterial":[
-          {
-            "MN": "Practice Paper 1",
-            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F3.%20life%20process%20in%20living%20organisum%2010%20th%20Part%202%20%20Practice%20Paper%201.pdf?alt=media&token=073ac91a-5657-4ae4-8ac6-94e05c19571a"
-          },
-          {
-            "MN": "Practice Paper 2",
-            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F3.%20life%20Process%20In%20Living%20Oraganism%2010%20th%20part%202%20%20Practice%20Paper%202.pdf?alt=media&token=2a81c578-6e59-47ba-9411-712b60b87c7a"
-          },
-          {
-            "MN": "Practice Paper 3",
-            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F3.%20Life%20Process%20in%20living%20Organisum%2010%20th%20Part%202%20Practice%20Paper%203.pdf?alt=media&token=5eff4e89-16ec-4b24-bba4-c749ccefb888"
-          },
-          {
-            "MN": "Practice Paper 4",
-            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F3.Life%20Process%20In%20Living%20Organisum%2010%20th%20Part%202%20Practice%20Paper%204.pdf?alt=media&token=d2ab9fef-14f1-497c-aeb5-0ffcb6ca9973"
-          }
       ]
-  },
-  {
-      "ChapterName": "Environmental Management",
-      "Videos": [
-        {
-          "VN": "Part 1",
-          "VL": "https://youtu.be/eZf8pL6e26w"
-        },
-        {
-          "VN": "Part 2",
-          "VL": "https://youtu.be/SU-wFOql7fM"
-        },
-        {
-          "VN": "Part 3",
-          "VL": "https://youtu.be/CEwil-ifUMs"
-        },
-        {
-          "VN": "Part 4",
-          "VL": "https://youtu.be/RLgdF1L6dPg"
-        },
-        {
-          "VN": "Part 5",
-          "VL": "https://youtu.be/I6BmTNXiRTs"
-        }
-      ],
-      "StudyMaterial":[
-          {
-            "MN": "Practice Paper 1",
-            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F4.%20Environmental%20Management%2010th%20part%202%20Practice%20Paper%201.pdf?alt=media&token=d35dc38c-7591-4dfc-a03a-c68f46616816"
-          },
-          {
-            "MN": "Practice Paper 2",
-            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F4.%20Environmental%20Management%2010%20th%20part%202%20%20Practice%20Paper%202.pdf?alt=media&token=b846bffb-53a6-4c32-951d-97de5ce3bcfe"
-          },{
-            "MN": "Practice Paper 3",
-            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F4.%20Environmental%20Management%2010%20th%20part%202%20Practice%20Paper%203.pdf?alt=media&token=4a662afc-e5ea-4103-9051-bfd3ff583fc2"
-          }
-      ]
-  },
-  {
-      "ChapterName": "Towards Green Energy",
-      "Videos": [
-        {
-          "VN": "Part 1",
-          "VL": "https://youtu.be/9qxbY9Ibaf0"
-        },
-        {
-          "VN": "Part 2",
-          "VL": "https://youtu.be/uITNIW47Su4"
-        },
-        {
-          "VN": "Part 3",
-          "VL": "https://youtu.be/4H6EjJIkz7Y"
-        },
-        {
-          "VN": "Part 4",
-          "VL": "https://youtu.be/kz-MdShC9JU"
-        },
-        {
-          "VN": "Part 5",
-          "VL": "https://youtu.be/S4NtwckrhS8"
-        },
-        {
-          "VN": "Part 6",
-          "VL": "https://youtu.be/GSuzvv7DQAI"
-        },
-        {
-          "VN": "Part 7",
-          "VL": "https://youtu.be/LpPDySykkkI"
-        }
-      ],
-      "StudyMaterial":[
-          {
-            "MN": "Practice Paper 1",
-            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F5.%20Towards%20Green%20Energy%2010%20th%20part%202%20Practice%20Paper%201.pdf?alt=media&token=351f4f2b-5e3c-4c9d-8c7a-b6f34cf85e3b"
-          },
-          {
-            "MN": "Practice Paper 2",
-            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F5.%20Towards%20Green%20Energy%2010%20th%20part%202%20Practice%20Paper%202.pdf?alt=media&token=27f279de-f381-492d-bba7-0facc44fab4b"
-          },
-          {
-            "MN": "Practice Paper 3",
-            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F5.%20Towards%20Green%20Energy%2010%20th%20part%202%20Practice%20Paper%203.pdf?alt=media&token=2acfa7c2-ea69-4199-90af-4404dc804783"
-          }
-      ]
-  },
-  {
-      "ChapterName": "Introduction to Microbiology ",
-      "Videos": [
-        {
-          "VN": "Part 1",
-          "VL": "https://youtu.be/KWp12dFaUkM"
-        },
-        {
-          "VN": "Part 2",
-          "VL": "https://youtu.be/_WB0wwEldiA"
-        },
-        {
-          "VN": "Part 3",
-          "VL": "https://youtu.be/S7pvBF_FXgM"
-        },
-        {
-          "VN": "Part 4",
-          "VL": "https://youtu.be/a_ZXP8Rn3fg"
-        }
-      ],
-      "StudyMaterial":[
-          {
-            "MN": "Practice Paper 1",
-            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F7.%20Introdution%20To%20Microbiology%2010%20th%20part%202%20Practice%20Paper%201.pdf?alt=media&token=5540690b-585d-4d1a-b00f-c20e6bae7d63"
-          },
-          {
-            "MN": "Practice Paper 2",
-            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F7.%20Introduation%20To%20Microbiology%2010%20th%20part%202%20Practice%20Paper%202.pdf?alt=media&token=057a86b2-9c86-4187-b94c-6b0573b10c52"
-          },
-          {
-            "MN": "Practice Paper 3",
-            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F7.%20Introduation%20To%20Microbiology%2010%20th%20part%202%20Practice%20Paper%203.pdf?alt=media&token=204767ed-cb73-4821-9c97-5a6fa3271b17"
-          }
-      ]
-  }
+    }
 ]
