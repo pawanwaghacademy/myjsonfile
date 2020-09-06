@@ -108,5 +108,25 @@
                   "ML": ""
                 }
               ]
+            },
+            {
+              "ChapterName": "चुडीवाला",
+              "Videos": [
+                {
+                  "VN": "भाग १",
+                  "VL": "https://youtu.be/FeGBEEe7-n4"
+                },
+                {
+                  "VN": "भाग २",
+                  "VL": "https://youtu.be/FeGBEEe7-n4"
+                }
+                
+              ],
+              "StudyMaterial":[
+                {
+                  "MN": "",
+                  "ML": ""
+                }
+              ]
             }
 ]
