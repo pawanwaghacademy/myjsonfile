@@ -1,5 +1,21 @@
 [
     {
+        "ChapterName": "Mathematics Paper Pattern",
+        "Videos": [
+          {
+            "VN": "12th Maths Paper Pattern",
+            "VL": "https://youtu.be/evGiuf4Xwiw"
+          }
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    },
+    {
       "ChapterName": "Mathematical logic",
       "Videos": [
         {
