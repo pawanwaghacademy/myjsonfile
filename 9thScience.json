@@ -21,8 +21,16 @@
       ],
       "StudyMaterial":[
         {
-          "MN": "",
-          "ML": ""
+          "MN": "Practice Paper 1",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F7.%20Energy%20Flow%20in%20an%20Ecosystem%20Class%209%20th%20science%20Paper%201.pdf?alt=media&token=74a72de2-0c71-43c6-8553-1d9a5b922f23"
+        },
+        {
+          "MN": "Practice Paper 2",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F7.%20Energy%20Flow%20in%20an%20Ecosystem%20Class%209%20th%20science%20Paper%202.pdf?alt=media&token=104f632e-3c45-4337-9cd3-09bce655917c"
+        },
+        {
+          "MN": "Practice Paper 3",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F7.%20Energy%20Flow%20in%20an%20Ecosystem%20Class%209%20th%20science%20Paper%203.pdf?alt=media&token=0dfab848-876c-47b6-b639-bf622fcb1656"
         }
       ]
     },
@@ -32,12 +40,24 @@
         {
           "VN": "Part 1",
           "VL": "https://youtu.be/oKjLtZrpDEU"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/eBLLnVYrFk4"
+        },
+        {
+          "VN": "Part 3",
+          "VL": "https://youtu.be/Pv1CA03QpxY"
         }
       ],
       "StudyMaterial":[
         {
-          "MN": "",
-          "ML": ""
+          "MN": "Practice Paper 1",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F8.%20Useful%20%20and%20Harmful%20Microbes%20%20Class%209%20th%20science%20Paper%201.pdf?alt=media&token=7dc83b86-43d0-405e-a02f-1c5d857ded18"
+        },
+        {
+          "MN": "Practice Paper 2",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F8.%20Useful%20%20and%20Harmful%20Microbes%20%20Class%209%20th%20science%20Paper%202.pdf?alt=media&token=c91164c3-0503-4541-888d-d95388ebc052"
         }
       ]
     }
