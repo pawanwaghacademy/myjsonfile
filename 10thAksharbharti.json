@@ -128,5 +128,21 @@
                   "ML": ""
                 }
               ]
+            },
+            {
+              "ChapterName": "फूटप्रिंटस",
+              "Videos": [
+                {
+                  "VN": "भाग १",
+                  "VL": "https://youtu.be/hW9qJgxaT60"
+                }
+                
+              ],
+              "StudyMaterial":[
+                {
+                  "MN": "",
+                  "ML": ""
+                }
+              ]
             }
 ]
