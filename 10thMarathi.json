@@ -160,5 +160,20 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "वाट पाहताना",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/wRfZx-3Zl7Q"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
