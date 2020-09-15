@@ -228,18 +228,38 @@
           "VL": "https://youtu.be/9Tf-tmxglrA"
         },
         {
-            "VN": "Part 2",
-            "VL": "https://youtu.be/3vi_rSvsLpQ"
+          "VN": "Part 2",
+          "VL": "https://youtu.be/3vi_rSvsLpQ"
         },
         {
-            "VN": "Part 3",
-            "VL": "https://youtu.be/9kiB2VMIDXs"
+          "VN": "Part 3",
+          "VL": "https://youtu.be/9kiB2VMIDXs"
+        },
+        {
+          "VN": "Part 4",
+          "VL": "https://youtu.be/Bn1eFchHO-0"
+        },
+        {
+          "VN": "Part 5",
+          "VL": "https://youtu.be/1ctLZt1__hM"
+        },
+        {
+          "VN": "Part 6",
+          "VL": "https://youtu.be/QrjjTZPP1hM"
         }
       ],
       "StudyMaterial":[
           {
-            "MN": "",
-            "ML": ""
+            "MN": "Practice Paper 1",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F6.%20Animals%20Classification%2010%20th%20part%202%20Practice%20Paper%201.pdf?alt=media&token=0fc027c6-b41e-492f-a21a-245d82828bbd"
+          },
+          {
+            "MN": "Practice Paper 2",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F6.%20Animals%20Classification%2010%20th%20part%202%20Partice%20Paper%202.pdf?alt=media&token=086cb64a-5ac8-498d-9638-f7c8ece1037a"
+          },
+          {
+            "MN": "Practice Paper 3",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F6.%20Animals%20Classification%2010%20th%20part%202%20Practice%20Paper%203.pdf?alt=media&token=0714dd1b-c9bf-45ff-bb70-d8e02cb50788"
           }
       ]
   },
