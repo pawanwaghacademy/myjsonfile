@@ -89,5 +89,24 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "The Boy who Broke The Bank",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/3eKBo5-q1Ls"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/Ev1g3HsX7k8"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
