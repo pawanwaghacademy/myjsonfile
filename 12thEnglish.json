@@ -63,5 +63,24 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "The Cop and The Anthem",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/-ho4VqIAkSo"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/l2yJ6xlnqiI"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
