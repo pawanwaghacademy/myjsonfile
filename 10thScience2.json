@@ -309,5 +309,32 @@
             "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F7.%20Introduation%20To%20Microbiology%2010%20th%20part%202%20Practice%20Paper%203.pdf?alt=media&token=204767ed-cb73-4821-9c97-5a6fa3271b17"
           }
       ]
+  },
+  {
+      "ChapterName": "Cell Biology and Biotechnology",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/MICwBOqPvZI"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/TpQxeAUCNlA"
+        }
+      ],
+      "StudyMaterial":[
+          {
+            "MN": "Practice Paper 1",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F8.%20Cell%20Biology%20and%20Biotechnology%2010%20th%20part%202%20Practice%20Paper%201.pdf?alt=media&token=f23156e6-1697-49ff-8da0-82853e4628ee"
+          },
+          {
+            "MN": "Practice Paper 2",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F8.%20Cell%20Biology%20and%20Biotechnology%2010%20th%20part%202%20Practice%20Paper%202.pdf?alt=media&token=afce4761-d318-4b30-9a3f-4e40d9d17d79"
+          },
+          {
+            "MN": "Practice Paper 3",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F8.%20Cell%20Biology%20and%20Biotechnology%2010%20th%20part%202%20Practice%20paper%203.pdf?alt=media&token=906aacb8-b940-49fd-9be6-efec8059b3f3"
+          }
+      ]
   }
 ]
