@@ -172,5 +172,21 @@
                   "ML": ""
                 }
               ]
+            },
+            {
+              "ChapterName": "जाता अस्ताला (स्थूलवाचन)",
+              "Videos": [
+                {
+                  "VN": "भाग १",
+                  "VL": "https://youtu.be/zwr6z9aPC1g"
+                }
+                
+              ],
+              "StudyMaterial":[
+                {
+                  "MN": "",
+                  "ML": ""
+                }
+              ]
             }
 ]
