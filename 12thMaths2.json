@@ -440,5 +440,33 @@
 
             }
         ]
-    }
+    },
+    {
+      "ChapterName": "Definite Integration",
+      "Videos": [
+        {
+          "VN": "Exercise 4.1",
+          "VL": "https://youtu.be/GlznWHbhZ9M"
+        },
+        {
+          "VN": "Exercise 4.2",
+          "VL": "https://youtu.be/pUu20aZZwsk"
+        }
+          
+
+       
+      ],
+      "StudyMaterial":[
+          {
+            "MN": "Practice Paper Based on Exercise 4.1",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FPractice%20Paper%20Based%20on%20exercise%204.1%2012th%20chapter%204%20part%202.pdf?alt=media&token=db4a8d10-8e88-4c85-a430-15dc5d7c5ade"
+
+          },
+          {
+            "MN": "Practice Paper Based on Exercise 4.2",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FPractice%20Paper%20Based%20on%20exercise%204.2%2012th%20chapter%204%20part%202.pdf?alt=media&token=5a6585ba-f739-410b-8ee3-01a7ecc2f607"
+
+          }
+      ]
+  }
 ]
