@@ -183,5 +183,35 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "आश्वासक चित्र",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/5cDlBgNyxfA"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "आप्पांचे पत्र",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/JeIk3jhTw9E"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
