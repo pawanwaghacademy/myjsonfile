@@ -17,5 +17,20 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "भारत महिमा",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/xPNxVNX-Fvs"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
