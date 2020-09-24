@@ -82,5 +82,20 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "Big Data Big Insights",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/XXK2JejlVQQ"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
