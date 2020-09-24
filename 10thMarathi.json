@@ -213,5 +213,20 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "गोष्ट अरुणमाचि",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/7xIcVGalGNU"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
