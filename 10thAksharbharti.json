@@ -188,5 +188,21 @@
                   "ML": ""
                 }
               ]
+            },
+            {
+              "ChapterName": "औक्षण",
+              "Videos": [
+                {
+                  "VN": "भाग १",
+                  "VL": "https://youtu.be/c3ciAkhNk1E"
+                }
+                
+              ],
+              "StudyMaterial":[
+                {
+                  "MN": "",
+                  "ML": ""
+                }
+              ]
             }
 ]
