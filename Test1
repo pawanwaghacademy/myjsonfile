@@ -26,7 +26,7 @@
     {
         "ForI": "F",
         "title": "MATHEMATICS - 2",
-        "image": "images/12thM2.jpg",
-        "link": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Subject%20Images%2F10th%20marathi%20bhugol.PNG?alt=media&token=6f7964f5-2df0-4e96-aca8-6699bd27d830"
+        "image": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Subject%20Images%2F10th%20marathi%20bhugol.PNG?alt=media&token=6f7964f5-2df0-4e96-aca8-6699bd27d830",
+        "link": "https://raw.githubusercontent.com/pawanwaghacademy/myjsonfile/master/12thMaths2.json"
     }
 ]
