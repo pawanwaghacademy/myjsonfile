@@ -12,6 +12,13 @@
     "link": ""
 }
 
+
+{
+    "title": "SANSKRIT AAHAAD",
+    "image": "images/12thSanskritAahad.PNG",
+    "link": ""
+}
+
 {
     "title": "IT",
     "image": "images/12thIT.jpg",
@@ -54,6 +61,35 @@
     "link": ""
 }
 
+{
+    "title": "BHUGOL",
+    "image": "images/10thMarathiBhugol.PNG",
+    "link": ""
+}
+
+{
+    "title": "Aantarbhaarti MARATHI",
+    "image": "images/10thAantarbhaartiMarathi.PNG",
+    "link": ""
+}
+
+{
+    "title": "Lokvaani Hindi",
+    "image": "images/10thLokvaaniHindi.PNG",
+    "link": ""
+}
+
+{
+    "title": "Kumarbhaarti English",
+    "image": "images/10thKumarbhaartiEnglish.PNG",
+    "link": ""
+}
+
+{
+    "title": "Kumarbhaarti Hindi",
+    "image": "images/10thKumarbhaartiHindi.PNG",
+    "link": ""
+}
 
 
 
@@ -63,6 +99,30 @@
 {
     "title": "ENGLISH",
     "image": "images/9thEnglishKumarbharti.jpg",
+    "link": ""
+}
+
+{
+    "title": "Kumarbhaarti Englsh",
+    "image": "images/9thKumarbhaartiEnglsh.PNG",
+    "link": ""
+}
+
+{
+    "title": "Antarbhaarti Marathi",
+    "image": "images/9thAntarbhaartiMarathi.PNG",
+    "link": ""
+}
+
+{
+    "title": "Kumarbhaarti Hindi",
+    "image": "images/9thKumarbhaartiHindi.PNG",
+    "link": ""
+}
+
+{
+    "title": "Lokvaani Hindi",
+    "image": "images/9thLokvaaniHindi.PNG",
     "link": ""
 }
 
