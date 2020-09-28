@@ -129,5 +129,20 @@
                   "ML": ""
                 }
               ]
-            }
+            },
+            {
+                "ChapterName": "Variation",
+                "Videos": [
+                  {
+                    "VN": "Basic of Exercise 7.1",
+                    "VL": "https://youtu.be/NFE6RhORU_c"
+                  }
+                ],
+                "StudyMaterial":[
+                  {
+                    "MN": "",
+                    "ML": ""
+                  }
+                ]
+              }
 ]
