@@ -40,6 +40,22 @@
         {
           "MN": "Practice Paper Based on Practice Set 1.4",
           "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FPaper%20Based%20on%20Practice%20set%201.4%2010th%20chapter%201%20part%202.pdf?alt=media&token=f0f9ceb5-22f3-4733-bf81-f17a321937f9"
+        },
+        {
+          "MN": "SOlution of Practice Set 1.1",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSolution%20of%20Practice%20Set%201.1%20Geometry.pdf?alt=media&token=6f784832-6784-4011-82fc-1fc1eb20e7dc"
+        },
+        {
+          "MN": "SOlution of Practice Set 1.2",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSolution%20of%20Practice%20Set%201.2%20Geometry.pdf?alt=media&token=65637a63-f7f3-40f5-bbd0-b73b6e788217"
+        },
+        {
+          "MN": "SOlution of Practice Set 1.3",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSolution%20of%20Practice%20Set%201.3%20Geometry.pdf?alt=media&token=92697c0f-f9d5-46be-848d-ccda018044a7"
+        },
+        {
+          "MN": "SOlution of Practice Set 1.4",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSolution%20of%20Practice%20Set%201.4%20Geometry.pdf?alt=media&token=7a75e0a2-108e-4d67-a759-4334ebb813b7"
         }
       ]
     },
@@ -86,6 +102,16 @@
             {
               "MN": "Practice Paper Based on Practice Set 2.2",
               "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FPractice%20Paper%20Based%20on%2010th%20Maths%201%20Chapter%202%20Practice%20set%202.2.pdf?alt=media&token=2c088f2a-708d-4875-9b3b-8661d9e72238"
+
+            },
+            {
+              "MN": "Solution of Practice Set 2.1",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSolution%20of%20Practice%20set%202.1%20Geometry.pdf?alt=media&token=24acf7f1-9593-4ccf-9b85-13a22d28227b"
+
+            },
+            {
+              "MN": "Solution of Practice Set 2.2",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSolution%20of%20practice%20Set%202.2%20Geometry.pdf?alt=media&token=f0079313-b41e-4ff5-bd06-43b0de2e88db"
 
             }
         ]
@@ -166,8 +192,28 @@
         ],
         "StudyMaterial":[
             {
-              "MN": "",
-              "ML": ""
+              "MN": "Solution ofg Practice Set 3.1",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSolution%20of%20Practice%20set%203.1%20Geometry.pdf?alt=media&token=cdefa19f-b443-4bc5-bf6d-2f12998be146"
+
+            },
+            {
+              "MN": "Solution ofg Practice Set 3.2",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSolution%20of%20practice%20Set%203.2%20Geometry.pdf?alt=media&token=d5dbe02b-ecba-4c01-b121-f68704314d9b"
+
+            },
+            {
+              "MN": "Solution ofg Practice Set 3.3",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSolution%20of%20Practice%20Set%203.3%20Geometry.pdf?alt=media&token=ef05b5b1-dba6-4777-93cf-9251d0a17f5d"
+
+            },
+            {
+              "MN": "Solution ofg Practice Set 3.4",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSolution%20of%20Practice%20Set%203.4%20Geometry.pdf?alt=media&token=6c4de963-0c6e-4d20-8192-96dab9765a9b"
+
+            },
+            {
+              "MN": "Solution ofg Practice Set 3.5",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSolution%20of%20Practice%20Set%203.5%20Geometry.pdf?alt=media&token=b8dfde8f-193d-4010-8c39-6e80cfb33558"
 
             }
         ]
