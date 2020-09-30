@@ -17,7 +17,7 @@
     {
       "ChapterName": "An Encounter of a Special Kind",
       "Videos": [
-        {
+        { 
           "VN": "Part 1",
           "VL": "https://youtu.be/BHM6L3_BwNw"
         },
@@ -43,8 +43,8 @@
       ],
       "StudyMaterial":[
         {
-          "MN": "",
-          "ML": ""
+          "MN": "Practice Paper 1",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FBasket%20full%20of%20moonlight%20Paper%201pdf.pdf?alt=media&token=d2f3fb87-b238-4ff4-9403-23e2b302fa02"
         }
       ]
     },
@@ -62,8 +62,8 @@
       ],
       "StudyMaterial":[
         {
-          "MN": "",
-          "ML": ""
+          "MN": "Practice Paper 1",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FBe%20Smart%20Practice%20Paper%201.pdf?alt=media&token=39edb099-fe4e-4e58-ba88-a2b363f8041b"
         }
       ]
     },
