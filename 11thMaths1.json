@@ -65,7 +65,7 @@
           },
           {
             "VN": "Exercise 2.2 Part 2",
-            "VL": "https://youtu.be/lVFiI5e7mew"
+            "VL": "https://youtu.be/XciSdhR9vr0"
           },
           {
             "VN": "Exercise 2.2 Part 3",
@@ -81,8 +81,13 @@
         ],
         "StudyMaterial":[
             {
-              "MN": "",
-              "ML": ""
+              "MN": "Practice Paper Based on Exercise 2.1",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FPractice%20Paper%20Based%20on%20exercise%202.1%2011th%20chapter%202%20part1.pdf?alt=media&token=24bf566f-eb37-42a4-97c2-fce433a2e825"
+
+            },
+            {
+              "MN": "Practice Paper Based on Exercise 2.2",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FPractice%20Paper%20Based%20on%20exercise%202.2%2011th%20chapter%202%20part1.pdf?alt=media&token=2abac17e-a43e-4ac9-9b19-f35b8b845548"
 
             }
         ]
