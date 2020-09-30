@@ -1,5 +1,28 @@
 [
-    {
+  {
+    "ChapterName": "First term Practice Papers",
+    "Videos": [
+      {
+        "VN": "",
+        "VL": ""
+      }
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "Practice Paper 1",
+        "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F10th%20Science%201%20First%20term%20Practice%20Paper%201.pdf?alt=media&token=0ae886c1-7fc0-4d7a-8201-52068a58dc89"
+      },
+      {
+        "MN": "Practice Paper 2",
+        "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F10th%20Science%201%20First%20term%20Practice%20Paper%202.pdf?alt=media&token=b13be019-c561-456a-952b-dbc589490bc4"
+      },
+      {
+        "MN": "Practice Paper 3",
+        "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F10th%20Science%201%20First%20term%20Practice%20Paper%20%203.pdf?alt=media&token=a9606ac9-1788-4511-a4a2-4144239c9272"
+      }
+    ]
+  },
+  {
       "ChapterName": "Gravitation",
       "Videos": [
         {
