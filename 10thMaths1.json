@@ -1,6 +1,26 @@
 [
-    {
-      "ChapterName": "Linear Equation in Two Variables",
+  {
+    "ChapterName": "First term Practice Papers",
+    "Videos": [
+      
+        {
+          "VN": "",
+          "VL": ""
+        }
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "Practice Paper 1",
+        "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F10th%20first%20term%20Algebra%20Paper%201.pdf?alt=media&token=a8454381-bcd6-4171-bcdb-26df4adc8fbf"
+      },
+      {
+        "MN": "Practice Paper 2",
+        "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F10th%20First%20term%20Algebra%20Paper%202.pdf?alt=media&token=38d3c350-8414-4d65-9dc0-d00185e259d0"
+      }
+    ]
+  },
+  {
+      "ChapterName": "Linear Equation in Two Variables ",
       "Videos": [
         {
           "VN": "Practice Set 1.1",
