@@ -356,5 +356,35 @@
             "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F8.%20Cell%20Biology%20and%20Biotechnology%2010%20th%20part%202%20Practice%20paper%203.pdf?alt=media&token=906aacb8-b940-49fd-9be6-efec8059b3f3"
           }
       ]
+  },
+  {
+      "ChapterName": "Important Questions on Ch 5,6,7",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/fjpW8l3iciM"
+        }
+      ],
+      "StudyMaterial":[
+          {
+            "MN": "",
+            "ML": ""
+          }
+      ]
+  },
+  {
+      "ChapterName": "Social Health",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/uYNoT0R5kWw"
+        }
+      ],
+      "StudyMaterial":[
+          {
+            "MN": "",
+            "ML": ""
+          }
+      ]
   }
 ]
