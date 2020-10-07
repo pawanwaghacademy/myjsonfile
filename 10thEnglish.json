@@ -123,5 +123,20 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "An Epitome of Courage",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/cyCPzpL4Mnw"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
