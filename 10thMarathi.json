@@ -3,39 +3,39 @@
       "ChapterName": "मराठी व्याकरण",
       "Videos": [
         {
-          "VN": "जाहिरात लेखन #1",
+          "VN": "जाहिरात लेखन # १",
           "VL": "https://youtu.be/-ak7PYEY6_M"
         },
         {
-          "VN": "बातमी लेखन #2",
+          "VN": "बातमी लेखन #२",
           "VL": "https://youtu.be/4FtO_eQ_Ix0"
         },
         {
-          "VN": "कथालेखन #3",
+          "VN": "कथालेखन #३",
           "VL": "https://youtu.be/chjdDN81Q8U"
         },
         {
-          "VN": "सारांशलेखन #4",
+          "VN": "सारांशलेखन #४",
           "VL": "https://youtu.be/iRoY5hQBOHE"
         },
         {
-          "VN": "निबंधलेखन भाग 1 #5",
+          "VN": "निबंधलेखन भाग १ #५",
           "VL": "https://youtu.be/Gf8C2qC5w0o"
         },
         {
-          "VN": "निबंधलेखन भाग 2 #5",
+          "VN": "निबंधलेखन भाग २ #५",
           "VL": "https://youtu.be/aj7yL_BdsMI"
         },
         {
-          "VN": "पत्रलेखन भाग 1 #6",
+          "VN": "पत्रलेखन भाग १ #६",
           "VL": "https://youtu.be/VZCVlzUVGJY"
         },
         {
-          "VN": "पत्रलेखन(मागणी पत्र) भाग 2 #6",
+          "VN": "पत्रलेखन(मागणी पत्र) भाग २ #६",
           "VL": "https://youtu.be/ZAIwXwUhpIg"
         },
         {
-          "VN": "पत्रलेखन(अनौपचारिक पत्र) भाग 3 #6",
+          "VN": "पत्रलेखन(अनौपचारिक पत्र) भाग ३ #६",
           "VL": "https://youtu.be/By2TC9v-Wp4"
         }
       ],
@@ -244,6 +244,25 @@
         {
           "VN": "भाग १",
           "VL": "https://youtu.be/7xIcVGalGNU"
+        },
+        {
+          "VN": "भाग २",
+          "VL": "https://youtu.be/cm-W2_mIubw"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "मनक्या पेरेन लागा (स्थूलवाचन)",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/vaXUOspJPlU"
         }
       ],
       "StudyMaterial":[
