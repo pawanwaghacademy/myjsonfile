@@ -228,5 +228,21 @@
                   "ML": ""
                 }
               ]
+            },
+            {
+              "ChapterName": "रंग साहित्याचे",
+              "Videos": [
+                {
+                  "VN": "भाग १",
+                  "VL": "https://youtu.be/3JzvE2Kv81I"
+                }
+                
+              ],
+              "StudyMaterial":[
+                {
+                  "MN": "",
+                  "ML": ""
+                }
+              ]
             }
 ]
