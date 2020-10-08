@@ -263,15 +263,19 @@
       "StudyMaterial":[
           {
             "MN": "Practice Paper 1",
-            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F6.%20Animals%20Classification%2010%20th%20part%202%20Practice%20Paper%201.pdf?alt=media&token=0fc027c6-b41e-492f-a21a-245d82828bbd"
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FAnimal%20classification%20pratice%20paper%201.pdf?alt=media&token=e432eeb5-25da-4df6-917a-ac5a1fed3d01"
           },
           {
             "MN": "Practice Paper 2",
-            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F6.%20Animals%20Classification%2010%20th%20part%202%20Partice%20Paper%202.pdf?alt=media&token=086cb64a-5ac8-498d-9638-f7c8ece1037a"
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FAnimal%20Classification%20Practice%20Paper%202.pdf?alt=media&token=d2e362bd-01b5-4785-92dc-0d4e9815370e"
           },
           {
             "MN": "Practice Paper 3",
-            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F6.%20Animals%20Classification%2010%20th%20part%202%20Practice%20Paper%203.pdf?alt=media&token=0714dd1b-c9bf-45ff-bb70-d8e02cb50788"
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FAnimal%20Classification%20Practice%20Paper%203.pdf?alt=media&token=5f36e3ed-1679-4f81-afac-9e732ab07f01"
+          },
+          {
+            "MN": "Practice Paper 4",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FAnimals%20Classification%20Practice%20Paper%204.pdf?alt=media&token=2aeb1a84-d8f0-47c8-899e-a238398adf64"
           }
       ]
   },
@@ -378,6 +382,10 @@
         {
           "VN": "Part 1",
           "VL": "https://youtu.be/uYNoT0R5kWw"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/kc3ZGdP1INQ"
         }
       ],
       "StudyMaterial":[
