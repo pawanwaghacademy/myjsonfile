@@ -43,5 +43,10 @@
         "title": "SCIENCE-2",
         "image": "images/10thSci2.jpg",
         "link": "https://raw.githubusercontent.com/pawanwaghacademy/myjsonfile/master/10thScience2.json"
+    },
+    {
+    "title": "BHUGOL",
+    "image": "images/10thMarathiBhugol.PNG",
+    "link": ""
     }
 ]
