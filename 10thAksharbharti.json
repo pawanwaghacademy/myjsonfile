@@ -248,5 +248,21 @@
                   "ML": ""
                 }
               ]
+            },
+            {
+              "ChapterName": "जंगल डायरी",
+              "Videos": [
+                {
+                  "VN": "भाग १",
+                  "VL": "https://youtu.be/xIlRxjzYd28"
+                }
+                
+              ],
+              "StudyMaterial":[
+                {
+                  "MN": "",
+                  "ML": ""
+                }
+              ]
             }
 ]
