@@ -82,6 +82,21 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "Pillars of Democracy",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/MgQy8y8m_uU"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 
 ]
