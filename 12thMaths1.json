@@ -202,6 +202,27 @@
 
             }
         ]
+    },
+
+    {
+        "ChapterName": "Pair of Straight Lines",
+        "Videos": [
+          {
+            "VN": "Basic of Exercise 4.1",
+            "VL": "https://youtu.be/AgVJWTYTpEg"
+          },
+          {
+            "VN": "Exercise 4.1 Part 1",
+            "VL": "https://youtu.be/Gsclrsp5yhg"
+          }
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
     }
 
 
