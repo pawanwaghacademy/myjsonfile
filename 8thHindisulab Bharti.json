@@ -1,0 +1,63 @@
+[
+    {
+        "ChapterName": "हे मातृभूमि !",
+        "Videos": [
+          {
+            "VN": "भाग १",
+            "VL": "https://youtu.be/gux0BAu-aWo"
+          },
+          {
+            "VN": "भाग २",
+            "VL": "https://youtu.be/gux0BAu-aWo"
+          }
+        ],
+        "StudyMaterial":[
+          {
+            "MN": "",
+            "ML": ""
+          }
+        ]
+    },
+    {
+        "ChapterName": "वारीस कोन ?",
+        "Videos": [
+          {
+            "VN": "भाग १",
+            "VL": "https://youtu.be/vv2FmcaEpWE"
+          },
+          {
+            "VN": "भाग २",
+            "VL": "https://youtu.be/ubJhBnB5ytE"
+          }
+        ],
+        "StudyMaterial":[
+          {
+            "MN": "",
+            "ML": ""
+          }
+        ]
+    },
+    {
+        "ChapterName": "नाखून क्यो बढते है ?",
+        "Videos": [
+          {
+            "VN": "भाग १",
+            "VL": "https://youtu.be/qVkDg7rHgK8"
+          },
+          {
+            "VN": "भाग २",
+            "VL": "https://youtu.be/Zzpdr-cmJ-A"
+          },
+          {
+            "VN": "भाग ३",
+            "VL": "https://youtu.be/raZNOg1vgDE"
+          }
+        ],
+        "StudyMaterial":[
+          {
+            "MN": "",
+            "ML": ""
+          }
+        ]
+    }
+]
