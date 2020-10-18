@@ -125,5 +125,24 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "हास्याचित्रांतली मुलं स्थूलवाचन",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/DDa7j4q-IF8"
+        },
+        {
+          "VN": "भाग २",
+          "VL": "https://youtu.be/equ-A26aSL4"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
