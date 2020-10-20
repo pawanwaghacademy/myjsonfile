@@ -157,5 +157,24 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "Book Review Swami and Friends",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/69rg7UHH6Fk"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/AQuWV1EeRPY"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
