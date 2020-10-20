@@ -59,5 +59,24 @@
             "ML": ""
           }
         ]
+    },
+    {
+        "ChapterName": "गाँव शहर",
+        "Videos": [
+          {
+            "VN": "भाग १",
+            "VL": "https://youtu.be/4Pi8qbfe3xo"
+          },
+          {
+            "VN": "भाग २",
+            "VL": "https://youtu.be/dXda4vEeHBY"
+          }
+        ],
+        "StudyMaterial":[
+          {
+            "MN": "",
+            "ML": ""
+          }
+        ]
     }
 ]
