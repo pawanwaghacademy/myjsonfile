@@ -108,5 +108,20 @@
             "ML": ""
           }
         ]
+    },
+    {
+        "ChapterName": "Applications of Derivatives",
+        "Videos": [
+          {
+            "VN": "Basics of Exercise 4.1",
+            "VL": "https://youtu.be/0lHk7VLxq7E"
+          }
+        ],
+        "StudyMaterial":[
+          {
+            "MN": "",
+            "ML": ""
+          }
+        ]
     }
 ]
