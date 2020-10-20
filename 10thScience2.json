@@ -402,5 +402,24 @@
             "ML": ""
           }
       ]
+  },
+  {
+      "ChapterName": "Disaster Management",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/cWRA5MSTFlE"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/UQP7c2Xb_74"
+        }
+      ],
+      "StudyMaterial":[
+          {
+            "MN": "",
+            "ML": ""
+          }
+      ]
   }
 ]
