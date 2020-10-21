@@ -275,5 +275,20 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "भरत वाक्य",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/lRTAfzNwHao"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
