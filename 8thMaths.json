@@ -156,5 +156,20 @@
                     "ML": ""
                   }
                 ]
-              }
+              },
+              {
+                  "ChapterName": "Discount and Commission",
+                  "Videos": [
+                    {
+                      "VN": "Practice Set 9.1",
+                      "VL": "https://youtu.be/HUGuD7my26Y"
+                    }
+                  ],
+                  "StudyMaterial":[
+                    {
+                      "MN": "",
+                      "ML": ""
+                    }
+                  ]
+                }
 ]
