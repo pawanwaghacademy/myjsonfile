@@ -97,5 +97,20 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "The New Dress",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/wDVWzdujSHU"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
