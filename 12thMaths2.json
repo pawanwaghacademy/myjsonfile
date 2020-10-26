@@ -508,5 +508,28 @@
 
           }
       ]
-  }
+  },
+  {
+    "ChapterName": "Application of Definite Integration",
+    "Videos": [
+      {
+        "VN": "Basic of Exercise 5.1",
+        "VL": "https://youtu.be/Js17kkAL4dw"
+      },
+      {
+        "VN": "Basic of Exercise 5.2",
+        "VL": "https://youtu.be/sOQ1A4PaPec"
+      }
+        
+
+     
+    ],
+    "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+
+        }
+    ]
+}
 ]
