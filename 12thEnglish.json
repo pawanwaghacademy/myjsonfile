@@ -120,5 +120,20 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "Song of the Open Road",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/CsAvt6tu8x0"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
