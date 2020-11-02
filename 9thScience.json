@@ -154,5 +154,28 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "Heredity and Variation",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/VOxcul8w4yA"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/HFiORdxQynQ"
+        },
+        {
+          "VN": "Part 3",
+          "VL": "https://youtu.be/jA-L6BQQKeY"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
