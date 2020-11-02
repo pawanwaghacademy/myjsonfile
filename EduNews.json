@@ -90,7 +90,7 @@
         ]
     },
     {
-        "Date": "21 Oct 2020",
+        "Date": "22 Oct 2020",
         "Videos": [
           {
             "VN": "EduNews #11 - Revised Reduced Syllabus Mathematics Class 9th and 10th",
@@ -99,7 +99,7 @@
         ]
     },
     {
-        "Date": "21 Oct 2020",
+        "Date": "24 Oct 2020",
         "Videos": [
           {
             "VN": "EduNews #12 - 50% Syllabus कम हुआ क्या ये FAKE NEWS है?",
@@ -108,11 +108,20 @@
         ]
     },
     {
-        "Date": "21 Oct 2020",
+        "Date": "25 Oct 2020",
         "Videos": [
           {
             "VN": "EduNews #13 - Important Updates Pune Vidyapeeth and CET Students",
             "VL": "https://youtu.be/MNAfsmv4bxg"
+          }
+        ]
+    },
+    {
+        "Date": "28 Oct 2020",
+        "Videos": [
+          {
+            "VN": "EduNews #14 - 10th and 12th Annual Exam Online???",
+            "VL": "https://youtu.be/BTyWJ7UFp_A"
           }
         ]
     }
