@@ -535,5 +535,24 @@
 
         }
     ]
+},
+{
+  "ChapterName": "Differential Equations",
+  "Videos": [
+    {
+      "VN": "Exercise 6.1 Part 1",
+      "VL": "https://youtu.be/HAfoTyJ8TLY"
+    }
+      
+
+   
+  ],
+  "StudyMaterial":[
+      {
+        "MN": "",
+        "ML": ""
+
+      }
+  ]
 }
 ]
