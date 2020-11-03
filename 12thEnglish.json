@@ -32,8 +32,8 @@
       ],
       "StudyMaterial":[
         {
-          "MN": "",
-          "ML": ""
+          "MN": "Practice Paper 1",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FAn%20Astrologer's%20Day%20Paper%201.pdf?alt=media&token=de0a8435-51f2-49c4-b7f4-12630bb47ad2"
         }
       ]
     },
@@ -80,6 +80,10 @@
         {
           "MN": "Practice Paper 1",
           "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FThe%20Cop%20and%20the%20Anthem%20Practice%20Paper%201.pdf?alt=media&token=450443a4-304b-4308-91d9-a841f50dfbc9"
+        },
+        {
+          "MN": "Practice Paper 2",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FThe%20Cop%20an%20The%20Anthem%20Paper%202.pdf?alt=media&token=38d7947f-b0bd-459d-8569-16390b747cb5"
         }
       ]
     },
