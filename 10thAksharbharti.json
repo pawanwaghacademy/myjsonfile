@@ -1,5 +1,24 @@
 [
   {
+    "ChapterName": "",
+    "Videos": [
+      {
+        "VN": "",
+        "VL": ""
+      }
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "First term Practice Paper 1 (80 Marks)",
+        "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fmarathi%20Akshar%20bharti%20paper.pdf?alt=media&token=22fd7d4c-7236-4582-97ab-b606f199f9b7"
+      },
+      {
+        "MN": "First term Practice Paper 2(80 Marks)",
+        "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FMARATHI%20AKSHAR%20BHARTI%2010TH.pdf?alt=media&token=a7e18b47-a755-4b14-a6fe-14593484cd90"
+      }
+    ]
+  },
+  {
     "ChapterName": "मराठी व्याकरण",
     "Videos": [
       {
@@ -59,6 +78,14 @@
       {
         "MN": "बातमी लेखनाचे नियम आणि प्रश्न नमूना",
         "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F%E0%A4%AC%E0%A4%BE%E0%A4%A4%E0%A4%AE%E0%A5%80%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%A8.pdf?alt=media&token=cafcfde9-2ab1-4e29-b10e-b5a79d673843"
+      },
+      {
+        "MN": "सारांश लेखनाचे नियम आणि प्रश्न नमूना",
+        "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%82%E0%A4%B6%20%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%A8%20.pdf?alt=media&token=795c2f55-2994-4db8-ac92-b1d999c54353"
+      },
+      {
+        "MN": "निबंध लेखनाचे नियम आणि प्रश्न नमूना",
+        "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F%E0%A4%A8%E0%A4%BF%E0%A4%AC%E0%A4%82%E0%A4%A7%20%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%A8.pdf?alt=media&token=7d501e12-6583-4b79-9f9c-ec4e55df2836"
       }
     ]
   },
