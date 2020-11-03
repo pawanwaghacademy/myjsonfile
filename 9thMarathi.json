@@ -171,5 +171,24 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "अभियंत्यांचे दैवत-डॉ. विश्वेश्वरय्या",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/Vwx_zqa7s08"
+        },
+        {
+          "VN": "भाग २",
+          "VL": "https://youtu.be/12ycOjQXvcA"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
