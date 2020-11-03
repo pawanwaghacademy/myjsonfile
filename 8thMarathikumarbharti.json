@@ -55,6 +55,14 @@
         {
           "MN": "बातमी लेखनाचे नियम आणि प्रश्न नमूना",
           "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F%E0%A4%AC%E0%A4%BE%E0%A4%A4%E0%A4%AE%E0%A5%80%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%A8.pdf?alt=media&token=cafcfde9-2ab1-4e29-b10e-b5a79d673843"
+        },
+        {
+          "MN": "सारांश लेखनाचे नियम आणि प्रश्न नमूना",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%82%E0%A4%B6%20%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%A8%20.pdf?alt=media&token=795c2f55-2994-4db8-ac92-b1d999c54353"
+        },
+        {
+          "MN": "निबंध लेखनाचे नियम आणि प्रश्न नमूना",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F%E0%A4%A8%E0%A4%BF%E0%A4%AC%E0%A4%82%E0%A4%A7%20%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%A8.pdf?alt=media&token=7d501e12-6583-4b79-9f9c-ec4e55df2836"
         }
       ]
     },
@@ -132,6 +140,21 @@
         {
           "VN": "भाग २",
           "VL": "https://youtu.be/r6lDqgZw4bs"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "असा रंगारी श्रावण",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/zjDdSGbY7XU"
         }
       ],
       "StudyMaterial":[
