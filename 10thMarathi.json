@@ -325,5 +325,24 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "काळे केस",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/0Ibb7hLl5bo"
+        },
+        {
+          "VN": "भाग २",
+          "VL": "https://youtu.be/XdqnnZrojgM"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
