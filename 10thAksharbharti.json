@@ -307,5 +307,21 @@
                   "ML": ""
                 }
               ]
+            },
+            {
+              "ChapterName": "जगणं कॅक्टसच",
+              "Videos": [
+                {
+                  "VN": "भाग १",
+                  "VL": "https://youtu.be/LSzOwlrgKHQ"
+                }
+                
+              ],
+              "StudyMaterial":[
+                {
+                  "MN": "",
+                  "ML": ""
+                }
+              ]
             }
 ]
