@@ -62,5 +62,20 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "मन",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/1OkDu4YAJXY"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
