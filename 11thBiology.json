@@ -75,5 +75,24 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "Kingdom Animalia",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/k3vg8xT0fmo"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/nEme2xc5cV0"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
