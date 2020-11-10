@@ -139,5 +139,20 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "Indian Weavers",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/rPDxI5QDsW4"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
