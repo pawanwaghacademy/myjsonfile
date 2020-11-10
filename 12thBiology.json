@@ -1,147 +1,106 @@
 [
-
     {
-        "ChapterName": "Reproduction in Lower and Higher Plants",
-        "Videos": [
-          {
-            "VN": "Part 1",
-            "VL": "https://youtu.be/v6yie81hEAQ"
-          },
-          {
-            "VN": "Part 2",
-            "VL": "https://youtu.be/Gbw4_eY6ie0"
-          },
-          {
-            "VN": "Part 3",
-            "VL": "https://youtu.be/ViJczwnzx24"
-          }
-        ],
-        "StudyMaterial":[
-            {
-              "MN": "",
-              "ML": ""
-  
-            }
-        ]
-    },
-    {
-    "ChapterName": "Inheritance and Variation",
-    "Videos": [
-      {
-        "VN": "Part 1",
-        "VL": "https://youtu.be/2ghjxO_voj4"
-      },
-      {
-        "VN": "Part 2",
-        "VL": "https://youtu.be/zIaN5HH2N3I"
-      },
-      {
-        "VN": "Part 3",
-        "VL": "https://youtu.be/nImzWI0tUnw"
-      },
-      {
-        "VN": "Part 4",
-        "VL": "https://youtu.be/_cIVtEytFPw"
-      },
-      {
-          "VN": "Part 5",
-          "VL": "https://youtu.be/MKjUccA7heI"
-        
-      },
-      {
-          "VN": "Part 6",
-          "VL": "https://youtu.be/ouBObskMQjQ"
-        
-      },
-      {
-          "VN": "Part 7",
-          "VL": " https://youtu.be/hbuTL4ElKL0"
-        
-      },
-      {
-          "VN": "Part 8",
-          "VL": "https://youtu.be/q3rBA7Q33l0"
-        
-      },
-      {
-          "VN": "Part 9",
-          "VL": "https://youtu.be/SUFB5p_U9DQ"
-        
-      },
-      {
-          "VN": "Part 10",
-          "VL": "https://youtu.be/LMJCZszTdYg"
-        
-      },
-      {
-          "VN": "Part 11",
-          "VL": "https://youtu.be/TBa4hBgEuAg"
-        
-      },
-      {
-          "VN": "Dout Session 1",
-          "VL": "https://youtu.be/CIvWMYjbD3E"
-        
-      }
-    ],
-    "StudyMaterial":[
-      {
-        "MN": "",
-        "ML": ""
-      }
-    ]
-  },
-
-  {
-      "ChapterName": "Molecular Basis of Inheritance",
+      "ChapterName": "Living World",
       "Videos": [
         {
           "VN": "Part 1",
-          "VL": "https://youtu.be/UWvOVwJ_r98"
+          "VL": "https://youtu.be/Hh1smg77x5c"
         },
         {
           "VN": "Part 2",
-          "VL": "https://youtu.be/G9DD-eSnkPM"
-        },
-        {
-          "VN": "Part 3",
-          "VL": "https://youtu.be/sAqcrok5YW8"
-        },
-        {
-          "VN": "Part 4",
-          "VL": "https://youtu.be/xjdh6v_73H4"
-        },
-        {
-          "VN": "Part 5",
-          "VL": " https://youtu.be/RVgDJ0V_yxQ"
-        }, 
-        {
-          "VN": "Part 6",
-          "VL": "https://youtu.be/W1y_is6gtaw"
-        }, 
-        {
-          "VN": "Part 7",
-          "VL": "https://youtu.be/mqeTfYFi5Ok"
-        }, 
-        {
-          "VN": "Part 8",
-          "VL": "https://youtu.be/mADZBZhwZGw"
-        }, 
-        {
-          "VN": "Part 9",
-          "VL": "https://youtu.be/ptkFK07dgXs"
-        }, 
-        {
-          "VN": "Part 10",
-          "VL": "https://youtu.be/EIc9h2p3I18"
+          "VL": "https://youtu.be/pI9glz5Dh9k"
         }
       ],
       "StudyMaterial":[
-          {
-            "MN": "",
-            "ML": ""
-
-          }
+        {
+          "MN": "",
+          "ML": ""
+        }
       ]
-  }
+    },
+    {
+      "ChapterName": "Systematics of Living Organisms",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/3oRIQd2yyvM"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/DEFm3Dw8-vE"
+        },
+        {
+          "VN": "Part 3",
+          "VL": "https://youtu.be/mgLD629Oiuw"
+        },
+        {
+          "VN": "Part 4",
+          "VL": "https://youtu.be/nuLKe7tzyQY"
+        },
+        {
+          "VN": "Part 5",
+          "VL": "https://youtu.be/XfrWTV37IMA"
+        },
+        {
+          "VN": "Part 6",
+          "VL": "https://youtu.be/DichyXWYRoY"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "Kingdom Plantae",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/Kn2JeLN4Ha8"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/0X0wIiShScI"
+        },
+        {
+          "VN": "Part 3",
+          "VL": "https://youtu.be/mMReU8Q-IrQ"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "Kingdom Animalia",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/k3vg8xT0fmo"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/nEme2xc5cV0"
+        },
+        {
+          "VN": "Part 3",
+          "VL": "https://youtu.be/W49DJjJaD9M"
+        },
+        {
+          "VN": "Part 4",
+          "VL": "https://youtu.be/wIpRF4dBGSM"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    }
 ]
