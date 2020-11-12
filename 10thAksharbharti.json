@@ -76,6 +76,10 @@
       {
         "VN": "निबंधलेखन(वैचारिकलेखन) #8",
         "VL": "https://youtu.be/aPyRzcr0hLI"
+      },
+      {
+        "VN": "रसग्रहण कसे करावे?",
+        "VL": "https://youtu.be/XjmWRewljCI"
       }
     ],
     "StudyMaterial":[
@@ -322,6 +326,22 @@
                 {
                   "VN": "भाग २",
                   "VL": "https://youtu.be/4b_BplzHjkI"
+                }
+                
+              ],
+              "StudyMaterial":[
+                {
+                  "MN": "",
+                  "ML": ""
+                }
+              ]
+            },
+            {
+              "ChapterName": "हिरवंगार झाडासारखं",
+              "Videos": [
+                {
+                  "VN": "भाग १",
+                  "VL": "https://youtu.be/jY5UT5yaZQ4"
                 }
                 
               ],
