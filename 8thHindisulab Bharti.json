@@ -155,6 +155,10 @@
           {
             "VN": "भाग २",
             "VL": "https://youtu.be/YkkAIn7rcuk"
+          },
+          {
+            "VN": "भाग ३",
+            "VL": "https://youtu.be/8_Lauaxe07A"
           }
         ],
         "StudyMaterial":[
@@ -165,6 +169,21 @@
           {
             "MN": "कार्यपत्रिका २",
             "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F%E0%A4%AE%E0%A5%87%E0%A4%B0%E0%A5%87%20%E0%A4%B0%E0%A4%9C%E0%A4%BE%E2%80%8C%20%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A4%AC%20-%20%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE%20%E0%A5%A8.pdf?alt=media&token=0bd3f300-dc25-4b15-96a1-0bfc9d76aa87"
+          }
+        ]
+    },
+    {
+        "ChapterName": "पूर्ण विश्राम",
+        "Videos": [
+          {
+            "VN": "भाग १",
+            "VL": "https://youtu.be/nsDCyaYLUQA"
+          }
+        ],
+        "StudyMaterial":[
+          {
+            "MN": "",
+            "ML": ""
           }
         ]
     }
