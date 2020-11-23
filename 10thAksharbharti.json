@@ -351,5 +351,25 @@
                   "ML": ""
                 }
               ]
+            },
+            {
+              "ChapterName": "बीज पेरले गेल",
+              "Videos": [
+                {
+                  "VN": "भाग १",
+                  "VL": "https://youtu.be/kFdOEfc_Hms"
+                },
+                {
+                  "VN": "भाग २",
+                  "VL": "https://youtu.be/3BuDkt0MfKk"
+                }
+                
+              ],
+              "StudyMaterial":[
+                {
+                  "MN": "",
+                  "ML": ""
+                }
+              ]
             }
 ]
