@@ -142,5 +142,32 @@
             "VL": "https://youtu.be/LD4sIgT-z4c"
           }
         ]
+    },
+    {
+        "Date": "14 Nov 2020",
+        "Videos": [
+          {
+            "VN": "EduNews #17 - School Reopen Important Update",
+            "VL": "https://youtu.be/kAh1fIA7MEw"
+          }
+        ]
+    },
+    {
+        "Date": "20 Nov 2020",
+        "Videos": [
+          {
+            "VN": "EduNews #18 - Latest Update for School Reopen",
+            "VL": "https://youtu.be/DKsAW2ctPK8"
+          }
+        ]
+    },
+    {
+        "Date": "21 Nov 2020",
+        "Videos": [
+          {
+            "VN": "EduNews #19 - Districtwise School Reopen Update",
+            "VL": "https://youtu.be/N9z17yaNVTs"
+          }
+        ]
     }
 ]
