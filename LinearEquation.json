@@ -1,0 +1,123 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"If x = 2k – 1 and y = k is a solution of the equation 3x – 5y – 7 = 0, find the value of k.",
+        "options":
+        [
+            "k = 12",
+            "k = 10",
+            "k = 8",
+            "k = 9"
+        ],
+        "correctAns": "k = 10"
+    },
+    {
+        "QorL":"Q",
+        "question":"If x = 2a + 1 and y = a – 1 is a solution of the equation 2x – 3y + 5 = 0, find the value of a.",
+        "options":
+        [
+            "a = -10",
+            "a = 10",
+            "a = 8",
+            "a = 9"
+        ],
+        "correctAns": "a = -10"
+    },
+    {
+        "QorL":"Q",
+        "question":"Find the value of k, if x = 1, y = 1 is a solution of the equation 2x + 3y = k.",
+        "options":
+        [
+            "k = 3",
+            "k = 6",
+            "k = 5",
+            "k = 4"
+        ],
+        "correctAns": "k = 5"
+    },
+    {
+        "QorL":"Q",
+        "question":"Find the value of k, if x = - k and y = 5/2 is a solution of the equation x + 4y – 7 = 0.",
+        "options":
+        [
+            "k = -2",
+            "k = 4",
+            "k = 3",
+            "k = 2"
+        ],
+        "correctAns": "k = 3"
+    },
+    {
+        "QorL":"Q",
+        "question":"If x = -1, y = 2 is a solution of the equation 3x + 4y = k, find the value of k.",
+        "options":
+        [
+            "k = 5",
+            "k = 8",
+            "k = 3",
+            "k = 7"
+        ],
+        "correctAns": "k = 5"
+    },
+    {
+        "QorL":"Q",
+        "question":"The distance between the graph of the equations x = -3 and x = 2 is",
+        "options":
+        [
+            "1",
+            "2",
+            "3",
+            "5"
+        ],
+        "correctAns": "5"
+    },
+    {
+        "QorL":"Q",
+        "question":"The graph of the linear equation 2x – y = 4 cuts x-axis at",
+        "options":
+        [
+            "(2, 0)",
+            "(-2, 0)",
+            "(0, -4)",
+            "(0, 4)"
+        ],
+        "correctAns": "(2, 0)"
+    },
+    {
+        "QorL":"Q",
+        "question":"The distance between the graphs of the equations y = -1 and y = 3 is",
+        "options":
+        [
+            "2",
+            "4",
+            "3",
+            "1"
+        ],
+        "correctAns": "4"
+    },
+    {
+        "QorL":"Q",
+        "question":"The equation x – 2 = 0 on number line is represented by",
+        "options":
+        [
+            "A line",
+            "A point",
+            "Infinitely many lines",
+            "Two lines"
+        ],
+        "correctAns": "A point"
+    },
+    {
+        "QorL":"Q",
+        "question":"x = 2, y = -1 is a solution of the linear equation",
+        "options":
+        [
+            "x + 2y = 0",
+            "x + 2y = 4",
+            "2x + y = 0",
+            "2x + y = 5"
+        ],
+        "correctAns": "x + 2y = 0"
+    }
+]
