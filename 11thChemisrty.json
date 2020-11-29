@@ -1,10 +1,18 @@
 [
     {
-      "ChapterName": "",
+      "ChapterName": "Some Basic Concepts of Chemistry",
       "Videos": [
         {
-          "VN": "",
-          "VL": ""
+          "VN": "Part 1",
+          "VL": "https://youtu.be/EZgRR8ZppB4"
+        },
+        {
+            "VN": "Part 2",
+            "VL": "https://youtu.be/jcFKttElNQ4"
+        },
+        {
+            "VN": "Part 3",
+            "VL": "https://youtu.be/f5kVm_xq7kc"
         }
       ],
       "StudyMaterial":[
@@ -14,4 +22,5 @@
         }
       ]
     }
+
 ]
