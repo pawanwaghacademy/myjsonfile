@@ -16,6 +16,21 @@
         ]
     },
     {
+      "ChapterName": "Basic of Periodic Table",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/kp94jwHDk8A"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
       "ChapterName": "Solid State",
       "Videos": [
         {
