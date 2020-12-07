@@ -1,6 +1,10 @@
 [
     {
-      "Topic": "Sets",
+      "Topic": "Set Quiz 1",
       "QLink": "https://raw.githubusercontent.com/pawanwaghacademy/IITJEE/main/Sets.json"
+    },
+    {
+      "Topic": "Set Quiz 2",
+      "QLink": "https://raw.githubusercontent.com/pawanwaghacademy/IITJEE/main/SetPaper2.json"
     }
 ]
