@@ -5,6 +5,10 @@
       {
         "VN": "Part 1",
         "VL": "https://youtu.be/5k6qLfbS_l8"
+      },
+      {
+        "VN": "Part 2",
+        "VL": "https://youtu.be/ZHAbeFyGyy4"
       }
     ],
     "StudyMaterial":[
@@ -393,8 +397,16 @@
       ],
       "StudyMaterial":[
           {
-            "MN": "",
-            "ML": ""
+            "MN": "Practice Paper 1",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F9.%20Social%20health%2010%20th%20part%202Practice%20paper%201.pdf?alt=media&token=b73bc181-2df3-4bac-b7bb-207a744cbaf2"
+          },
+          {
+            "MN": "Practice Paper 2",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F9.%20social%20health%2010th%20part%202%20Practice%20paper%202.pdf?alt=media&token=00747719-7963-41d0-afdc-3324116685ed"
+          },
+          {
+            "MN": "Practice Paper 3",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F9.%20Social%20health%2010%20th%20part%202Practice%20paper%203.pdf?alt=media&token=dc12a7d5-895d-4797-b94f-166a01018cdf"
           }
       ]
   },
@@ -424,8 +436,16 @@
       ],
       "StudyMaterial":[
           {
-            "MN": "",
-            "ML": ""
+            "MN": "Practice Paper 1",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FDisaster%20Management%20Paper%201.pdf?alt=media&token=235827ec-3880-4933-a4a5-8f06cef4ad77"
+          },
+          {
+            "MN": "Practice Paper 2",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FDisaster%20Management%20Paper%202.pdf?alt=media&token=d84ebf59-f4a7-4e1e-b465-5a17a9ba49d0"
+          },
+          {
+            "MN": "Practice Paper 3",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FDisaster%20Management%20Paper%203.pdf?alt=media&token=025ea440-47dd-4a4e-ade0-371fee368711"
           }
       ]
   }
