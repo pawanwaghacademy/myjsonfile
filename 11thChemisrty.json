@@ -48,6 +48,26 @@
             "ML": ""
           }
         ]
-      }
+      },
+      {
+          "ChapterName": "Introduction to Analytical Chemistry",
+          "Videos": [
+            {
+              "VN": "Part 1",
+              "VL": "https://youtu.be/a7lg5HRi5XU"
+            },
+            {
+                "VN": "Part 2",
+                "VL": "https://youtu.be/x29-kLLNeV4"
+            }
+          ],
+          "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+            }
+          ]
+        }
+  
 
 ]
