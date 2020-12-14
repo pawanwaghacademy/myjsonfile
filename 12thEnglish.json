@@ -1,46 +1,10 @@
   [
     {
-      "ChapterName": "Grammar",
+      "ChapterName": "How to Score 100 Marks in English",
       "Videos": [
         {
-          "VN": "Report Writing #1",
-          "VL": "https://youtu.be/Wk-roufetks"
-        },
-        {
-          "VN": "Letter Writing #2",
-          "VL": "https://youtu.be/yR2iiY-FgHg"
-        },
-        {
-          "VN": "Active and Passive Voice #3",
-          "VL": "https://youtu.be/XkMpqrmAqho"
-        },
-        {
-          "VN": "Degrees of Comparison #4",
-          "VL": "https://youtu.be/277lPtiNDaA"
-        },
-        {
-          "VN": "Sentences #5",
-          "VL": "https://youtu.be/277lPtiNDaA"
-        },
-        {
-          "VN": "Direct & Indirect Speech #6",
-          "VL": "https://youtu.be/ma94Pn2aclo"
-        },
-        {
-          "VN": "Tenses #7",
-          "VL": "https://youtu.be/ml_GnPSWhJM"
-        },
-        {
-          "VN": "Question Tag #8",
-          "VL": "https://youtu.be/rF_2QFPJubU"
-        },
-        {
-          "VN": "Figure of Speech #9",
-          "VL": "https://youtu.be/IKK8AFHtHuM"
-        },
-        {
-          "VN": "Auxiliary Verbs #10",
-          "VL": "https://youtu.be/w0SlF7EPQTs"
+          "VN": "Part 1",
+          "VL": "https://youtu.be/rN_ptqRMl4w"
         }
       ],
       "StudyMaterial":[
@@ -50,6 +14,61 @@
         }
       ]
     },
+    {
+        "ChapterName": "Grammar",
+        "Videos": [
+          {
+            "VN": "Report Writing #1",
+            "VL": "https://youtu.be/Wk-roufetks"
+          },
+          {
+            "VN": "Letter Writing #2",
+            "VL": "https://youtu.be/yR2iiY-FgHg"
+          },
+          {
+            "VN": "Active and Passive Voice #3",
+            "VL": "https://youtu.be/XkMpqrmAqho"
+          },
+          {
+            "VN": "Degrees of Comparison #4",
+            "VL": "https://youtu.be/277lPtiNDaA"
+          },
+          {
+            "VN": "Sentences #5",
+            "VL": "https://youtu.be/277lPtiNDaA"
+          },
+          {
+            "VN": "Direct & Indirect Speech #6",
+            "VL": "https://youtu.be/ma94Pn2aclo"
+          },
+          {
+            "VN": "Tenses #7",
+            "VL": "https://youtu.be/ml_GnPSWhJM"
+          },
+          {
+            "VN": "Question Tag #8",
+            "VL": "https://youtu.be/rF_2QFPJubU"
+          },
+          {
+            "VN": "Figure of Speech part 1 #9",
+            "VL": "https://youtu.be/IKK8AFHtHuM"
+          },
+          {
+            "VN": "Figure of Speech part 2 #9",
+            "VL": "https://youtu.be/6BBGS0pMa_M"
+          },
+          {
+            "VN": "Auxiliary Verbs #10",
+            "VL": "https://youtu.be/w0SlF7EPQTs"
+          }
+        ],
+        "StudyMaterial":[
+          {
+            "MN": "",
+            "ML": ""
+          }
+        ]
+      },
     {
       "ChapterName": "Marking Scheme",
       "Videos": [
