@@ -1,5 +1,20 @@
 [
-    {
+  {
+    "ChapterName": "How to Score 100 Marks in Science",
+    "Videos": [
+      {
+        "VN": "Part 1",
+        "VL": "https://youtu.be/nTEYIqHhHlw"
+      }
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "",
+        "ML": ""
+      }
+    ]
+  },
+  {
       "ChapterName": "Energy Flow in an Ecosystem",
       "Videos": [
         {
@@ -227,6 +242,10 @@
         {
           "VN": "Part 3",
           "VL": "https://youtu.be/Veh3WjnEQJY"
+        },
+        {
+          "VN": "Part 4",
+          "VL": "https://youtu.be/hfceapu1QsM"
         }
       ],
       "StudyMaterial":[
