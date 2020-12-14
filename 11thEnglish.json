@@ -1,5 +1,20 @@
   [
-    {
+   {
+    "ChapterName": "How to Score 100 Marks in English",
+    "Videos": [
+      {
+        "VN": "Part 1",
+        "VL": "https://youtu.be/rN_ptqRMl4w"
+      }
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "",
+        "ML": ""
+      }
+    ]
+  },
+  {
       "ChapterName": "Grammar",
       "Videos": [
         {
@@ -35,8 +50,12 @@
           "VL": "https://youtu.be/rF_2QFPJubU"
         },
         {
-          "VN": "Figure of Speech #9",
+          "VN": "Figure of Speech part 1 #9",
           "VL": "https://youtu.be/IKK8AFHtHuM"
+        },
+        {
+          "VN": "Figure of Speech part 2 #9",
+          "VL": "https://youtu.be/6BBGS0pMa_M"
         },
         {
           "VN": "Auxiliary Verbs #10",
