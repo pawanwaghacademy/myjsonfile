@@ -44,8 +44,8 @@
         ],
         "StudyMaterial":[
           {
-            "MN": "",
-            "ML": ""
+            "MN": "Notes",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSome%20baic%20concepts%20of%20chemistry.pdf?alt=media&token=1c2934bd-b164-4bc4-8573-19e27b59e5b5"
           }
         ]
       },
@@ -59,6 +59,14 @@
             {
                 "VN": "Part 2",
                 "VL": "https://youtu.be/x29-kLLNeV4"
+            },
+            {
+                "VN": "Part 3",
+                "VL": "https://youtu.be/wmkQZf6IaSc"
+            },
+            {
+                "VN": "Part 4",
+                "VL": "https://youtu.be/hVL9T5G9zSU"
             }
           ],
           "StudyMaterial":[
