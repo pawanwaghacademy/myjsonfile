@@ -280,5 +280,24 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "A Lesson in Life From a Beggar",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/nkkEOJCHCAY"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/-xr1N5t8Fp0"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
