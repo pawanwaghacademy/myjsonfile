@@ -102,6 +102,25 @@
       ]
     },
     {
+      "ChapterName": "Solutions",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/UwTgCDsn0G0"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/LW_bo4GK0RQ"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
       "ChapterName": "Halogen Derivatives",
       "Videos": [
         {
