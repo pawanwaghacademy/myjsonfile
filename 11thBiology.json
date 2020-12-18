@@ -161,5 +161,24 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "Cell Division",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/92cHWBVY7TM"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/XU26_eUrtTY"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
