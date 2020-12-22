@@ -46,6 +46,10 @@
           {
             "MN": "Notes",
             "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSome%20baic%20concepts%20of%20chemistry.pdf?alt=media&token=1b914d81-81fa-4e5c-ad71-b3dc24fd3159"
+          },
+          {
+            "MN": "Practice Paper 1",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSome%20Baic%20Concepts%20Paper%201.pdf?alt=media&token=d71ceef0-0cd6-48f3-84f3-80237ebc20eb"
           }
         ]
       },
@@ -75,6 +79,10 @@
             {
                 "VN": "Part 6",
                 "VL": "https://youtu.be/hYz9gvqiDm8"
+            },
+            {
+                "VN": "Part 7",
+                "VL": "https://youtu.be/zSaX2c5YX_k"
             }
           ],
           "StudyMaterial":[
