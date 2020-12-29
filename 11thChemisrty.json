@@ -83,6 +83,10 @@
             {
                 "VN": "Part 7",
                 "VL": "https://youtu.be/zSaX2c5YX_k"
+            },
+            {
+                "VN": "Part 8",
+                "VL": "https://youtu.be/2BAFV4c6rKM"
             }
           ],
           "StudyMaterial":[
@@ -91,7 +95,22 @@
               "ML": ""
             }
           ]
-        }
+        },
+        {
+            "ChapterName": "Basic Analytical Techniques",
+            "Videos": [
+              {
+                "VN": "Part 1",
+                "VL": "https://youtu.be/RGydKkNj6VY"
+              }
+            ],
+            "StudyMaterial":[
+              {
+                "MN": "",
+                "ML": ""
+              }
+            ]
+          }
   
 
 ]
