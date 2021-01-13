@@ -257,8 +257,12 @@
         "ChapterName": "Vectors",
         "Videos": [
           {
-            "VN": "Basic of Exercise 5.1",
+            "VN": "Basic of Exercise 5.1 Part 1",
             "VL": "https://youtu.be/gpCTzitmUXU"
+          },
+          {
+            "VN": "Basic of Exercise 5.1 Part 2",
+            "VL": "https://youtu.be/48ZOb3zZPwo"
           }
         ],
         "StudyMaterial":[
