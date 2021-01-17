@@ -45,22 +45,6 @@
         {
           "VN": "विराम चिन्हे भाग 1 #7",
           "VL": "https://youtu.be/54KUiDoqXjY"
-        },
-        {
-          "VN": "निबंधलेखन(प्रसंगलेखन) #8",
-          "VL": "https://youtu.be/54KUiDoqXjY"
-        },
-        {
-          "VN": "निबंधलेखन(आत्मकथन) #8",
-          "VL": "https://youtu.be/dmm9QD68ZoM"
-        },
-        {
-          "VN": "निबंधलेखन(वैचारिकलेखन) #8",
-          "VL": "https://youtu.be/aPyRzcr0hLI"
-        },
-        {
-          "VN": "रसग्रहण कसे करावे?",
-          "VL": "https://youtu.be/XjmWRewljCI"
         }
       ],
       "StudyMaterial":[
@@ -140,6 +124,20 @@
       ]
     },
     {
+      "ChapterName": "नात्यांची घट्ट वीण",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/FwCcD0jeo3M"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },{
       "ChapterName": "एक होती समई",
       "Videos": [
         {
@@ -189,7 +187,26 @@
       ]
     },
     {
-      "ChapterName": "अभियंत्यांचे दैवत-डॉ. विश्वेश्वरय्या",
+      "ChapterName": "दुपार",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/uGaaCSSsGkQ"
+        },
+        {
+          "VN": "भाग २",
+          "VL": "https://youtu.be/KOVNWZLS66g"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "अभियंत्यांचे दैवत-डॉ. विश्वेश्वरय्य",
       "Videos": [
         {
           "VN": "भाग १",
@@ -213,6 +230,59 @@
         {
           "VN": "भाग १",
           "VL": "https://youtu.be/gNoEFsg4duE"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "यंत्रांनी केलं बंड",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/NH_UjtkTTjw"
+        },
+        {
+          "VN": "भाग २",
+          "VL": "https://youtu.be/ZZos7pnxCSA"
+        },
+        {
+          "VN": "भाग ३",
+          "VL": "https://youtu.be/qRBk36U1K1I"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "इंग्लंडचा हिवाळा",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/OkE1hj6xYb8"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "मातीची सावली",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/d_lns6sBwmk"
         }
       ],
       "StudyMaterial":[
