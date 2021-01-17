@@ -299,5 +299,62 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "A Lesson in Life From a Beggar",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/nkkEOJCHCAY"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/-xr1N5t8Fp0"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "Stopping by Woods on a Snowy Evening",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/dpPsp91O4X4"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "Lets March",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/HCp2ee0CEjM"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/UcjwFH5YQZg"
+        },
+        {
+          "VN": "Part 3",
+          "VL": "https://youtu.be/SyYn5zD3jXs"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
