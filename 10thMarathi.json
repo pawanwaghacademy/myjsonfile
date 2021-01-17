@@ -271,15 +271,11 @@
       ]
     },
     {
-      "ChapterName": "गोष्ट अरुणमाचि",
+      "ChapterName": "मनक्या पेरेन लागा (स्थूलवाचन)",
       "Videos": [
         {
           "VN": "भाग १",
-          "VL": "https://youtu.be/7xIcVGalGNU"
-        },
-        {
-          "VN": "भाग २",
-          "VL": "https://youtu.be/cm-W2_mIubw"
+          "VL": "https://youtu.be/vaXUOspJPlU"
         }
       ],
       "StudyMaterial":[
@@ -290,11 +286,15 @@
       ]
     },
     {
-      "ChapterName": "मनक्या पेरेन लागा (स्थूलवाचन)",
+      "ChapterName": "गोष्ट अरुणमाचि",
       "Videos": [
         {
           "VN": "भाग १",
-          "VL": "https://youtu.be/vaXUOspJPlU"
+          "VL": "https://youtu.be/7xIcVGalGNU"
+        },
+        {
+          "VN": "भाग २",
+          "VL": "https://youtu.be/cm-W2_mIubw"
         }
       ],
       "StudyMaterial":[
@@ -393,6 +393,21 @@
         {
           "VN": "भाग १",
           "VL": "https://youtu.be/ICsi4ETcN6E"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "सोनाली",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/PTJG0dwVNWc"
         }
       ],
       "StudyMaterial":[
