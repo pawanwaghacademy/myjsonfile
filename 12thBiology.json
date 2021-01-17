@@ -94,6 +94,18 @@
         {
           "VN": "Part 10",
           "VL": "https://youtu.be/F1I23lKnDtI"
+        },
+        {
+          "VN": "Part 11",
+          "VL": "https://youtu.be/lAgUM2jkRZg"
+        },
+        {
+          "VN": "Part 12",
+          "VL": "https://youtu.be/vQ1rc_5vb1M"
+        },
+        {
+          "VN": "Part 13",
+          "VL": "https://youtu.be/hJ86iL9KyIc"
         }
       ],
       "StudyMaterial":[
@@ -103,6 +115,25 @@
 
           }
       ]
+  },
+  {
+    "ChapterName": "Molecular Basis of Inheritance",
+    "Videos": [
+      {
+        "VN": "Part 1",
+        "VL": "https://youtu.be/Pe6UK4xyJZw"
+      },
+      {
+        "VN": "Part 2",
+        "VL": "https://youtu.be/PQT7HuGsPs0"
+      }
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "",
+        "ML": ""
+      }
+    ]
   },
   {
     "ChapterName": "Inheritance and Variation",
@@ -170,58 +201,5 @@
         "ML": ""
       }
     ]
-  },
-
-  {
-      "ChapterName": "Molecular Basis of Inheritance",
-      "Videos": [
-        {
-          "VN": "Part 1",
-          "VL": "https://youtu.be/UWvOVwJ_r98"
-        },
-        {
-          "VN": "Part 2",
-          "VL": "https://youtu.be/G9DD-eSnkPM"
-        },
-        {
-          "VN": "Part 3",
-          "VL": "https://youtu.be/sAqcrok5YW8"
-        },
-        {
-          "VN": "Part 4",
-          "VL": "https://youtu.be/xjdh6v_73H4"
-        },
-        {
-          "VN": "Part 5",
-          "VL": " https://youtu.be/RVgDJ0V_yxQ"
-        }, 
-        {
-          "VN": "Part 6",
-          "VL": "https://youtu.be/W1y_is6gtaw"
-        }, 
-        {
-          "VN": "Part 7",
-          "VL": "https://youtu.be/mqeTfYFi5Ok"
-        }, 
-        {
-          "VN": "Part 8",
-          "VL": "https://youtu.be/mADZBZhwZGw"
-        }, 
-        {
-          "VN": "Part 9",
-          "VL": "https://youtu.be/ptkFK07dgXs"
-        }, 
-        {
-          "VN": "Part 10",
-          "VL": "https://youtu.be/EIc9h2p3I18"
-        }
-      ],
-      "StudyMaterial":[
-          {
-            "MN": "",
-            "ML": ""
-
-          }
-      ]
   }
 ]
