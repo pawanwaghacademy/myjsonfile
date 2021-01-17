@@ -1,201 +1,459 @@
 [
+  {
+    "ChapterName": "How to Score 100 Marks in Science",
+    "Videos": [
+      {
+        "VN": "Part 1",
+        "VL": "https://youtu.be/nTEYIqHhHlw"
+      }
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "",
+        "ML": ""
+      }
+    ]
+  },
+  {
+    "ChapterName": "Mid Section Questions",
+    "Videos": [
+      {
+        "VN": "Chapter 1 to 4",
+        "VL": "https://youtu.be/oSjbR7ljZAM"
+      }
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "",
+        "ML": ""
+      }
+    ]
+  },
+  {
+    "ChapterName": "Heredity and Evolution",
+    "Videos": [
+      {
+        "VN": "Part 1",
+        "VL": "https://youtu.be/5k6qLfbS_l8"
+      },
+      {
+        "VN": "Part 2",
+        "VL": "https://youtu.be/ZHAbeFyGyy4"
+      },
+      {
+        "VN": "Part 3",
+        "VL": "https://youtu.be/1jKk9G7qlmA"
+      },
+      {
+        "VN": "Part 4",
+        "VL": "https://youtu.be/8qL0hSoUBg8"
+      },
+      {
+        "VN": "Part 5",
+        "VL": "https://youtu.be/Ezo43Roph9o"
+      }
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "Practice Paper 1",
+        "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F1.%20Hearedity%20and%20Evolution%2010th%20part%202%20Practice%20Paper%201.pdf?alt=media&token=6b2dff66-6852-4bc8-8753-da252bb0a419"
+      },
+      {
+        "MN": "Practice Paper 2",
+        "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F1.%20Heredity%20and%20Evolution%2010th%20part%202Practice%20Paper%202.pdf?alt=media&token=58f1ee43-9d6e-4221-8eed-0221f6fcb016"
+      }
+    ]
+  },
 
-    {
-        "ChapterName": "Reproduction in Lower and Higher Plants",
-        "Videos": [
-          {
-            "VN": "Part 1",
-            "VL": "https://youtu.be/v6yie81hEAQ"
-          },
-          {
-            "VN": "Part 2",
-            "VL": "https://youtu.be/Gbw4_eY6ie0"
-          },
-          {
-            "VN": "Part 3",
-            "VL": "https://youtu.be/ViJczwnzx24"
-          },
-          {
-            "VN": "Part 4",
-            "VL": "https://youtu.be/k1cZI0v04U0"
-          },
-          {
-            "VN": "Part 5",
-            "VL": "https://youtu.be/C8mhYSkhK0I"
-          },
-          {
-            "VN": "Part 6",
-            "VL": "https://youtu.be/EVN5o8Fp3Xs"
-          },
-          {
-            "VN": "Part 7",
-            "VL": "https://youtu.be/oSEonEWhVEI"
-          },
-          {
-            "VN": "Part 8",
-            "VL": "https://youtu.be/7Xiz2mY9Bv8"
-          },
-          {
-            "VN": "Part 9",
-            "VL": "https://youtu.be/6tNfqJp7t4s"
-          },
-          {
-            "VN": "Part 10",
-            "VL": "https://youtu.be/Da4DQnS9fVc"
-          }
-        ],
-        "StudyMaterial":[
-            {
-              "MN": "",
-              "ML": ""
-  
-            }
-        ]
-    },
-    {
-      "ChapterName": "Reproduction in Lower and Higher Animals",
+  {
+      "ChapterName": "Life Processes in Living Organism Part 1",
       "Videos": [
         {
           "VN": "Part 1",
-          "VL": "https://youtu.be/mtUsFx5dik8"
+          "VL": "https://youtu.be/CB9oS-g4ANA"
         },
         {
           "VN": "Part 2",
-          "VL": "https://youtu.be/MQXJXeLH89A"
+          "VL": "https://youtu.be/HSvD8_NNsAw"
+        }
+      ],
+      "StudyMaterial":[
+          {
+            "MN": "Practice Paper 1",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F2.%20Life%20Process%20In%20Living%20Oraganism%2010th%20part%202Practice%20Paper%201.pdf?alt=media&token=b23b263c-57f5-4b4e-88eb-5d8c3cadfdba"
+          },
+          {
+            "MN": "Practice Paper 2",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F2.%20Life%20Process%20In%20Living%20%20Oraganism%2010th%20part%202%20Practice%20Paper%202.pdf?alt=media&token=9c278d88-f9bc-4dfb-866e-b6f325f811b5"
+          },
+          {
+            "MN": "Practice Paper 3",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F2.%20Life%20Process%20In%20Living%20Organisum%2010%20th%20part%202%20Practice%20Paper%203.pdf?alt=media&token=c288d6c8-e23f-4627-bc9e-2a56adb8f22b"
+          }
+      ]
+  },
+
+  {
+      "ChapterName": "Life Processes in Living Organism Part 2",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/gWtdv-BCWKI"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/BG8zcVkHR7Y"
         },
         {
           "VN": "Part 3",
-          "VL": "https://youtu.be/BZKXPJqNCd4"
+          "VL": "https://youtu.be/-TP9iYtYN9U"
         },
         {
           "VN": "Part 4",
-          "VL": "https://youtu.be/_TFOJpjg5RA"
+          "VL": "https://youtu.be/kTo2xkRJMeo"
         },
         {
           "VN": "Part 5",
-          "VL": "https://youtu.be/-bG8vTZyjKU"
+          "VL": "https://youtu.be/j7Wr41c8v6I"
         },
         {
           "VN": "Part 6",
-          "VL": "https://youtu.be/jY_Pvy0G9X8"
+          "VL": "https://youtu.be/wevxV-u7KbA"
+        }
+        
+
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "Practice Paper 1",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Flife%20process%20part%201.pdf?alt=media&token=586b9fd6-e01a-468a-afc9-4bb36d78114f"
         },
         {
-          "VN": "Part 7",
-          "VL": "https://youtu.be/HPbh0IbSo7I"
+            "MN": "Practice Paper 2",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F3.%20life%20process%20in%20living%20organisum%2010%20th%20Part%202%20%20Practice%20Paper%201.pdf?alt=media&token=073ac91a-5657-4ae4-8ac6-94e05c19571a"
+          },
+          {
+            "MN": "Practice Paper 3",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F3.%20life%20Process%20In%20Living%20Oraganism%2010%20th%20part%202%20%20Practice%20Paper%202.pdf?alt=media&token=2a81c578-6e59-47ba-9411-712b60b87c7a"
+          },
+          {
+            "MN": "Practice Paper 4",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F3.%20Life%20Process%20in%20living%20Organisum%2010%20th%20Part%202%20Practice%20Paper%203.pdf?alt=media&token=5eff4e89-16ec-4b24-bba4-c749ccefb888"
+          },
+          {
+            "MN": "Practice Paper 5",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F3.Life%20Process%20In%20Living%20Organisum%2010%20th%20Part%202%20Practice%20Paper%204.pdf?alt=media&token=d2ab9fef-14f1-497c-aeb5-0ffcb6ca9973"
+          }
+      ]
+  },
+  {
+      "ChapterName": "Environmental Management",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/boMM_43aISw"
         },
         {
-          "VN": "Part 8",
-          "VL": "https://youtu.be/qYXe2Se1x3I"
+          "VN": "Part 2",
+          "VL": "https://youtu.be/2KNvnqRMTfw"
         },
         {
-          "VN": "Part 9",
-          "VL": "https://youtu.be/mC8i308964c"
-        },
+          "VN": "Part 3",
+          "VL": "https://youtu.be/z2VPDt1omrc"
+        }
+      ],
+      "StudyMaterial":[
+          {
+            "MN": "Practice Paper 1",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F4.%20Environmental%20Management%2010th%20part%202%20Practice%20Paper%201.pdf?alt=media&token=d35dc38c-7591-4dfc-a03a-c68f46616816"
+          },
+          {
+            "MN": "Practice Paper 2",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F4.%20Environmental%20Management%2010%20th%20part%202%20%20Practice%20Paper%202.pdf?alt=media&token=b846bffb-53a6-4c32-951d-97de5ce3bcfe"
+          },{
+            "MN": "Practice Paper 3",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F4.%20Environmental%20Management%2010%20th%20part%202%20Practice%20Paper%203.pdf?alt=media&token=4a662afc-e5ea-4103-9051-bfd3ff583fc2"
+          }
+      ]
+  },
+  {
+      "ChapterName": "Important Questions on Ch 2,3,4",
+      "Videos": [
         {
-          "VN": "Part 10",
-          "VL": "https://youtu.be/F1I23lKnDtI"
-        },
-        {
-          "VN": "Part 11",
-          "VL": "https://youtu.be/lAgUM2jkRZg"
-        },
-        {
-          "VN": "Part 12",
-          "VL": "https://youtu.be/vQ1rc_5vb1M"
-        },
-        {
-          "VN": "Part 13",
-          "VL": "https://youtu.be/hJ86iL9KyIc"
+          "VN": "Part 1",
+          "VL": "https://youtu.be/bKBBLA3Z-nY"
         }
       ],
       "StudyMaterial":[
           {
             "MN": "",
             "ML": ""
-
           }
       ]
   },
   {
-    "ChapterName": "Molecular Basis of Inheritance",
-    "Videos": [
-      {
-        "VN": "Part 1",
-        "VL": "https://youtu.be/Pe6UK4xyJZw"
-      }
-    ],
-    "StudyMaterial":[
-      {
-        "MN": "",
-        "ML": ""
-      }
-    ]
+      "ChapterName": "Towards Green Energy",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/9qxbY9Ibaf0"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/uITNIW47Su4"
+        },
+        {
+          "VN": "Part 3",
+          "VL": "https://youtu.be/4H6EjJIkz7Y"
+        },
+        {
+          "VN": "Part 4",
+          "VL": "https://youtu.be/kz-MdShC9JU"
+        },
+        {
+          "VN": "Part 5",
+          "VL": "https://youtu.be/S4NtwckrhS8"
+        },
+        {
+          "VN": "Part 6",
+          "VL": "https://youtu.be/GSuzvv7DQAI"
+        },
+        {
+          "VN": "Part 7",
+          "VL": "https://youtu.be/LpPDySykkkI"
+        }
+      ],
+      "StudyMaterial":[
+          {
+            "MN": "Practice Paper 1",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F5.%20Towards%20Green%20Energy%2010%20th%20part%202%20Practice%20Paper%201.pdf?alt=media&token=351f4f2b-5e3c-4c9d-8c7a-b6f34cf85e3b"
+          },
+          {
+            "MN": "Practice Paper 2",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F5.%20Towards%20Green%20Energy%2010%20th%20part%202%20Practice%20Paper%202.pdf?alt=media&token=27f279de-f381-492d-bba7-0facc44fab4b"
+          },
+          {
+            "MN": "Practice Paper 3",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F5.%20Towards%20Green%20Energy%2010%20th%20part%202%20Practice%20Paper%203.pdf?alt=media&token=2acfa7c2-ea69-4199-90af-4404dc804783"
+          },
+          {
+            "MN": "Practice Paper 4",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F5.Towards%20Green%20Energy%2010th%20Part%202%20Practice%20Paper%204.pdf?alt=media&token=ad105190-0943-4fb0-a0c6-eddef3001f30"
+          }
+      ]
   },
   {
-    "ChapterName": "Inheritance and Variation",
-    "Videos": [
-      {
-        "VN": "Part 1",
-        "VL": "https://youtu.be/2ghjxO_voj4"
-      },
-      {
-        "VN": "Part 2",
-        "VL": "https://youtu.be/zIaN5HH2N3I"
-      },
-      {
-        "VN": "Part 3",
-        "VL": "https://youtu.be/nImzWI0tUnw"
-      },
-      {
-        "VN": "Part 4",
-        "VL": "https://youtu.be/_cIVtEytFPw"
-      },
-      {
+      "ChapterName": "Animal Classification",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/9Tf-tmxglrA"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/3vi_rSvsLpQ"
+        },
+        {
+          "VN": "Part 3",
+          "VL": "https://youtu.be/9kiB2VMIDXs"
+        },
+        {
+          "VN": "Part 4",
+          "VL": "https://youtu.be/Bn1eFchHO-0"
+        },
+        {
           "VN": "Part 5",
-          "VL": "https://youtu.be/MKjUccA7heI"
-        
-      },
-      {
+          "VL": "https://youtu.be/1ctLZt1__hM"
+        },
+        {
           "VN": "Part 6",
-          "VL": "https://youtu.be/ouBObskMQjQ"
-        
-      },
-      {
+          "VL": "https://youtu.be/QrjjTZPP1hM"
+        },
+        {
           "VN": "Part 7",
-          "VL": " https://youtu.be/hbuTL4ElKL0"
-        
-      },
-      {
+          "VL": "https://youtu.be/S4zEd8ZOjlw"
+        },
+        {
           "VN": "Part 8",
-          "VL": "https://youtu.be/q3rBA7Q33l0"
-        
-      },
-      {
-          "VN": "Part 9",
-          "VL": "https://youtu.be/SUFB5p_U9DQ"
-        
-      },
-      {
-          "VN": "Part 10",
-          "VL": "https://youtu.be/LMJCZszTdYg"
-        
-      },
-      {
-          "VN": "Part 11",
-          "VL": "https://youtu.be/TBa4hBgEuAg"
-        
-      },
-      {
-          "VN": "Dout Session 1",
-          "VL": "https://youtu.be/CIvWMYjbD3E"
-        
-      }
-    ],
-    "StudyMaterial":[
-      {
-        "MN": "",
-        "ML": ""
-      }
-    ]
+          "VL": "https://youtu.be/CXNMe2bSnKs"
+        }
+      ],
+      "StudyMaterial":[
+          {
+            "MN": "Practice Paper 1",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FAnimal%20classification%20pratice%20paper%201.pdf?alt=media&token=e432eeb5-25da-4df6-917a-ac5a1fed3d01"
+          },
+          {
+            "MN": "Practice Paper 2",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FAnimal%20Classification%20Practice%20Paper%202.pdf?alt=media&token=d2e362bd-01b5-4785-92dc-0d4e9815370e"
+          },
+          {
+            "MN": "Practice Paper 3",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FAnimal%20Classification%20Practice%20Paper%203.pdf?alt=media&token=5f36e3ed-1679-4f81-afac-9e732ab07f01"
+          },
+          {
+            "MN": "Practice Paper 4",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FAnimals%20Classification%20Practice%20Paper%204.pdf?alt=media&token=2aeb1a84-d8f0-47c8-899e-a238398adf64"
+          }
+      ]
+  },
+  {
+      "ChapterName": "Introduction to Microbiology ",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/XYOVwILEJg4"
+        }
+      ],
+      "StudyMaterial":[
+          {
+            "MN": "Practice Paper 1",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F7.%20Introdution%20To%20Microbiology%2010%20th%20part%202%20Practice%20Paper%201.pdf?alt=media&token=5540690b-585d-4d1a-b00f-c20e6bae7d63"
+          },
+          {
+            "MN": "Practice Paper 2",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F7.%20Introduation%20To%20Microbiology%2010%20th%20part%202%20Practice%20Paper%202.pdf?alt=media&token=057a86b2-9c86-4187-b94c-6b0573b10c52"
+          },
+          {
+            "MN": "Practice Paper 3",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F7.%20Introduation%20To%20Microbiology%2010%20th%20part%202%20Practice%20Paper%203.pdf?alt=media&token=204767ed-cb73-4821-9c97-5a6fa3271b17"
+          }
+      ]
+  },
+  {
+      "ChapterName": "Cell Biology and Biotechnology",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/MICwBOqPvZI"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/TpQxeAUCNlA"
+        },
+        {
+          "VN": "Part 3",
+          "VL": "https://youtu.be/KuUS7UCoq44"
+        },
+        {
+          "VN": "Part 4",
+          "VL": "https://youtu.be/_wKFiyjX-_g"
+        },
+        {
+          "VN": "Part 5",
+          "VL": "https://youtu.be/HHEBdAXmmWQ"
+        },
+        {
+          "VN": "Part 6",
+          "VL": "https://youtu.be/7yBTVtpQ_3c"
+        },
+        {
+          "VN": "Part 7",
+          "VL": "https://youtu.be/C_uFQ035W5o"
+        }
+      ],
+      "StudyMaterial":[
+          {
+            "MN": "Practice Paper 1",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F8.%20Cell%20Biology%20and%20Biotechnology%2010%20th%20part%202%20Practice%20Paper%201.pdf?alt=media&token=f23156e6-1697-49ff-8da0-82853e4628ee"
+          },
+          {
+            "MN": "Practice Paper 2",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F8.%20Cell%20Biology%20and%20Biotechnology%2010%20th%20part%202%20Practice%20Paper%202.pdf?alt=media&token=afce4761-d318-4b30-9a3f-4e40d9d17d79"
+          },
+          {
+            "MN": "Practice Paper 3",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F8.%20Cell%20Biology%20and%20Biotechnology%2010%20th%20part%202%20Practice%20paper%203.pdf?alt=media&token=906aacb8-b940-49fd-9be6-efec8059b3f3"
+          }
+      ]
+  },
+  {
+      "ChapterName": "Important Questions on Ch 5,6,7",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/fjpW8l3iciM"
+        }
+      ],
+      "StudyMaterial":[
+          {
+            "MN": "",
+            "ML": ""
+          }
+      ]
+  },
+  {
+      "ChapterName": "Social Health",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/uYNoT0R5kWw"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/kc3ZGdP1INQ"
+        },
+        {
+          "VN": "Part 3",
+          "VL": "https://youtu.be/yzhxNDLTEbs"
+        },
+        {
+          "VN": "Part 4",
+          "VL": "https://youtu.be/FT5tAUTasXk"
+        }
+      ],
+      "StudyMaterial":[
+          {
+            "MN": "Practice Paper 1",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F9.%20Social%20health%2010%20th%20part%202Practice%20paper%201.pdf?alt=media&token=b73bc181-2df3-4bac-b7bb-207a744cbaf2"
+          },
+          {
+            "MN": "Practice Paper 2",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F9.%20social%20health%2010th%20part%202%20Practice%20paper%202.pdf?alt=media&token=00747719-7963-41d0-afdc-3324116685ed"
+          },
+          {
+            "MN": "Practice Paper 3",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F9.%20Social%20health%2010%20th%20part%202Practice%20paper%203.pdf?alt=media&token=dc12a7d5-895d-4797-b94f-166a01018cdf"
+          }
+      ]
+  },
+  {
+      "ChapterName": "Disaster Management",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/cWRA5MSTFlE"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/UQP7c2Xb_74"
+        },
+        {
+          "VN": "Part 3",
+          "VL": "https://youtu.be/BvcrJQR7H14"
+        },
+        {
+          "VN": "Part 4",
+          "VL": "https://youtu.be/kTY5I4avqO0"
+        },
+        {
+          "VN": "Part 5",
+          "VL": "https://youtu.be/WtcqRHuAsas"
+        }
+      ],
+      "StudyMaterial":[
+          {
+            "MN": "Practice Paper 1",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FDisaster%20Management%20Paper%201.pdf?alt=media&token=7a8ee036-9e50-48ff-939e-4056f0c58bf6"
+          },
+          {
+            "MN": "Practice Paper 2",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FDisaster%20Management%20Paper%202.pdf?alt=media&token=d84ebf59-f4a7-4e1e-b465-5a17a9ba49d0"
+          },
+          {
+            "MN": "Practice Paper 3",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FDisaster%20Management%20Paper%203.pdf?alt=media&token=025ea440-47dd-4a4e-ade0-371fee368711"
+          }
+      ]
   }
 ]
