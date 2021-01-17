@@ -192,6 +192,22 @@
                 }
               ]
             },
+          {
+              "ChapterName": "दोन दिवस",
+              "Videos": [
+                {
+                  "VN": "भाग १",
+                  "VL": "https://youtu.be/9N8E_2LFXXg"
+                }
+                
+              ],
+              "StudyMaterial":[
+                {
+                  "MN": "",
+                  "ML": ""
+                }
+              ]
+            },
             {
               "ChapterName": "चुडीवाला",
               "Videos": [
@@ -362,6 +378,58 @@
                 {
                   "VN": "भाग २",
                   "VL": "https://youtu.be/3BuDkt0MfKk"
+                }
+                
+              ],
+              "StudyMaterial":[
+                {
+                  "MN": "",
+                  "ML": ""
+                }
+              ]
+            },
+            {
+              "ChapterName": "खरा नागरिक",
+              "Videos": [
+                {
+                  "VN": "भाग १",
+                  "VL": "https://youtu.be/vixOsAIUfrU"
+                },
+                {
+                  "VN": "भाग २",
+                  "VL": "https://youtu.be/NRRYzMKQDBk"
+                }
+                
+              ],
+              "StudyMaterial":[
+                {
+                  "MN": "",
+                  "ML": ""
+                }
+              ]
+            },
+            {
+              "ChapterName": "स्वप्न करू साकार",
+              "Videos": [
+                {
+                  "VN": "भाग १",
+                  "VL": "https://youtu.be/hT26UNAdrtM"
+                }
+                
+              ],
+              "StudyMaterial":[
+                {
+                  "MN": "",
+                  "ML": ""
+                }
+              ]
+            },
+            {
+              "ChapterName": "व्युत्पत्ती कोश स्थूलवाचन",
+              "Videos": [
+                {
+                  "VN": "भाग १",
+                  "VL": "https://youtu.be/9OFlvpRIOLc"
                 }
                 
               ],
