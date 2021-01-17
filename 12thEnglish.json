@@ -196,6 +196,29 @@
       ]
     },
     {
+      "ChapterName": "Into the Wild",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/UltYdt5WItM"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/XfblADf9iiQ"
+        },
+        {
+          "VN": "Part 3",
+          "VL": "https://youtu.be/j9bhWQDtOGE"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
       "ChapterName": "Song of the Open Road",
       "Videos": [
         {
@@ -226,19 +249,30 @@
       ]
     },
     {
-      "ChapterName": "Into the Wild",
+      "ChapterName": "The Inchcape Rock",
       "Videos": [
         {
           "VN": "Part 1",
-          "VL": "https://youtu.be/UltYdt5WItM"
+          "VL": "https://youtu.be/fnUIs7E_mWY"
         },
         {
           "VN": "Part 2",
-          "VL": "https://youtu.be/XfblADf9iiQ"
-        },
+          "VL": "https://youtu.be/3uenlQq8K8M"
+        }
+      ],
+      "StudyMaterial":[
         {
-          "VN": "Part 3",
-          "VL": "https://youtu.be/j9bhWQDtOGE"
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "Summary Writing ",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/VqredJkLUI4"
         }
       ],
       "StudyMaterial":[
