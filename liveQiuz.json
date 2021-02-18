@@ -1,123 +1,124 @@
 [
     
     {
-        "QorL":"Q",
-        "question":"5 Books and 7 pens together cost Rs. 79 whereas 7 books and 5 pens together cost Rs. 77, find the total cost of 1 book and 2 pens.",
+        "QorL":"L",
+        "question":"https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.1.png?alt=media&token=4e1b8980-3cae-46cf-ab02-61a7d49b3a4f",
         "options":
         [
-            "Rs. 25",
-            "Rs. 40",
-            "Rs. 30",
-            "Rs. 20"
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.1.OP1.png?alt=media&token=8a2e809b-3394-4495-8a22-f1b19461a2c7",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.1%20OP.2.png?alt=media&token=7b7cd8df-0212-4349-8b76-ba24506248a7",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.1%20OP%203.png?alt=media&token=4e200704-b339-4d7f-b0f1-766e32fc264f",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.1%20OP%204.png?alt=media&token=a0519d3e-097a-43f8-a00f-a19903773a61"
         ],
-        "correctAns": "Rs. 20"
+        "correctAns": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.1%20OP.2.png?alt=media&token=7b7cd8df-0212-4349-8b76-ba24506248a7"
     },
     {
-        "QorL":"Q",
-        "question":"7 audio casettes and 3 video casettes cost Rs. 1110, while 5 audio casettes and 4 video casettes cost Rs. 1350. Find the cost of an audio casette and a video casette.",
+        "QorL":"L",
+        "question":"https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.10.png?alt=media&token=d78429b8-b50f-46f3-981b-ec38eeacaf0b",
         "options":
         [
-            "Audio = Rs. 20, Video = Rs 350",
-            "Audio = Rs. 30, Video = Rs 300",
-            "Audio = Rs. 30, Video = Rs 400",
-            "Audio = Rs. 35, Video = Rs 500"
+        
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.10.2.png?alt=media&token=a77c372a-6a21-4818-9767-aa6c703eea62",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.10%20OP%201.png?alt=media&token=86941139-5b7a-4e72-8a76-76391cd9a79a",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.10%20OP%203.png?alt=media&token=38140533-ac96-43e5-b20d-e4e628a7564c",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.10%20OP%204.png?alt=media&token=aa54c146-07d2-451a-9680-fc4d9e3e4663"
         ],
-        "correctAns": "Audio = Rs. 30, Video = Rs 300"
+        "correctAns": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.10.2.png?alt=media&token=a77c372a-6a21-4818-9767-aa6c703eea62"
     },
     {
-        "QorL":"Q",
-        "question":"3 bags and 4 pens together cost Rs. 257 whereas 4 bags and 3 pens together cost Rs. 324. FInd the total cost of 1 bag and 10 pens.",
+        "QorL":"L",
+        "question":"https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.2.png?alt=media&token=b29d50e8-f973-434a-ba9e-2f6a601c5031",
         "options":
         [
-            "Rs. 155",
-            "Rs. 165",
-            "Rs. 150",
-            "Rs. 170"
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.2%20OP%201.png?alt=media&token=8926a544-924e-4876-b3df-0edcfdca279d",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.2%20OP%203.png?alt=media&token=151d8fc4-9285-4e9d-b8e7-43bd9975197b",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.2%20OP%204.png?alt=media&token=b69106b4-d6b0-4d9f-a409-4919bf066198",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.2%20OP%202.png?alt=media&token=582f4828-8a1f-4a26-9919-ef0a1027a47a"
         ],
-        "correctAns": "Rs. 155"
+        "correctAns": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.2%20OP%202.png?alt=media&token=582f4828-8a1f-4a26-9919-ef0a1027a47a"
     },
     {
-        "QorL":"Q",
-        "question":"3 tables and 5 chairs together cost RS. 3555, while 7 tables and 4 chairs together cost Rs. 5788. Find the cost of a table and that of the chair.",
+        "QorL":"L",
+        "question":"https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.9.png?alt=media&token=a2b380c6-dec3-4e8c-a1e6-464844a2a589",
         "options":
         [
-            "Table = Rs. 645, Chair = Rs 377",
-            "Table = Rs. 650, Chair = Rs 365",
-            "Table = Rs. 660, Chair = Rs 330",
-            "Table = Rs. 640, Chair = Rs 327"
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.9%20OP%201.png?alt=media&token=503957ed-a477-49ce-8d11-692c685be347",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.9%20OP%202.png?alt=media&token=d5182c3b-c827-4484-ac2d-bde9498a91c9",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.9%20OP%204.png?alt=media&token=53e33f35-c4ef-4644-99ec-3ac25f2ed5d3",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.9%20OP%203.png?alt=media&token=cbec8388-41d3-4a65-8df2-066a282ac3f9"
         ],
-        "correctAns": "Table = Rs. 640, Chair = Rs 327"
+        "correctAns": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.9%20OP%203.png?alt=media&token=cbec8388-41d3-4a65-8df2-066a282ac3f9"
     },
     {
-        "QorL":"Q",
-        "question":"The sum of two numbers is 128 and their difference is 16. Find the numbers.",
+        "QorL":"L",
+        "question":"https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.3.png?alt=media&token=9a140cb3-aabf-4858-afc2-67e1ababb662",
         "options":
         [
-            "70 and 66",
-            "75 and 50",
-            "72 and 56",
-            "82 and 60"
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.3%20OP%201.png?alt=media&token=9899b095-7a64-4487-957b-39adbed8d07e",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.3%20OP%203.png?alt=media&token=db5e2be5-ca7c-4f4d-b269-346fe4ea295b",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.3%20OP%202.png?alt=media&token=9daaadfb-de8c-46b4-b917-d6e929253df7",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.3%20OP%204.png?alt=media&token=4b4e257d-dc8b-4391-af84-13ef9c28df8b"
         ],
-        "correctAns": "72 and 56"
+        "correctAns": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.3%20OP%202.png?alt=media&token=9daaadfb-de8c-46b4-b917-d6e929253df7"
     },
     {
-        "QorL":"Q",
-        "question":"Two numbers differ by 3 and their product is 52. Find the numbers.",
+        "QorL":"L",
+        "question":"https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.8.png?alt=media&token=137e48d3-7fad-416d-8e57-ca7ad0832eee",
         "options":
         [
-            "9 and 6",
-            "6 and 9",
-            "10 and 12",
-            "15 and 9"
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.8%20OP%201.png?alt=media&token=e13d4e30-20e7-4a66-91a9-5b7e6a9dd886",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.8%20OP%203.png?alt=media&token=fffb0847-038a-45e0-af91-6d23e44f62e4",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.8%20OP%204.png?alt=media&token=c37ae317-c6f8-4652-bd63-7d62d861c2f1",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.8%20OP%202.png?alt=media&token=4fa7813f-2186-4ca8-8ebb-7f9793a895b1"
         ],
-        "correctAns": "9 and 6"
+        "correctAns": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.8%20OP%203.png?alt=media&token=fffb0847-038a-45e0-af91-6d23e44f62e4"
     },
     {
-        "QorL":"Q",
-        "question":"The age of father is 3 years more than 3 times the son's age. 3 years hence, the age of the father will be 10 years more than twice the age of the son. Find the present age of son?",
+        "QorL":"L",
+        "question":"https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.4.png?alt=media&token=74da08b3-e152-426b-a589-4a621a89eb53",
         "options":
         [
-            "11 years",
-            "12 years",
-            "10 years",
-            "15 years"
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.4.op1.png?alt=media&token=33d32dc4-78ec-433f-afe0-7c6c4cb1f565",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.4.Op2.png?alt=media&token=a9f24f8a-2367-4a7d-b3ff-9353f0e99b75",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.4.op3.png?alt=media&token=e5716b34-e81a-4040-a1f0-8783cd5f8e96",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.op4.png?alt=media&token=a4c64c76-50aa-4e23-a145-b1d8b6e9fca6"
         ],
-        "correctAns": "10 years"
+        "correctAns": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.4.op1.png?alt=media&token=33d32dc4-78ec-433f-afe0-7c6c4cb1f565"
     },
     {
-        "QorL":"Q",
-        "question":"The sum of a two digit number and the number obtained by reversing the order of its digits is 165. If the digits differ by 3. Find the number.",
+        "QorL":"L",
+        "question":"https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.7.png?alt=media&token=076ebb21-abea-4ab8-b4d9-c5c5b49dd07c",
         "options":
         [
-            "69",
-            "60",
-            "59",
-            "40"
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.7%20OP%201.png?alt=media&token=723b2f7f-4ece-4098-9d5f-4f389b6aa394",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.7%20OP%202.png?alt=media&token=a90e2b53-88b5-4adb-a291-705027907d33",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.7%20OP%203.png?alt=media&token=7f6df78b-08a7-40c7-b5c5-f28bd2c9cd81",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.7%20OP%204.png?alt=media&token=43cbf6c9-df82-4392-8018-a67cb60c877a"
         ],
-        "correctAns": "69"
+        "correctAns": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.7%20OP%201.png?alt=media&token=723b2f7f-4ece-4098-9d5f-4f389b6aa394"
     },
     {
-        "QorL":"Q",
-        "question":"A two digit number is four times the sum of its digits and twice the product of the digits. Find the number.",
+        "QorL":"L",
+        "question":"https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.5.png?alt=media&token=6f3e4e68-61b2-4c35-8b0c-ab8a43014de9",
         "options":
         [
-            "40",
-            "36",
-            "45",
-            "30"
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.5%20OP%201.png?alt=media&token=8eed5bb7-d5a7-422d-bf46-85b6c0942ab0",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.5%20OP%202.png?alt=media&token=f3572efe-1fdf-4768-9a7b-21d93b5f52a1",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.5%20OP%203.png?alt=media&token=1b4ba11d-4a60-4a4c-b485-aa704406d028",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.5%20OP%204.png?alt=media&token=fedc979f-dcb2-4f73-a877-a47a3c36093c"
         ],
-        "correctAns": "36"
+        "correctAns": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.5%20OP%201.png?alt=media&token=8eed5bb7-d5a7-422d-bf46-85b6c0942ab0"
     },
     {
-        "QorL":"Q",
-        "question":"The sum of the numerator and denominator of a fraction is 4 more than twice the numerator. If the numerator and denomenator are increased by 3, they are in ratio 2:3. determine the fractions.",
+        "QorL":"L",
+        "question":"https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.6.png?alt=media&token=7f905ed0-7bd7-494e-a1c1-662223856b76",
         "options":
         [
-            "x/y = 6/9",
-            "x/y = 5/10",
-            "x/y = 3/9",
-            "x/y = 5/9"
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.6%20OP%201.png?alt=media&token=5d18a04d-3dcf-46a5-b599-d5fb98349311",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.6%20OP%202.png?alt=media&token=5f9bec90-4554-4182-9c59-a7d982f5541f",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.6%20OP%203.png?alt=media&token=158715e8-c6f9-4705-a1e3-25e9b3bb8f33",
+            "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.6%20OP%204.png?alt=media&token=34ba0d9c-bf55-4c06-8a3c-1812e73c2006"
         ],
-        "correctAns": "x/y = 5/9"
+        "correctAns": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Live%20Quiz%20Questions%2FQ.6%20OP%202.png?alt=media&token=5f9bec90-4554-4182-9c59-a7d982f5541f"
     }
 ]
