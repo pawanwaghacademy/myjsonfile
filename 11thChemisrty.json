@@ -173,6 +173,14 @@
               {
                 "VN": "Part 9",
                 "VL": "https://youtu.be/IKc8ateP-XM"
+              },
+              {
+                "VN": "Part 10",
+                "VL": "https://youtu.be/yz9t__A66YU"
+              },
+              {
+                "VN": "Part 11",
+                "VL": "https://youtu.be/1560hK0l_cI"
               }
             ],
             "StudyMaterial":[
@@ -181,7 +189,77 @@
                 "ML": ""
               }
             ]
-          }
+          },
+          {
+              "ChapterName": "Chemical Bonding",
+              "Videos": [
+                {
+                  "VN": "Part 1",
+                  "VL": "https://youtu.be/u-Mx67wMkkk"
+                },
+                {
+                  "VN": "Part 2",
+                  "VL": "https://youtu.be/SP_8cdCgCnM"
+                },
+                {
+                  "VN": "Part 3",
+                  "VL": "https://youtu.be/5fTV6Jzo4_Q"
+                },
+                {
+                  "VN": "Part 4",
+                  "VL": "https://youtu.be/qeOnY3XuTko"
+                },
+                {
+                  "VN": "Part 5",
+                  "VL": "https://youtu.be/p5ytLvVIQaU"
+                },
+                {
+                  "VN": "Part 6",
+                  "VL": "https://youtu.be/l7qxNc1eh4c"
+                },
+                {
+                  "VN": "Part 7",
+                  "VL": "https://youtu.be/PSRwQY_xg7A"
+                },
+                {
+                  "VN": "Part 8",
+                  "VL": "https://youtu.be/MAB-jqnuxOM"
+                },
+                {
+                  "VN": "Part 9",
+                  "VL": "https://youtu.be/dFP0VxKCovQ"
+                },
+                {
+                  "VN": "Part 10",
+                  "VL": "https://youtu.be/VP5coV5KZ7w"
+                }
+              ],
+              "StudyMaterial":[
+                {
+                  "MN": "",
+                  "ML": ""
+                }
+              ]
+            },
+          {
+              "ChapterName": "Redox Reaction",
+              "Videos": [
+                {
+                  "VN": "Part 1",
+                  "VL": "https://youtu.be/8wpvya5PAAU"
+                },
+                {
+                  "VN": "Part 2",
+                  "VL": "https://youtu.be/gja6Rkw_l4Q"
+                }
+              ],
+              "StudyMaterial":[
+                {
+                  "MN": "",
+                  "ML": ""
+                }
+              ]
+            }
   
 
 ]
