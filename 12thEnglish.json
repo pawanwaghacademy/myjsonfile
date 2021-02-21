@@ -1,4 +1,4 @@
-    [
+  [
     {
       "ChapterName": "How to Score 100 Marks in English",
       "Videos": [
@@ -294,23 +294,26 @@
         {
           "MN": "",
           "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "Do Schools Really Kill Creativity? (Mind Mapping)",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/_Rm__FNciY0"
         },
         {
-          "ChapterName": "Do Schools Really Kill Creativity? (Mind Mapping)",
-          "Videos": [
-            {
-              "VN": "Part 1",
-              "VL": "https://youtu.be/_Rm__FNciY0"
-            } {
-              "VN": "Part 2",
-              "VL": "https://youtu.be/xLQHGv3kUkI"
-            }
-          ],
-          "StudyMaterial":[
-            {
-              "MN": "",
-              "ML": ""
-            }
+          "VN": "Part 2",
+          "VL": "https://youtu.be/xLQHGv3kUkI"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
       ]
-    }
+  }  
 ]
