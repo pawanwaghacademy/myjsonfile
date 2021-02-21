@@ -261,6 +261,18 @@
         {
           "VN": "Part 8",
           "VL": "https://youtu.be/34HtRgYcF7A"
+        },
+        {
+          "VN": "Part 9",
+          "VL": "https://youtu.be/B8y9nrOGfFY"
+        },
+        {
+          "VN": "Part 10",
+          "VL": "https://youtu.be/9A3ybd8VbBQ"
+        },
+        {
+          "VN": "Part 11",
+          "VL": "https://youtu.be/42C9Tkgn4KE"
         }
       ],
       "StudyMaterial":[
@@ -458,6 +470,29 @@
         {
           "VN": "Revision of Chapter 3 & 4 Organic Chemistry",
           "VL": "https://youtu.be/BxYCgK4_EZM"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "Electrochemistry",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/0zRg6m0yFIg"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/ncgFuWSwMbA"
+        },
+         {
+          "VN": "Part 3",
+          "VL": "https://youtu.be/zV3VEhApzo0"
         }
       ],
       "StudyMaterial":[
