@@ -341,5 +341,21 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "Photosynthesis",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/tz1p-10PhMk"
+        }
+        
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
