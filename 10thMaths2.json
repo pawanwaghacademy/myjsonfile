@@ -290,7 +290,12 @@
          
         ],
         "StudyMaterial":[
-            {
+          {
+            "MN": "practice paper 1 ",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F01.pdf?alt=media&token=71a8f1cb-7f3e-43df-ba51-3cecc4af1e73"
+
+          },
+          {
               "MN": "Practice Paper Based on Practice Set 5.1",
               "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20based%20on%2010th%20chapter%205%20part%202%20practise%20set%205.1.pdf?alt=media&token=2ee52b0f-0c69-4903-874c-c4604ab36f8a"
 
