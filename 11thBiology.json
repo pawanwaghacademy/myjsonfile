@@ -13,8 +13,8 @@
       ],
       "StudyMaterial":[
         {
-          "MN": "",
-          "ML": ""
+          "MN": "Practice Paper 1",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FLiving%20World%20Practice%20Paper%201.pdf?alt=media&token=228c4a73-89e1-4f38-8a54-bf3278aed922"
         }
       ]
     },
@@ -48,8 +48,8 @@
       ],
       "StudyMaterial":[
         {
-          "MN": "",
-          "ML": ""
+          "MN": "Practice Paper 1",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSystematics%20of%20living%20organisms%20Practice%20Paper%201.pdf?alt=media&token=5eebd109-b2ce-4d1a-87fc-0af763181970"
         }
       ]
     },
@@ -71,8 +71,8 @@
       ],
       "StudyMaterial":[
         {
-          "MN": "",
-          "ML": ""
+          "MN": "Practice Paper 1",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FKingdom%20Plantae%20Practice%20Paper%201.pdf?alt=media&token=962c4adf-f729-4b60-a31d-2159109c4e0b"
         }
       ]
     },
@@ -114,8 +114,8 @@
       ],
       "StudyMaterial":[
         {
-          "MN": "",
-          "ML": ""
+          "MN": "Practice Paper 1",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FAnimal%20Kingdom%20Practice%20Paper%201.pdf?alt=media&token=f612106b-8710-455b-9462-622d48740e9e"
         }
       ]
     },
@@ -348,7 +348,21 @@
         {
           "VN": "Part 1",
           "VL": "https://youtu.be/tz1p-10PhMk"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/jBQILf6jzNQ"
+        },
+        {
+          "VN": "Part 3",
+          "VL": "https://youtu.be/R3TuRzdtNPc"
+        },
+        {
+          "VN": "Part 4",
+          "VL": "https://youtu.be/nZRXWSOdlMc"
         }
+        
+        
         
       ],
       "StudyMaterial":[
