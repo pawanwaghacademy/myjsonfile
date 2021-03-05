@@ -138,6 +138,10 @@
             ],
             "StudyMaterial":[
               {
+                "MN": "Notes",
+                "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FBasic%20analyitical%20tecniques.pdf?alt=media&token=07331ecd-34f6-4809-a2b4-36e6cb0d4534"
+              },
+              {
                 "MN": "Practice Paper 1",
                 "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20....corrected%20.....chp%204....std%2011th.pdf?alt=media&token=6a3839a6-b884-40bd-82de-faa599517930"
               }
@@ -275,7 +279,26 @@
                   "ML": ""
                 }
               ]
-            }
+            },
+            {
+                "ChapterName": "Modern Periodic Table",
+                "Videos": [
+                  {
+                    "VN": "Part 1",
+                    "VL": "https://youtu.be/VomxQZWHYVw"
+                  },
+                  {
+                    "VN": "Part 2",
+                    "VL": "https://youtu.be/9XQwCQojikI"
+                  }
+                ],
+                "StudyMaterial":[
+                  {
+                    "MN": "",
+                    "ML": ""
+                  }
+                ]
+              }
   
 
 ]
