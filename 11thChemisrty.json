@@ -50,10 +50,6 @@
           {
             "MN": "Practice Paper 1",
             "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSome%20Baic%20Concepts%20Paper%201.pdf?alt=media&token=d71ceef0-0cd6-48f3-84f3-80237ebc20eb"
-          },
-          {
-            "MN": "Practice Paper 2",
-            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20corrected%20chap%202%20....std%2011%20th.pdf?alt=media&token=cee61620-c8f1-4da6-bfe2-2c93c3cd88d9"
           }
         ]
       },
@@ -100,7 +96,7 @@
             },
             {
               "MN": "Practice Paper 1",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20....corrected....chap%203....std%2011%20th.pdf?alt=media&token=5fe593cb-5ae0-48f6-b818-df950b785d9a"
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20corrected%20chap%202%20....std%2011%20th.pdf?alt=media&token=cee61620-c8f1-4da6-bfe2-2c93c3cd88d9"
             }
           ]
         },
@@ -143,7 +139,7 @@
               },
               {
                 "MN": "Practice Paper 1",
-                "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20....corrected%20.....chp%204....std%2011th.pdf?alt=media&token=6a3839a6-b884-40bd-82de-faa599517930"
+                "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20....corrected....chap%203....std%2011%20th.pdf?alt=media&token=5fe593cb-5ae0-48f6-b818-df950b785d9a"
               }
             ]
           },
@@ -197,8 +193,8 @@
             ],
             "StudyMaterial":[
               {
-                "MN": "",
-                "ML": ""
+                "MN": "Practice Paper 1",
+                "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20....corrected%20.....chp%204....std%2011th.pdf?alt=media&token=6a3839a6-b884-40bd-82de-faa599517930"
               }
             ]
           },
