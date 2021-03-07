@@ -98,6 +98,10 @@
         {
           "MN": "Practice Paper 1",
           "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChapter%201%20Question%20PAper%201.pdf?alt=media&token=bf788dc7-c1f8-46c0-b581-922358919d36"
+        },
+        {
+          "MN": "Notes",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fsolid%20state%20corrected%20notes.pdf?alt=media&token=4db1418a-c45b-4a3c-be06-fd5b9c4355f8"
         }
       ]
     },
@@ -167,8 +171,8 @@
       ],
       "StudyMaterial":[
         {
-          "MN": "",
-          "ML": ""
+          "MN": "Practice Paper 1",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSolution%20Practice%20Paper%201.pdf?alt=media&token=355263d7-7b2f-4fc5-92ee-2cc62db90ac8"
         }
       ]
     },
@@ -274,6 +278,53 @@
           "VN": "Part 11",
           "VL": "https://youtu.be/42C9Tkgn4KE"
         }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "Electrochemistry",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/0zRg6m0yFIg"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/ncgFuWSwMbA"
+        },
+         {
+          "VN": "Part 3",
+          "VL": "https://youtu.be/zV3VEhApzo0"
+        },
+        {
+         "VN": "Part 4",
+         "VL": "https://youtu.be/7MfUM2ZJOsc"
+       },
+       {
+        "VN": "Part 5",
+        "VL": "https://youtu.be/gi4LnXP8dIg"
+      },
+      {
+       "VN": "Part 6",
+       "VL": "https://youtu.be/_DGkBujNCDs"
+      },
+      {
+      "VN": "Part 7",
+      "VL": "https://youtu.be/sESfUcN0750"
+      },
+      {
+     "VN": "Part 8",
+     "VL": "https://youtu.be/VzOidLJZFEM"
+     },
+     {
+    "VN": "Part 9",
+    "VL": "https://youtu.be/blH0jLT_9Vc"
+    }
       ],
       "StudyMaterial":[
         {
@@ -471,33 +522,6 @@
           "VN": "Revision of Chapter 3 & 4 Organic Chemistry",
           "VL": "https://youtu.be/BxYCgK4_EZM"
         }
-      ],
-      "StudyMaterial":[
-        {
-          "MN": "",
-          "ML": ""
-        }
-      ]
-    },
-    {
-      "ChapterName": "Electrochemistry",
-      "Videos": [
-        {
-          "VN": "Part 1",
-          "VL": "https://youtu.be/0zRg6m0yFIg"
-        },
-        {
-          "VN": "Part 2",
-          "VL": "https://youtu.be/ncgFuWSwMbA"
-        },
-         {
-          "VN": "Part 3",
-          "VL": "https://youtu.be/zV3VEhApzo0"
-        },
-        {
-         "VN": "Part 4",
-         "VL": "https://youtu.be/7MfUM2ZJOsc"
-       }
       ],
       "StudyMaterial":[
         {
