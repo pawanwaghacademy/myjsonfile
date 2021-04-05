@@ -529,5 +529,45 @@
           "ML": ""
         }
       ]
+    },
+    {
+    "ChapterName": "Chemical Kinetics",
+    "Videos": [
+      {
+        "VN": "Part 1",
+        "VL": "https://youtu.be/fF9XxnrY6aw"
+      },{
+        "VN": "Part 2",
+        "VL": "https://youtu.be/x9TDU2GInsA"
+      },{
+        "VN": "Part 3",
+        "VL": "https://youtu.be/9G9_SE-F2U4"
+      },{
+        "VN": "Part 4",
+        "VL": "https://youtu.be/uLSc62OT-L4"
+      },
+      {
+        "VN": "Part 5",
+        "VL": "https://youtu.be/NnVTuzT8tUo"
+      },
+      {
+        "VN": "Part 6",
+        "VL": "https://youtu.be/1UudjZQCNG8"
+      },
+      {
+        "VN": "Part 7",
+        "VL": "https://youtu.be/MqE0pPUaxNs"
+      },
+      {
+        "VN": "Part 8",
+        "VL": "https://youtu.be/-EErvGHMJKI"
+      }
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "",
+        "ML": ""
+      }
+    ]
     }
 ]
