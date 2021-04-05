@@ -1,26 +1,80 @@
-[
+  [
     {
-        "ChapterName": "Chemistry Paper Pattern",
+      "ChapterName": "How to Score 100 Marks in English",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/rN_ptqRMl4w"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+        "ChapterName": "Grammar",
         "Videos": [
           {
-            "VN": "12th Chemistry Paper Pattern",
-            "VL": "https://youtu.be/rN3AksId3zk"
+            "VN": "Report Writing #1",
+            "VL": "https://youtu.be/Wk-roufetks"
+          },
+          {
+            "VN": "Letter Writing #2",
+            "VL": "https://youtu.be/yR2iiY-FgHg"
+          },
+          {
+            "VN": "Active and Passive Voice #3",
+            "VL": "https://youtu.be/XkMpqrmAqho"
+          },
+          {
+            "VN": "Degrees of Comparison #4",
+            "VL": "https://youtu.be/277lPtiNDaA"
+          },
+          {
+            "VN": "Sentences #5",
+            "VL": "https://youtu.be/277lPtiNDaA"
+          },
+          {
+            "VN": "Direct & Indirect Speech #6",
+            "VL": "https://youtu.be/ma94Pn2aclo"
+          },
+          {
+            "VN": "Tenses #7",
+            "VL": "https://youtu.be/ml_GnPSWhJM"
+          },
+          {
+            "VN": "Question Tag #8",
+            "VL": "https://youtu.be/rF_2QFPJubU"
+          },
+          {
+            "VN": "Figure of Speech part 1 #9",
+            "VL": "https://youtu.be/IKK8AFHtHuM"
+          },
+          {
+            "VN": "Figure of Speech part 2 #9",
+            "VL": "https://youtu.be/6BBGS0pMa_M"
+          },
+          {
+            "VN": "Auxiliary Verbs #10",
+            "VL": "https://youtu.be/w0SlF7EPQTs"
           }
         ],
         "StudyMaterial":[
-            {
-              "MN": "",
-              "ML": ""
-
-            }
+          {
+            "MN": "",
+            "ML": ""
+          }
         ]
-    },
+      },
     {
-      "ChapterName": "Basic of Periodic Table",
+      "ChapterName": "Marking Scheme",
       "Videos": [
         {
           "VN": "Part 1",
-          "VL": "https://youtu.be/kp94jwHDk8A"
+          "VL": "https://youtu.be/vOe5j5RLLgQ"
         }
       ],
       "StudyMaterial":[
@@ -31,197 +85,107 @@
       ]
     },
     {
-      "ChapterName": "Solid State",
+      "ChapterName": "An Astrologers Day",
       "Videos": [
         {
           "VN": "Part 1",
-          "VL": "https://youtu.be/dDdv11GwL5E"
+          "VL": "https://youtu.be/28BjMv7rG4E"
         },
         {
           "VN": "Part 2",
-          "VL": "https://youtu.be/Bh4i8knG9WE"
+          "VL": "https://youtu.be/Tz0TXWF8f8s"
         },
         {
           "VN": "Part 3",
-          "VL": "https://youtu.be/sl-pkQu4POU"
-        },
-        {
-          "VN": "Part 4",
-          "VL": "https://youtu.be/WIMjmCibVuU"
-        },
-        {
-          "VN": "Part 5",
-          "VL": "https://youtu.be/46uIfU6WM3Y"
-        },
-        {
-          "VN": "Part 6",
-          "VL": "https://youtu.be/RlTmaYW6Tg4"
-        },
-        {
-          "VN": "Part 7",
-          "VL": "https://youtu.be/I2eitUFjiP0"
-        },
-        {
-          "VN": "Part 8",
-          "VL": "https://youtu.be/bxsLym39_yY"
-        },
-        {
-          "VN": "Part 9",
-          "VL": "https://youtu.be/Dt6IKpMSslw"
-        },
-        {
-          "VN": "Part 10",
-          "VL": "https://youtu.be/Sie__3QAiz8"
-        },
-        {
-          "VN": "Part 11",
-          "VL": "https://youtu.be/tlRW9bEBic0"
-        },
-        {
-          "VN": "Part 12",
-          "VL": "https://youtu.be/Mj2yyDTEPLI"
-        },
-        {
-          "VN": "Part 13",
-          "VL": "https://youtu.be/pYBP4x-Hagk"
-        },
-        {
-          "VN": "Part 14",
-          "VL": "https://youtu.be/xHDi_EKnwz4"
-        },
-        {
-          "VN": "Part 15",
-          "VL": "https://youtu.be/eU_v1cCKXKg"
+          "VL": "https://youtu.be/zwCp47wImik"
         }
       ],
       "StudyMaterial":[
         {
           "MN": "Practice Paper 1",
-          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChapter%201%20Question%20PAper%201.pdf?alt=media&token=bf788dc7-c1f8-46c0-b581-922358919d36"
-        },
-        {
-          "MN": "Notes",
-          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fsolid%20state%20corrected%20notes.pdf?alt=media&token=4db1418a-c45b-4a3c-be06-fd5b9c4355f8"
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FAn%20Astrologer's%20Day%20Paper%201.pdf?alt=media&token=de0a8435-51f2-49c4-b7f4-12630bb47ad2"
         }
       ]
     },
     {
-      "ChapterName": "Solutions",
+      "ChapterName": "On Saying 'Please'",
       "Videos": [
         {
           "VN": "Part 1",
-          "VL": "https://youtu.be/UwTgCDsn0G0"
+          "VL": "https://youtu.be/cZwETPvaoXo"
         },
         {
           "VN": "Part 2",
-          "VL": "https://youtu.be/LW_bo4GK0RQ"
+          "VL": "https://youtu.be/gmCtrJet4E0"
         },
         {
           "VN": "Part 3",
-          "VL": "https://youtu.be/rYgYceDXWMY"
+          "VL": "https://youtu.be/Vt3Nr0r3H6k"
         },
         {
           "VN": "Part 4",
-          "VL": "https://youtu.be/jlikSD0w7A8"
+          "VL": "https://youtu.be/2kmAtJx8_xo"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "The Cop and The Anthem",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/-ho4VqIAkSo"
         },
         {
-          "VN": "Part 5",
-          "VL": "https://youtu.be/9pChyjPrDJw"
-        },
-        {
-          "VN": "Part 6",
-          "VL": "https://youtu.be/Ash3V-_DBzM"
-        },
-        {
-          "VN": "Part 7",
-          "VL": "https://youtu.be/ucIeR92E29Q"
-        },
-        {
-          "VN": "Part 8",
-          "VL": "https://youtu.be/RAVgGxdQwUU"
-        },
-        {
-          "VN": "Part 9",
-          "VL": "https://youtu.be/j0qAc2pILzk"
-        },
-        {
-          "VN": "Part 10",
-          "VL": "https://youtu.be/0HUr7TBPzak"
-        },
-        {
-          "VN": "Part 11",
-          "VL": "https://youtu.be/mIWy5DP8m_s"
-        },
-        {
-          "VN": "Part 12",
-          "VL": "https://youtu.be/2MZQOT-UAd8"
-        },
-        {
-          "VN": "Part 13",
-          "VL": "https://youtu.be/TkuEB-hvVCs"
-        },
-        {
-          "VN": "Part 14",
-          "VL": "https://youtu.be/4ND87kAUNt4"
-        },
-        {
-          "VN": "Part 15",
-          "VL": "https://youtu.be/GOpanblaOEQ"
+          "VN": "Part 2",
+          "VL": "https://youtu.be/l2yJ6xlnqiI"
         }
       ],
       "StudyMaterial":[
         {
           "MN": "Practice Paper 1",
-          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSolution%20Practice%20Paper%201.pdf?alt=media&token=355263d7-7b2f-4fc5-92ee-2cc62db90ac8"
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FThe%20Cop%20and%20the%20Anthem%20Practice%20Paper%201.pdf?alt=media&token=450443a4-304b-4308-91d9-a841f50dfbc9"
+        },
+        {
+          "MN": "Practice Paper 2",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FThe%20Cop%20an%20The%20Anthem%20Paper%202.pdf?alt=media&token=38d7947f-b0bd-459d-8569-16390b747cb5"
         }
       ]
     },
     {
-      "ChapterName": "Ionic Equilibria",
+      "ChapterName": "Big Data Big Insights",
       "Videos": [
         {
           "VN": "Part 1",
-          "VL": "https://youtu.be/BlN7eqkhSWI"
+          "VL": "https://youtu.be/XXK2JejlVQQ"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "Prcatice Paper 1",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FBig%20Data%20Big%20Insights%20Practice%20paper%201.pdf?alt=media&token=baa88ae7-ef6b-40d2-9b07-54d585fdcea3"
+        }
+      ]
+    },
+    {
+      "ChapterName": "The New Dress",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/wDVWzdujSHU"
         },
         {
-          "VN": "Part 2",
-          "VL": "https://youtu.be/sSw0_AQyD80"
+            "VN": "Part 2",
+            "VL": "https://youtu.be/aG-Z4gyNYYQ"
         },
         {
-          "VN": "Part 3",
-          "VL": "https://youtu.be/Uo386ToyA08"
-        },
-        {
-          "VN": "Part 4",
-          "VL": "https://youtu.be/p9bjWTE5J88"
-        },
-        {
-          "VN": "Part 5",
-          "VL": "https://youtu.be/JQTX23y50q4"
-        },
-        {
-          "VN": "Part 6",
-          "VL": "https://youtu.be/OCbCi0PJ0zc"
-        },
-        {
-          "VN": "Part 7",
-          "VL": "https://youtu.be/vuY6FU51mfA"
-        },
-        {
-          "VN": "Part 8",
-          "VL": "https://youtu.be/FLYqJignn2Q"
-        },
-        {
-          "VN": "Part 9",
-          "VL": "https://youtu.be/p4Qg2vJqoMg"
-        },
-        {
-          "VN": "Part 10",
-          "VL": "https://youtu.be/iGn_ZfRoVgQ"
-        },
-        {
-          "VN": "Part 11",
-          "VL": "https://youtu.be/qMPlEB2RmUg"
+            "VN": "Part 3",
+            "VL": "https://youtu.be/ARHDfrCjUW0"
         }
       ],
       "StudyMaterial":[
@@ -232,51 +196,19 @@
       ]
     },
     {
-      "ChapterName": "Chemical Thermodynamics",
+      "ChapterName": "Into the Wild",
       "Videos": [
         {
           "VN": "Part 1",
-          "VL": "https://youtu.be/gvgK_0U79ZE"
+          "VL": "https://youtu.be/UltYdt5WItM"
         },
         {
           "VN": "Part 2",
-          "VL": "https://youtu.be/CtpXjv6OYvg"
+          "VL": "https://youtu.be/XfblADf9iiQ"
         },
         {
           "VN": "Part 3",
-          "VL": "https://youtu.be/gwDJL2Y1HXs"
-        },
-        {
-          "VN": "Part 4",
-          "VL": "https://youtu.be/gaMTDWYHLcY"
-        },
-        {
-          "VN": "Part 5",
-          "VL": "https://youtu.be/B2SFxTxqVYE"
-        },
-        {
-          "VN": "Part 6",
-          "VL": "https://youtu.be/ed9iYsOhuCg"
-        },
-        {
-          "VN": "Part 7",
-          "VL": "https://youtu.be/3Uv-NbW_E7c"
-        },
-        {
-          "VN": "Part 8",
-          "VL": "https://youtu.be/34HtRgYcF7A"
-        },
-        {
-          "VN": "Part 9",
-          "VL": "https://youtu.be/B8y9nrOGfFY"
-        },
-        {
-          "VN": "Part 10",
-          "VL": "https://youtu.be/9A3ybd8VbBQ"
-        },
-        {
-          "VN": "Part 11",
-          "VL": "https://youtu.be/42C9Tkgn4KE"
+          "VL": "https://youtu.be/j9bhWQDtOGE"
         }
       ],
       "StudyMaterial":[
@@ -287,164 +219,11 @@
       ]
     },
     {
-      "ChapterName": "Electrochemistry",
+      "ChapterName": "Song of the Open Road",
       "Videos": [
         {
           "VN": "Part 1",
-          "VL": "https://youtu.be/0zRg6m0yFIg"
-        },
-        {
-          "VN": "Part 2",
-          "VL": "https://youtu.be/ncgFuWSwMbA"
-        },
-         {
-          "VN": "Part 3",
-          "VL": "https://youtu.be/zV3VEhApzo0"
-        },
-        {
-         "VN": "Part 4",
-         "VL": "https://youtu.be/7MfUM2ZJOsc"
-       },
-       {
-        "VN": "Part 5",
-        "VL": "https://youtu.be/gi4LnXP8dIg"
-      },
-      {
-       "VN": "Part 6",
-       "VL": "https://youtu.be/_DGkBujNCDs"
-      },
-      {
-      "VN": "Part 7",
-      "VL": "https://youtu.be/sESfUcN0750"
-      },
-      {
-     "VN": "Part 8",
-     "VL": "https://youtu.be/VzOidLJZFEM"
-     },
-     {
-    "VN": "Part 9",
-    "VL": "https://youtu.be/blH0jLT_9Vc"
-    }
-      ],
-      "StudyMaterial":[
-        {
-          "MN": "",
-          "ML": ""
-        }
-      ]
-    },
-    {
-      "ChapterName": "Halogen Derivatives",
-      "Videos": [
-        {
-          "VN": "Basic of Organic Chemistry",
-          "VL": "https://youtu.be/OEyC3xyDQik"
-        },
-        {
-          "VN": "Part 1",
-          "VL": "https://youtu.be/AlMMnAl_2SM"
-        },
-        {
-          "VN": "Part 2",
-          "VL": "https://youtu.be/Ej63FBeKmuU"
-        },
-        {
-          "VN": "Part 3",
-          "VL": "https://youtu.be/EvM9pM4Ubtw"
-        }
-      ],
-      "StudyMaterial":[
-        {
-          "MN": "Practice Paper 1",
-          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fchemistry%20question%20paper%20for%20halogen%20derivatives.pdf?alt=media&token=1a1cf03a-6168-45f6-af96-a9818f917be4"
-        }
-      ]
-    },
-    {
-      "ChapterName": "Alcohol Phenols and Ethers",
-      "Videos": [
-        {
-          "VN": "Part 1",
-          "VL": "https://youtu.be/AyBSM2xlCsY"
-        },
-        {
-          "VN": "Part 2",
-          "VL": "https://youtu.be/KARK1mNUc4E"
-        },
-        {
-          "VN": "Part 3",
-          "VL": "https://youtu.be/BBPfOl-nja4"
-        },
-        {
-          "VN": "Part 4",
-          "VL": "https://youtu.be/OPLEbLzP-tA"
-        },
-        {
-          "VN": "Part 5",
-          "VL": "https://youtu.be/fSZoDxXWhGY"
-        }
-      ],
-      "StudyMaterial":[
-        {
-          "MN": "Practice Paper",
-          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fchemistry%20question%20paper%20for%20alcohol%20and%20phenol.pdf?alt=media&token=80ad3870-005f-4611-a119-8d70df59910c"
-        }
-      ]
-    },
-    
-    {
-      "ChapterName": "Aldehydes Ketones and Carboxylic Acid",
-      "Videos": [
-        {
-          "VN": "Part 1",
-          "VL": "https://youtu.be/X44p8IaBf7A"
-        },
-        {
-          "VN": "Part 2",
-          "VL": "https://youtu.be/AtsjhIGRKy0"
-        },
-        {
-          "VN": "Part 3",
-          "VL": "https://youtu.be/F2pUEFFJaHY"
-        },
-        {
-          "VN": "Part 4",
-          "VL": "https://youtu.be/G-9ePLEb4e4"
-        },
-        {
-          "VN": "Part 5",
-          "VL": "https://youtu.be/8MVy_MGMI3I"
-        },
-        {
-          "VN": "Part 6",
-          "VL": "https://youtu.be/T2b5dD5deck"
-        },
-        {
-          "VN": "Part 7",
-          "VL": "https://youtu.be/V0QvcYuls00"
-        }
-      ],
-      "StudyMaterial":[
-        {
-          "MN": "Paper 1",
-          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fchemistry%20question%20paper%20for%20aldehyde%20and%20carboxylic%20acid.pdf?alt=media&token=da09fe98-76ee-40c8-9ddb-0f0311fb8468"
-        }
-      ]
-    },
-    {
-      "ChapterName": "Amines",
-      "Videos": [
-        {
-          "VN": "Part 1",
-          "VL": "https://youtu.be/sfrbxSry7N8"
-        },
-        {
-          "VN": "Part 2",
-          "VL": "https://youtu.be/9C1Fq-NA53c"
-        },
-        {
-          "VN": "Part 3",
-          "VL": "https://youtu.be/lXCgJFWSDBE"
+          "VL": "https://youtu.be/CsAvt6tu8x0"
         }
       ],
       "StudyMaterial":[
@@ -455,19 +234,11 @@
       ]
     },
     {
-      "ChapterName": "Biomolecules",
+      "ChapterName": "Indian Weavers",
       "Videos": [
         {
           "VN": "Part 1",
-          "VL": "https://youtu.be/FBuvsqonLco"
-        },
-        {
-          "VN": "Part 2",
-          "VL": "https://youtu.be/f_lpyX1jjEU"
-        },
-        {
-          "VN": "Part 3",
-          "VL": "https://youtu.be/ghl2aNwjkEw"
+          "VL": "https://youtu.be/rPDxI5QDsW4"
         }
       ],
       "StudyMaterial":[
@@ -478,15 +249,15 @@
       ]
     },
     {
-      "ChapterName": "Introduction to Polymer Chemistry",
+      "ChapterName": "The Inchcape Rock",
       "Videos": [
         {
           "VN": "Part 1",
-          "VL": "https://youtu.be/sy4IfQLHY7s"
+          "VL": "https://youtu.be/fnUIs7E_mWY"
         },
         {
           "VN": "Part 2",
-          "VL": "https://youtu.be/2UPTpyTqa7o"
+          "VL": "https://youtu.be/3uenlQq8K8M"
         }
       ],
       "StudyMaterial":[
@@ -497,11 +268,60 @@
       ]
     },
     {
-    "ChapterName": "Green Chemistry & Nano Chemistry",
+      "ChapterName": "Summary Writing",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/VqredJkLUI4"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "Have You Earned Your Tomorrow",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/hDU5X_YG-Hg"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "Do Schools Really Kill Creativity? (Mind Mapping)",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/_Rm__FNciY0"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/xLQHGv3kUkI"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+  }  ,
+  {
+    "ChapterName": "Why we Travel",
     "Videos": [
       {
         "VN": "Part 1",
-        "VL": "https://youtu.be/ldrmvoQfhaQ"
+        "VL": "https://youtu.be/0RGz0_u3RYc"
       }
     ],
     "StudyMaterial":[
@@ -510,64 +330,24 @@
         "ML": ""
       }
     ]
-    },
+} ,
+{
+  "ChapterName": "She Walks in Beauty",
+  "Videos": [
     {
-      "ChapterName": "Revision Videos",
-      "Videos": [
-        {
-          "VN": "Revision of Chapter 1 & 2 Organic Chemistry",
-          "VL": "https://youtu.be/BxYCgK4_EZM"
-        },
-        {
-          "VN": "Revision of Chapter 3 & 4 Organic Chemistry",
-          "VL": "https://youtu.be/BxYCgK4_EZM"
-        }
-      ],
-      "StudyMaterial":[
-        {
-          "MN": "",
-          "ML": ""
-        }
-      ]
-    },
-    {
-    "ChapterName": "Chemical Kinetics",
-    "Videos": [
-      {
-        "VN": "Part 1",
-        "VL": "https://youtu.be/fF9XxnrY6aw"
-      },{
-        "VN": "Part 2",
-        "VL": "https://youtu.be/x9TDU2GInsA"
-      },{
-        "VN": "Part 3",
-        "VL": "https://youtu.be/9G9_SE-F2U4"
-      },{
-        "VN": "Part 4",
-        "VL": "https://youtu.be/uLSc62OT-L4"
-      },
-      {
-        "VN": "Part 5",
-        "VL": "https://youtu.be/NnVTuzT8tUo"
-      },
-      {
-        "VN": "Part 6",
-        "VL": "https://youtu.be/1UudjZQCNG8"
-      },
-      {
-        "VN": "Part 7",
-        "VL": "https://youtu.be/MqE0pPUaxNs"
-      },
-      {
-        "VN": "Part 8",
-        "VL": "https://youtu.be/-EErvGHMJKI"
-      }
-    ],
-    "StudyMaterial":[
-      {
-        "MN": "",
-        "ML": ""
-      }
-    ]
+      "VN": "Part 1",
+      "VL": "https://youtu.be/vbN6_oPwhW4"
     }
+    ,{
+      "VN": "Part 2",
+      "VL": "https://youtu.be/FU-PuQt33R4"
+    }
+  ],
+  "StudyMaterial":[
+    {
+      "MN": "",
+      "ML": ""
+    }
+  ]
+} 
 ]
