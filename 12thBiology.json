@@ -256,5 +256,52 @@
         "ML": ""
       }
     ]
+  },
+  {
+    "ChapterName": "Plant Water Relation",
+    "Videos": [
+      {
+        "VN": "Part 1",
+        "VL": "https://youtu.be/q9Jrr6pU0eg"
+      },
+      {
+        "VN": "Part 2",
+        "VL": "https://youtu.be/LuCMUvTDTTY"
+      },
+      {
+        "VN": "Part 3",
+        "VL": "https://youtu.be/Hx4EwAj2dTM"
+      },
+      {
+        "VN": "Part 4",
+        "VL": "https://youtu.be/SsJohMniqZI"
+      },
+      {
+          "VN": "Part 5",
+          "VL": "https://youtu.be/je9U_aXRCUw"
+        
+      },
+      {
+          "VN": "Part 6",
+          "VL": "https://youtu.be/sV5c8zHtIJ8"
+        
+      },
+      {
+          "VN": "Part 7",
+          "VL": " https://youtu.be/tyDvn3JTEvo"
+        
+      },
+      {
+          "VN": "Part 8",
+          "VL": "https://youtu.be/LOC6KYxyp0Y"
+        
+      }
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "",
+        "ML": ""
+      }
+    ]
   }
 ]
