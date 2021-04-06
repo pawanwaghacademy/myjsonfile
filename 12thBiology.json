@@ -303,5 +303,20 @@
         "ML": ""
       }
     ]
+  },
+  {
+    "ChapterName": "Plant Growth & Mineral Nutrition",
+    "Videos": [
+      {
+        "VN": "Part 1",
+        "VL": "https://youtu.be/vXwpPdNCXqE"
+      }
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "",
+        "ML": ""
+      }
+    ]
   }
 ]
