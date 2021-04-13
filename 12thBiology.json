@@ -1,347 +1,322 @@
 [
+
     {
-      "ChapterName": "Basic of Periodic Table",
-      "Videos": [
-        {
-          "VN": "Part 1",
-          "VL": "https://youtu.be/kp94jwHDk8A"
-        }
-      ],
-      "StudyMaterial":[
-        {
-          "MN": "",
-          "ML": ""
-        }
-      ]
-    },
-    {
-        "ChapterName": "Some Basic Concepts of Chemistry",
+        "ChapterName": "Reproduction in Lower and Higher Plants",
         "Videos": [
           {
             "VN": "Part 1",
-            "VL": "https://youtu.be/EZgRR8ZppB4"
+            "VL": "https://youtu.be/v6yie81hEAQ"
           },
           {
-              "VN": "Part 2",
-              "VL": "https://youtu.be/jcFKttElNQ4"
+            "VN": "Part 2",
+            "VL": "https://youtu.be/Gbw4_eY6ie0"
           },
           {
-              "VN": "Part 3",
-              "VL": "https://youtu.be/f5kVm_xq7kc"
+            "VN": "Part 3",
+            "VL": "https://youtu.be/ViJczwnzx24"
           },
           {
-              "VN": "Part 4",
-              "VL": "https://youtu.be/HpZSYqanXgQ"
+            "VN": "Part 4",
+            "VL": "https://youtu.be/k1cZI0v04U0"
           },
           {
-              "VN": "Part 5",
-              "VL": "https://youtu.be/w-IFFF4KNEM"
+            "VN": "Part 5",
+            "VL": "https://youtu.be/C8mhYSkhK0I"
           },
           {
-              "VN": "Part 6",
-              "VL": "https://youtu.be/whhKGABMzjA"
+            "VN": "Part 6",
+            "VL": "https://youtu.be/EVN5o8Fp3Xs"
+          },
+          {
+            "VN": "Part 7",
+            "VL": "https://youtu.be/oSEonEWhVEI"
+          },
+          {
+            "VN": "Part 8",
+            "VL": "https://youtu.be/7Xiz2mY9Bv8"
+          },
+          {
+            "VN": "Part 9",
+            "VL": "https://youtu.be/6tNfqJp7t4s"
+          },
+          {
+            "VN": "Part 10",
+            "VL": "https://youtu.be/Da4DQnS9fVc"
           }
         ],
         "StudyMaterial":[
-          {
-            "MN": "Notes",
-            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSome%20baic%20concepts%20of%20chemistry.pdf?alt=media&token=1b914d81-81fa-4e5c-ad71-b3dc24fd3159"
-          },
-          {
-            "MN": "Practice Paper 1",
-            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSome%20Baic%20Concepts%20Paper%201.pdf?alt=media&token=d71ceef0-0cd6-48f3-84f3-80237ebc20eb"
-          }
+            {
+              "MN": "",
+              "ML": ""
+  
+            }
         ]
-      },
-      {
-          "ChapterName": "Introduction to Analytical Chemistry",
-          "Videos": [
-            {
-              "VN": "Part 1",
-              "VL": "https://youtu.be/a7lg5HRi5XU"
-            },
-            {
-                "VN": "Part 2",
-                "VL": "https://youtu.be/x29-kLLNeV4"
-            },
-            {
-                "VN": "Part 3",
-                "VL": "https://youtu.be/wmkQZf6IaSc"
-            },
-            {
-                "VN": "Part 4",
-                "VL": "https://youtu.be/hVL9T5G9zSU"
-            },
-            {
-                "VN": "Part 5",
-                "VL": "https://youtu.be/XZABrUepFOU"
-            },
-            {
-                "VN": "Part 6",
-                "VL": "https://youtu.be/hYz9gvqiDm8"
-            },
-            {
-                "VN": "Part 7",
-                "VL": "https://youtu.be/zSaX2c5YX_k"
-            },
-            {
-                "VN": "Part 8",
-                "VL": "https://youtu.be/2BAFV4c6rKM"
-            }
-          ],
-          "StudyMaterial":[
-            {
-              "MN": "Notes",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChapter%202%20notes.pdf?alt=media&token=138cebf1-37f8-4c15-8e28-551137a44170"
-            },
-            {
-              "MN": "Practice Paper 1",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20corrected%20chap%202%20....std%2011%20th.pdf?alt=media&token=cee61620-c8f1-4da6-bfe2-2c93c3cd88d9"
-            }
-          ]
+    },
+    {
+      "ChapterName": "Reproduction in Lower and Higher Animals",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/mtUsFx5dik8"
         },
         {
-            "ChapterName": "Basic Analytical Techniques",
-            "Videos": [
-              {
-                "VN": "Part 1",
-                "VL": "https://youtu.be/RGydKkNj6VY"
-              },
-              {
-                "VN": "Part 2",
-                "VL": "https://youtu.be/9W9gtE4-kXg"
-              },
-              {
-                "VN": "Part 3",
-                "VL": "https://youtu.be/TdbQGhipk5o"
-              },
-              {
-                "VN": "Part 4",
-                "VL": "https://youtu.be/MzPDck2trwQ"
-              },
-              {
-                "VN": "Part 5",
-                "VL": "https://youtu.be/Yijexj1in4o"
-              },
-              {
-                "VN": "Part 6",
-                "VL": "https://youtu.be/zE3DNvTCEAo"
-              },
-              {
-                "VN": "Part 7",
-                "VL": "https://youtu.be/5hYm8i-n20U"
-              }
-            ],
-            "StudyMaterial":[
-              {
-                "MN": "Notes",
-                "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FBasic%20analyitical%20tecniques.pdf?alt=media&token=07331ecd-34f6-4809-a2b4-36e6cb0d4534"
-              },
-              {
-                "MN": "Practice Paper 1",
-                "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20....corrected....chap%203....std%2011%20th.pdf?alt=media&token=5fe593cb-5ae0-48f6-b818-df950b785d9a"
-              }
-            ]
-          },
+          "VN": "Part 2",
+          "VL": "https://youtu.be/MQXJXeLH89A"
+        },
         {
-            "ChapterName": "Structure of Atom",
-            "Videos": [
-              {
-                "VN": "Part 1",
-                "VL": "https://youtu.be/6B0Mh_mE92g"
-              },
-              {
-                "VN": "Part 2",
-                "VL": "https://youtu.be/fUbILmc74c4"
-              },
-              {
-                "VN": "Part 3",
-                "VL": "https://youtu.be/rtcYWbforPc"
-              },
-              {
-                "VN": "Part 4",
-                "VL": "https://youtu.be/8UEC0LBYsPg"
-              },
-              {
-                "VN": "Part 5",
-                "VL": "https://youtu.be/VyRY7lO_1Ac"
-              },
-              {
-                "VN": "Part 6",
-                "VL": "https://youtu.be/NWNQVFTS1JU"
-              },
-              {
-                "VN": "Part 7",
-                "VL": "https://youtu.be/aZzBmXy8R88"
-              },
-              {
-                "VN": "Part 8",
-                "VL": "https://youtu.be/1p7rLKfyWH4"
-              },
-              {
-                "VN": "Part 9",
-                "VL": "https://youtu.be/IKc8ateP-XM"
-              },
-              {
-                "VN": "Part 10",
-                "VL": "https://youtu.be/yz9t__A66YU"
-              },
-              {
-                "VN": "Part 11",
-                "VL": "https://youtu.be/1560hK0l_cI"
-              }
-            ],
-            "StudyMaterial":[
-              {
-                "MN": "Practice Paper 1",
-                "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20....corrected%20.....chp%204....std%2011th.pdf?alt=media&token=6a3839a6-b884-40bd-82de-faa599517930"
-              }
-            ]
-          },
+          "VN": "Part 3",
+          "VL": "https://youtu.be/BZKXPJqNCd4"
+        },
+        {
+          "VN": "Part 4",
+          "VL": "https://youtu.be/_TFOJpjg5RA"
+        },
+        {
+          "VN": "Part 5",
+          "VL": "https://youtu.be/-bG8vTZyjKU"
+        },
+        {
+          "VN": "Part 6",
+          "VL": "https://youtu.be/jY_Pvy0G9X8"
+        },
+        {
+          "VN": "Part 7",
+          "VL": "https://youtu.be/HPbh0IbSo7I"
+        },
+        {
+          "VN": "Part 8",
+          "VL": "https://youtu.be/qYXe2Se1x3I"
+        },
+        {
+          "VN": "Part 9",
+          "VL": "https://youtu.be/mC8i308964c"
+        },
+        {
+          "VN": "Part 10",
+          "VL": "https://youtu.be/F1I23lKnDtI"
+        },
+        {
+          "VN": "Part 11",
+          "VL": "https://youtu.be/lAgUM2jkRZg"
+        },
+        {
+          "VN": "Part 12",
+          "VL": "https://youtu.be/vQ1rc_5vb1M"
+        },
+        {
+          "VN": "Part 13",
+          "VL": "https://youtu.be/hJ86iL9KyIc"
+        }
+      ],
+      "StudyMaterial":[
           {
-              "ChapterName": "Chemical Bonding",
-              "Videos": [
-                {
-                  "VN": "Part 1",
-                  "VL": "https://youtu.be/u-Mx67wMkkk"
-                },
-                {
-                  "VN": "Part 2",
-                  "VL": "https://youtu.be/SP_8cdCgCnM"
-                },
-                {
-                  "VN": "Part 3",
-                  "VL": "https://youtu.be/5fTV6Jzo4_Q"
-                },
-                {
-                  "VN": "Part 4",
-                  "VL": "https://youtu.be/qeOnY3XuTko"
-                },
-                {
-                  "VN": "Part 5",
-                  "VL": "https://youtu.be/p5ytLvVIQaU"
-                },
-                {
-                  "VN": "Part 6",
-                  "VL": "https://youtu.be/l7qxNc1eh4c"
-                },
-                {
-                  "VN": "Part 7",
-                  "VL": "https://youtu.be/PSRwQY_xg7A"
-                },
-                {
-                  "VN": "Part 8",
-                  "VL": "https://youtu.be/MAB-jqnuxOM"
-                },
-                {
-                  "VN": "Part 9",
-                  "VL": "https://youtu.be/dFP0VxKCovQ"
-                },
-                {
-                  "VN": "Part 10",
-                  "VL": "https://youtu.be/VP5coV5KZ7w"
-                }
-              ],
-              "StudyMaterial":[
-                {
-                  "MN": "",
-                  "ML": ""
-                }
-              ]
-            },
-          {
-              "ChapterName": "Redox Reaction",
-              "Videos": [
-                {
-                  "VN": "Part 1",
-                  "VL": "https://youtu.be/8wpvya5PAAU"
-                },
-                {
-                  "VN": "Part 2",
-                  "VL": "https://youtu.be/gja6Rkw_l4Q"
-                },
-                {
-                  "VN": "Part 3",
-                  "VL": "https://youtu.be/zV3VEhApzo0"
-                },
-                {
-                  "VN": "Part 4",
-                  "VL": "https://youtu.be/T1f9omrIfvI"
-                }
-              ],
-              "StudyMaterial":[
-                {
-                  "MN": "",
-                  "ML": ""
-                }
-              ]
-            },
-            {
-                "ChapterName": "Modern Periodic Table",
-                "Videos": [
-                  {
-                    "VN": "Part 1",
-                    "VL": "https://youtu.be/VomxQZWHYVw"
-                  },
-                  {
-                    "VN": "Part 2",
-                    "VL": "https://youtu.be/9XQwCQojikI"
-                  },
-                  {
-                    "VN": "Part 3",
-                    "VL": "https://youtu.be/eQOIUl0UF6w"
-                  },
-                  {
-                    "VN": "Part 4 ",
-                    "VL": "https://youtu.be/ny2GzK-QVUM"
-                  }
-                ],
-                "StudyMaterial":[
-                  {
-                    "MN": "",
-                    "ML": ""
-                  }
-                ]
-              }
-              ,
-              {
-                  "ChapterName": "Elements of Group 1 & 2",
-                  "Videos": [
-                    {
-                      "VN": "Part 1",
-                      "VL": "https://youtu.be/QEkr0BA7gBs"
-                    },
-                    {
-                      "VN": "Part 2",
-                      "VL": "https://youtu.be/V6kLwgQwtIs"
-                    },
-                    {
-                      "VN": "Part 3",
-                      "VL": "https://youtu.be/Q54ZLpbKafs"
-                    },
-                    {
-                      "VN": "Part 4",
-                      "VL": "https://youtu.be/9ShlUwAYdqw"
-                    },
-                    {
-                      "VN": "Part 5",
-                      "VL": "https://youtu.be/AZYpdma0gsg"
-                    },
-                    {
-                      "VN": "Part 6",
-                      "VL": "https://youtu.be/w2LHRPLtLuM"
-                    },
-                    {
-                      "VN": "Part 7",
-                      "VL": "https://youtu.be/oBqvpJat57U"
-                    }
-                  ],
-                  "StudyMaterial":[
-                    {
-                      "MN": "",
-                      "ML": ""
-                    }
-                  ]
-                }
+            "MN": "",
+            "ML": ""
 
+          }
+      ]
+  },
+  {
+    "ChapterName": "Molecular Basis of Inheritance",
+    "Videos": [
+      {
+        "VN": "Part 1",
+        "VL": "https://youtu.be/Pe6UK4xyJZw"
+      },
+      {
+        "VN": "Part 2",
+        "VL": "https://youtu.be/PQT7HuGsPs0"
+      },
+      {
+        "VN": "Part 3",
+        "VL": "https://youtu.be/nCAt4lgPMK0"
+      },
+      {
+        "VN": "Part 4",
+        "VL": "https://youtu.be/mOq9y54hqh8"
+      }
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "",
+        "ML": ""
+      }
+    ]
+  },
+  {
+    "ChapterName": "Inheritance and Variation",
+    "Videos": [
+      {
+        "VN": "Part 1",
+        "VL": "https://youtu.be/2ghjxO_voj4"
+      },
+      {
+        "VN": "Part 2",
+        "VL": "https://youtu.be/zIaN5HH2N3I"
+      },
+      {
+        "VN": "Part 3",
+        "VL": "https://youtu.be/nImzWI0tUnw"
+      },
+      {
+        "VN": "Part 4",
+        "VL": "https://youtu.be/_cIVtEytFPw"
+      },
+      {
+          "VN": "Part 5",
+          "VL": "https://youtu.be/MKjUccA7heI"
+        
+      },
+      {
+          "VN": "Part 6",
+          "VL": "https://youtu.be/ouBObskMQjQ"
+        
+      },
+      {
+          "VN": "Part 7",
+          "VL": " https://youtu.be/hbuTL4ElKL0"
+        
+      },
+      {
+          "VN": "Part 8",
+          "VL": "https://youtu.be/q3rBA7Q33l0"
+        
+      },
+      {
+          "VN": "Part 9",
+          "VL": "https://youtu.be/SUFB5p_U9DQ"
+        
+      },
+      {
+          "VN": "Part 10",
+          "VL": "https://youtu.be/LMJCZszTdYg"
+        
+      },
+      {
+          "VN": "Part 11",
+          "VL": "https://youtu.be/TBa4hBgEuAg"
+        
+      },
+      {
+          "VN": "Dout Session 1",
+          "VL": "https://youtu.be/CIvWMYjbD3E"
+        
+      }
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "",
+        "ML": ""
+      }
+    ]
+  },
+  {
+    "ChapterName": "Origin and Evolution of Life",
+    "Videos": [
+      {
+        "VN": "Part 1",
+        "VL": "https://youtu.be/VzgfnbFGXJ8"
+      },
+      {
+        "VN": "Part 2",
+        "VL": "https://youtu.be/IeP2_RjU5Qg"
+      },
+      {
+        "VN": "Part 3",
+        "VL": "https://youtu.be/ERcFqcgZgUI"
+      },
+      {
+        "VN": "Part 4",
+        "VL": "https://youtu.be/SwvY29Bsu2g"
+      },
+      {
+          "VN": "Part 5",
+          "VL": "https://youtu.be/StEVmCPUWAQ"
+        
+      },
+      {
+          "VN": "Part 6",
+          "VL": "https://youtu.be/434IH7HXmQw"
+        
+      },
+      {
+          "VN": "Part 7",
+          "VL": " https://youtu.be/8PLsGPOAeaw"
+        
+      },
+      {
+          "VN": "Part 8",
+          "VL": "https://youtu.be/estVCnbLuFI"
+        
+      }
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "",
+        "ML": ""
+      }
+    ]
+  },
+  {
+    "ChapterName": "Plant Water Relation",
+    "Videos": [
+      {
+        "VN": "Part 1",
+        "VL": "https://youtu.be/q9Jrr6pU0eg"
+      },
+      {
+        "VN": "Part 2",
+        "VL": "https://youtu.be/LuCMUvTDTTY"
+      },
+      {
+        "VN": "Part 3",
+        "VL": "https://youtu.be/Hx4EwAj2dTM"
+      },
+      {
+        "VN": "Part 4",
+        "VL": "https://youtu.be/SsJohMniqZI"
+      },
+      {
+          "VN": "Part 5",
+          "VL": "https://youtu.be/je9U_aXRCUw"
+        
+      },
+      {
+          "VN": "Part 6",
+          "VL": "https://youtu.be/sV5c8zHtIJ8"
+        
+      },
+      {
+          "VN": "Part 7",
+          "VL": " https://youtu.be/tyDvn3JTEvo"
+        
+      },
+      {
+          "VN": "Part 8",
+          "VL": "https://youtu.be/LOC6KYxyp0Y"
+        
+      }
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "",
+        "ML": ""
+      }
+    ]
+  },
+  {
+    "ChapterName": "Plant Growth & Mineral Nutrition",
+    "Videos": [
+      {
+        "VN": "Part 1",
+        "VL": "https://youtu.be/vXwpPdNCXqE"
+      }
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "",
+        "ML": ""
+      }
+    ]
+  }
 ]
