@@ -286,8 +286,7 @@
                   {
                     "VN": "Part 2",
                     "VL": "https://youtu.be/9XQwCQojikI"
-                  }
-                  ,
+                  },
                   {
                     "VN": "Part 3",
                     "VL": "https://youtu.be/eQOIUl0UF6w"
@@ -304,6 +303,64 @@
                   }
                 ]
               }
-  
+              ,
+              {
+                  "ChapterName": "Elements of Group 1 & 2",
+                  "Videos": [
+                    {
+                      "VN": "Part 1",
+                      "VL": "https://youtu.be/QEkr0BA7gBs"
+                    },
+                    {
+                      "VN": "Part 2",
+                      "VL": "https://youtu.be/V6kLwgQwtIs"
+                    },
+                    {
+                      "VN": "Part 3",
+                      "VL": "https://youtu.be/Q54ZLpbKafs"
+                    },
+                    {
+                      "VN": "Part 4",
+                      "VL": "https://youtu.be/9ShlUwAYdqw"
+                    },
+                    {
+                      "VN": "Part 5",
+                      "VL": "https://youtu.be/AZYpdma0gsg"
+                    },
+                    {
+                      "VN": "Part 6",
+                      "VL": "https://youtu.be/w2LHRPLtLuM"
+                    },
+                    {
+                      "VN": "Part 7",
+                      "VL": "https://youtu.be/oBqvpJat57U"
+                    }
+                  ],
+                  "StudyMaterial":[
+                    {
+                      "MN": "",
+                      "ML": ""
+                    }
+                  ]
+                },
+                {
+                    "ChapterName": "Elements of Group 13 14 and 15",
+                    "Videos": [
+                      {
+                        "VN": "Part 1",
+                        "VL": "https://youtu.be/9LVqnCh7S3k"
+                      },
+                      {
+                        "VN": "Part 2",
+                        "VL": "https://youtu.be/qxSva9gj2v0"
+                      }
+                    ],
+                    "StudyMaterial":[
+                      {
+                        "MN": "",
+                        "ML": ""
+                      }
+                    ]
+                  }
 
 ]
