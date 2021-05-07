@@ -569,5 +569,24 @@
         "ML": ""
       }
     ]
+    },
+    {
+      "ChapterName": "Transition and Inner Transition Elements",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/1z084UGJ_oo"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/be80rfMo82E"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
