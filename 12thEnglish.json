@@ -369,4 +369,39 @@
     }
   ]
 } 
+,
+{
+  "ChapterName": "The Sign of Four",
+  "Videos": [
+    {
+      "VN": "Part 1",
+      "VL": "https://youtu.be/tZBjuYEcyiU"
+    }
+    ,{
+      "VN": "Part 2",
+      "VL": "https://youtu.be/IOsliMOk5h0"
+    } ,{
+      "VN": "Part 3",
+      "VL": "https://youtu.be/RuG-f4hD5PQ"
+    } ,{
+      "VN": "Part 4",
+      "VL": "https://youtu.be/yFmQJiBplso"
+    } ,{
+      "VN": "Part 5",
+      "VL": "https://youtu.be/7w_mErXcyto"
+    } ,{
+      "VN": "Part 6",
+      "VL": "https://youtu.be/0opf628ksxc"
+    } ,{
+      "VN": "Part 7",
+      "VL": "https://youtu.be/22sZIup4spA"
+    } 
+  ],
+  "StudyMaterial":[
+    {
+      "MN": "",
+      "ML": ""
+    }
+  ]
+} 
 ]
