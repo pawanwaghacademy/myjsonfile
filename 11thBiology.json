@@ -407,5 +407,24 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "Excretion and Osmoregulation",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/Qfo8M1fWbpY"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/l73LEySkdgE"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
