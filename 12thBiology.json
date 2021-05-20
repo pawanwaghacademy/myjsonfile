@@ -348,5 +348,24 @@
         "ML": ""
       }
     ]
+  },
+  {
+    "ChapterName": "Control and Coordination",
+    "Videos": [
+      {
+        "VN": "Part 1",
+        "VL": "https://youtu.be/dkINF0lHVtw"
+      },
+      {
+        "VN": "Part 2",
+        "VL": "https://youtu.be/YU2z65rm5UE"
+      }
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "",
+        "ML": ""
+      }
+    ]
   }
 ]
