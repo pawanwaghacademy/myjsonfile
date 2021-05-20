@@ -365,6 +365,21 @@
                         "ML": ""
                       }
                     ]
-                  }
+                  },
+                  {
+                      "ChapterName": "Adsorption and Colloids",
+                      "Videos": [
+                        {
+                          "VN": "Part 1",
+                          "VL": "https://youtu.be/U2c7CuVnY4Y"
+                        }
+                      ],
+                      "StudyMaterial":[
+                        {
+                          "MN": "",
+                          "ML": ""
+                        }
+                      ]
+                    }
 
 ]
