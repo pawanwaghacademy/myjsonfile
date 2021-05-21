@@ -219,6 +219,47 @@
       ]
     },
     {
+      "ChapterName": "Why we Travel",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/0RGz0_u3RYc"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+  },{
+    "ChapterName": "Voyaging Towards Excellence",
+    "Videos": [
+      {
+        "VN": "Part 1",
+        "VL": "https://youtu.be/gwuOqlj7dgQ"
+      }, {
+        "VN": "Part 2",
+        "VL": "https://youtu.be/SzHFNwNExnA"
+      }, {
+        "VN": "Part 3",
+        "VL": "https://youtu.be/i1aFryZ1LiU"
+      }, {
+        "VN": "Part 4",
+        "VL": "https://youtu.be/5jfLjoan5To"
+      }, {
+        "VN": "Part 5",
+        "VL": "https://youtu.be/dQoGSpHfSWg"
+      }
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "",
+        "ML": ""
+      }
+    ]
+},
+    {
       "ChapterName": "Song of the Open Road",
       "Videos": [
         {
@@ -268,11 +309,11 @@
       ]
     },
     {
-      "ChapterName": "Summary Writing",
+      "ChapterName": "Have You Earned Your Tomorrow",
       "Videos": [
         {
           "VN": "Part 1",
-          "VL": "https://youtu.be/VqredJkLUI4"
+          "VL": "https://youtu.be/hDU5X_YG-Hg"
         }
       ],
       "StudyMaterial":[
@@ -281,13 +322,85 @@
           "ML": ""
         }
       ]
-    },
-    {
-      "ChapterName": "Have You Earned Your Tomorrow",
+    } ,{
+      "ChapterName": "Father Returning Home",
       "Videos": [
         {
           "VN": "Part 1",
-          "VL": "https://youtu.be/hDU5X_YG-Hg"
+          "VL": "https://youtu.be/uy6vNSSAohM"
+        },{
+          "VN": "Part 2",
+          "VL": "https://youtu.be/dXRddQk8pL4"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },{
+      "ChapterName": "Money",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/ZQHDOShp6k0"
+        },{
+          "VN": "Part 2",
+          "VL": "https://youtu.be/_UE9fugwJCE"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    } ,
+    {
+      "ChapterName": "She Walks in Beauty",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/vbN6_oPwhW4"
+        }
+        ,{
+          "VN": "Part 2",
+          "VL": "https://youtu.be/FU-PuQt33R4"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    } ,
+    {
+      "ChapterName": "Small Towns and Rivers",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/nZ0M5OMksEE"
+        }
+        ,{
+          "VN": "Part 2",
+          "VL": "https://youtu.be/we057IIwXVQ"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    } ,
+    {
+      "ChapterName": "Summary Writing",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/VqredJkLUI4"
         }
       ],
       "StudyMaterial":[
@@ -315,32 +428,13 @@
           "ML": ""
         }
       ]
-  }  ,
-  {
-    "ChapterName": "Why we Travel",
-    "Videos": [
-      {
-        "VN": "Part 1",
-        "VL": "https://youtu.be/0RGz0_u3RYc"
-      }
-    ],
-    "StudyMaterial":[
-      {
-        "MN": "",
-        "ML": ""
-      }
-    ]
-} ,
-{
-  "ChapterName": "She Walks in Beauty",
+  }  
+, {
+  "ChapterName": "Note Making",
   "Videos": [
     {
       "VN": "Part 1",
-      "VL": "https://youtu.be/vbN6_oPwhW4"
-    }
-    ,{
-      "VN": "Part 2",
-      "VL": "https://youtu.be/FU-PuQt33R4"
+      "VL": "https://youtu.be/ahlIUO8GWQw"
     }
   ],
   "StudyMaterial":[
@@ -349,17 +443,12 @@
       "ML": ""
     }
   ]
-} ,
-{
-  "ChapterName": "Small Towns and Rivers",
+},{
+  "ChapterName": "Statement of Purpose",
   "Videos": [
     {
       "VN": "Part 1",
-      "VL": "https://youtu.be/nZ0M5OMksEE"
-    }
-    ,{
-      "VN": "Part 2",
-      "VL": "https://youtu.be/we057IIwXVQ"
+      "VL": "https://youtu.be/3BetAtvQvEc"
     }
   ],
   "StudyMaterial":[
@@ -368,7 +457,77 @@
       "ML": ""
     }
   ]
-} 
+},{
+  "ChapterName": "Drafting a Virtual Message",
+  "Videos": [
+    {
+      "VN": "Part 1",
+      "VL": "https://youtu.be/spA61-zG5H4"
+    }
+  ],
+  "StudyMaterial":[
+    {
+      "MN": "",
+      "ML": ""
+    }
+  ]
+},{
+  "ChapterName": "Group Discussion",
+  "Videos": [
+    {
+      "VN": "Part 1",
+      "VL": "https://youtu.be/Os1pYLfyDRA"
+    }
+  ],
+  "StudyMaterial":[
+    {
+      "MN": "",
+      "ML": ""
+    }
+  ]
+}  
+,{
+  "ChapterName": "History of Novel ",
+  "Videos": [
+    {
+      "VN": "Part 1",
+      "VL": "https://youtu.be/7ubslaJJKO0"
+    },
+    {
+      "VN": "Part 2",
+      "VL": "https://youtu.be/ABBKoOyi69k"
+    },
+    {
+      "VN": "Part 3",
+      "VL": "https://youtu.be/uGhvw6PfNP0"
+    }
+  ],
+  "StudyMaterial":[
+    {
+      "MN": "",
+      "ML": ""
+    }
+  ]
+}  
+,{
+  "ChapterName": "To Sir, with Love",
+  "Videos": [
+    {
+      "VN": "Part 1",
+      "VL": "https://youtu.be/IdPZJXtj6KQ"
+    },
+    {
+      "VN": "Part 2",
+      "VL": "https://youtu.be/GUQp_rmhAW0"
+    }
+  ],
+  "StudyMaterial":[
+    {
+      "MN": "",
+      "ML": ""
+    }
+  ]
+}  
 ,
 {
   "ChapterName": "The Sign of Four",
