@@ -380,6 +380,45 @@
                           "ML": ""
                         }
                       ]
-                    }
+                    } ,
+                    {
+                        "ChapterName": "States of Matter",
+                        "Videos": [
+                          {
+                            "VN": "Part 1",
+                            "VL": "https://youtu.be/cL-Yc9hY1qk"
+                          },
+                          {
+                            "VN": "Part 2",
+                            "VL": "https://youtu.be/nzSR_q0039k"
+                          },
+                          {
+                            "VN": "Part 3",
+                            "VL": "https://youtu.be/3mu1br7ReGE"
+                          },
+                          {
+                            "VN": "Part 4",
+                            "VL": "https://youtu.be/6kpBT9CwW-w"
+                          },
+                          {
+                            "VN": "Part 5",
+                            "VL": "https://youtu.be/V_dOFxoKg2I"
+                          },
+                          {
+                            "VN": "Part 6",
+                            "VL": "https://youtu.be/7wlM3CuPrNQ"
+                          },
+                          {
+                            "VN": "Part 7",
+                            "VL": "https://youtu.be/i855X0VXTjc"
+                          }
+                        ],
+                        "StudyMaterial":[
+                          {
+                            "MN": "",
+                            "ML": ""
+                          }
+                        ]
+                      }      
 
 ]
