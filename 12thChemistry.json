@@ -612,5 +612,60 @@
           "ML": ""
         }
       ]
+    },
+    {
+      "ChapterName": "Elements of Group 16 17 and 18",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/FkZPXCyE2c4"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/95N94o7euv0"
+        },
+        {
+          "VN": "Part 3",
+          "VL": "https://youtu.be/ux5ILYbjZ-w"
+        },
+        {
+          "VN": "Part 4",
+          "VL": "https://youtu.be/GgLO2KXWKHA"
+        },
+        {
+          "VN": "Part 5",
+          "VL": "https://youtu.be/SeRQtvdAbyc"
+        },
+        {
+          "VN": "Part 6",
+          "VL": "https://youtu.be/IgP2DVPDADw"
+        },
+        {
+          "VN": "Part 7",
+          "VL": "https://youtu.be/7cjRgpGaWOU"
+        },
+        {
+          "VN": "Part 8",
+          "VL": "https://youtu.be/b0s8ySmOvyc"
+        },
+        {
+          "VN": "Part 9",
+          "VL": "https://youtu.be/0Xqu65P0CFA"
+        },
+        {
+          "VN": "Part 10",
+          "VL": "https://youtu.be/rpCv8d9EuO8"
+        },
+        {
+          "VN": "Part 11",
+          "VL": "https://youtu.be/mB0wXZW5Dn4"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
 ]
