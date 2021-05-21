@@ -44,8 +44,7 @@
           "ML": ""
         }
       ]
-    },
-    {
+    }, {
       "ChapterName": "आद्यकृषक: पृथुवैन्य:",
       "Videos": [
         {
@@ -59,8 +58,7 @@
           "ML": ""
         }
       ]
-    },
-    {
+    },  {
       "ChapterName": "व्यसने मित्रपरीक्षा",
       "Videos": [
         {
@@ -74,8 +72,7 @@
           "ML": ""
         }
       ]
-    },
-    {
+    },{
       "ChapterName": "सुक्तिसुधा",
       "Videos": [
         {
@@ -108,5 +105,121 @@
           "ML": ""
         }
       ]
+    },{
+      "ChapterName": "संस्कृतनाट्यस्तबक",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/ShWa1vLlv3I"
+        },{
+          "VN": "भाग 2",
+          "VL": "https://youtu.be/3xEjQo7Lzwo"
+        },{
+          "VN": "भाग 3",
+          "VL": "https://youtu.be/qk-THURHuB8"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },{
+      "ChapterName": "वाचनप्रशंसा",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/4iGazDhLz_I"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },{
+      "ChapterName": "नदीसुक्तम",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/UR2G2zdX8rA"
+        }, {
+          "VN": "भाग 2",
+          "VL": "https://youtu.be/jY_q9TQswi8"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },{
+      "ChapterName": "जतायुशौर्याम",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/78O1dayT4Dc"
+        }, {
+          "VN": "भाग 2",
+          "VL": "https://youtu.be/W6IrgikeP4M"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    }, {
+      "ChapterName": "आदिशंकरचार्य",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/iELJdYZjVz0"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },{
+      "ChapterName": "प्रतिपद संस्कृतम",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/5szc6-eMRZY"
+        }, {
+          "VN": "भाग 2",
+          "VL": "https://youtu.be/sbSaYaX921M"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
     }
+    ,{
+      "ChapterName": "मानवता धर्म",
+      "Videos": [
+        {
+          "VN": "भाग १",
+          "VL": "https://youtu.be/v0t9BCIxINE"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    }
+    
+    
 ]
