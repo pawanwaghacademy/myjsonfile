@@ -334,6 +334,144 @@
       ]
     },
     {
+    "ChapterName": "Chemical Kinetics",
+    "Videos": [
+      {
+        "VN": "Part 1",
+        "VL": "https://youtu.be/fF9XxnrY6aw"
+      },{
+        "VN": "Part 2",
+        "VL": "https://youtu.be/x9TDU2GInsA"
+      },{
+        "VN": "Part 3",
+        "VL": "https://youtu.be/9G9_SE-F2U4"
+      },{
+        "VN": "Part 4",
+        "VL": "https://youtu.be/uLSc62OT-L4"
+      },
+      {
+        "VN": "Part 5",
+        "VL": "https://youtu.be/NnVTuzT8tUo"
+      },
+      {
+        "VN": "Part 6",
+        "VL": "https://youtu.be/1UudjZQCNG8"
+      },
+      {
+        "VN": "Part 7",
+        "VL": "https://youtu.be/MqE0pPUaxNs"
+      },
+      {
+        "VN": "Part 8",
+        "VL": "https://youtu.be/-EErvGHMJKI"
+      }
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "",
+        "ML": ""
+      }
+    ]
+    },
+    {
+      "ChapterName": "Elements of Group 16 17 and 18",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/FkZPXCyE2c4"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/95N94o7euv0"
+        },
+        {
+          "VN": "Part 3",
+          "VL": "https://youtu.be/ux5ILYbjZ-w"
+        },
+        {
+          "VN": "Part 4",
+          "VL": "https://youtu.be/GgLO2KXWKHA"
+        },
+        {
+          "VN": "Part 5",
+          "VL": "https://youtu.be/SeRQtvdAbyc"
+        },
+        {
+          "VN": "Part 6",
+          "VL": "https://youtu.be/IgP2DVPDADw"
+        },
+        {
+          "VN": "Part 7",
+          "VL": "https://youtu.be/7cjRgpGaWOU"
+        },
+        {
+          "VN": "Part 8",
+          "VL": "https://youtu.be/b0s8ySmOvyc"
+        },
+        {
+          "VN": "Part 9",
+          "VL": "https://youtu.be/0Xqu65P0CFA"
+        },
+        {
+          "VN": "Part 10",
+          "VL": "https://youtu.be/rpCv8d9EuO8"
+        },
+        {
+          "VN": "Part 11",
+          "VL": "https://youtu.be/mB0wXZW5Dn4"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "Transition and Inner Transition Elements",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/1z084UGJ_oo"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/be80rfMo82E"
+        },
+        {
+          "VN": "Part 3",
+          "VL": "https://youtu.be/K3jS3_IoM-o"
+        },
+        {
+          "VN": "Part 4",
+          "VL": "https://youtu.be/Iht14jQE3AU"
+        },
+        {
+          "VN": "Part 5",
+          "VL": "https://youtu.be/zT9W8tecq2w"
+        },
+        {
+          "VN": "Part 6",
+          "VL": "https://youtu.be/YT8RAcVP3HA"
+        },
+        {
+          "VN": "Part 7",
+          "VL": "https://youtu.be/gYIKjBZUbks"
+        },
+        {
+          "VN": "Part 8",
+          "VL": "https://youtu.be/fbjtxFBdvcQ"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
       "ChapterName": "Halogen Derivatives",
       "Videos": [
         {
@@ -521,144 +659,6 @@
         {
           "VN": "Revision of Chapter 3 & 4 Organic Chemistry",
           "VL": "https://youtu.be/BxYCgK4_EZM"
-        }
-      ],
-      "StudyMaterial":[
-        {
-          "MN": "",
-          "ML": ""
-        }
-      ]
-    },
-    {
-    "ChapterName": "Chemical Kinetics",
-    "Videos": [
-      {
-        "VN": "Part 1",
-        "VL": "https://youtu.be/fF9XxnrY6aw"
-      },{
-        "VN": "Part 2",
-        "VL": "https://youtu.be/x9TDU2GInsA"
-      },{
-        "VN": "Part 3",
-        "VL": "https://youtu.be/9G9_SE-F2U4"
-      },{
-        "VN": "Part 4",
-        "VL": "https://youtu.be/uLSc62OT-L4"
-      },
-      {
-        "VN": "Part 5",
-        "VL": "https://youtu.be/NnVTuzT8tUo"
-      },
-      {
-        "VN": "Part 6",
-        "VL": "https://youtu.be/1UudjZQCNG8"
-      },
-      {
-        "VN": "Part 7",
-        "VL": "https://youtu.be/MqE0pPUaxNs"
-      },
-      {
-        "VN": "Part 8",
-        "VL": "https://youtu.be/-EErvGHMJKI"
-      }
-    ],
-    "StudyMaterial":[
-      {
-        "MN": "",
-        "ML": ""
-      }
-    ]
-    },
-    {
-      "ChapterName": "Transition and Inner Transition Elements",
-      "Videos": [
-        {
-          "VN": "Part 1",
-          "VL": "https://youtu.be/1z084UGJ_oo"
-        },
-        {
-          "VN": "Part 2",
-          "VL": "https://youtu.be/be80rfMo82E"
-        },
-        {
-          "VN": "Part 3",
-          "VL": "https://youtu.be/K3jS3_IoM-o"
-        },
-        {
-          "VN": "Part 4",
-          "VL": "https://youtu.be/Iht14jQE3AU"
-        },
-        {
-          "VN": "Part 5",
-          "VL": "https://youtu.be/zT9W8tecq2w"
-        },
-        {
-          "VN": "Part 6",
-          "VL": "https://youtu.be/YT8RAcVP3HA"
-        },
-        {
-          "VN": "Part 7",
-          "VL": "https://youtu.be/gYIKjBZUbks"
-        },
-        {
-          "VN": "Part 8",
-          "VL": "https://youtu.be/fbjtxFBdvcQ"
-        }
-      ],
-      "StudyMaterial":[
-        {
-          "MN": "",
-          "ML": ""
-        }
-      ]
-    },
-    {
-      "ChapterName": "Elements of Group 16 17 and 18",
-      "Videos": [
-        {
-          "VN": "Part 1",
-          "VL": "https://youtu.be/FkZPXCyE2c4"
-        },
-        {
-          "VN": "Part 2",
-          "VL": "https://youtu.be/95N94o7euv0"
-        },
-        {
-          "VN": "Part 3",
-          "VL": "https://youtu.be/ux5ILYbjZ-w"
-        },
-        {
-          "VN": "Part 4",
-          "VL": "https://youtu.be/GgLO2KXWKHA"
-        },
-        {
-          "VN": "Part 5",
-          "VL": "https://youtu.be/SeRQtvdAbyc"
-        },
-        {
-          "VN": "Part 6",
-          "VL": "https://youtu.be/IgP2DVPDADw"
-        },
-        {
-          "VN": "Part 7",
-          "VL": "https://youtu.be/7cjRgpGaWOU"
-        },
-        {
-          "VN": "Part 8",
-          "VL": "https://youtu.be/b0s8ySmOvyc"
-        },
-        {
-          "VN": "Part 9",
-          "VL": "https://youtu.be/0Xqu65P0CFA"
-        },
-        {
-          "VN": "Part 10",
-          "VL": "https://youtu.be/rpCv8d9EuO8"
-        },
-        {
-          "VN": "Part 11",
-          "VL": "https://youtu.be/mB0wXZW5Dn4"
         }
       ],
       "StudyMaterial":[
