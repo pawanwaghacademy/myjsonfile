@@ -117,33 +117,6 @@
       ]
   },
   {
-    "ChapterName": "Molecular Basis of Inheritance",
-    "Videos": [
-      {
-        "VN": "Part 1",
-        "VL": "https://youtu.be/Pe6UK4xyJZw"
-      },
-      {
-        "VN": "Part 2",
-        "VL": "https://youtu.be/PQT7HuGsPs0"
-      },
-      {
-        "VN": "Part 3",
-        "VL": "https://youtu.be/nCAt4lgPMK0"
-      },
-      {
-        "VN": "Part 4",
-        "VL": "https://youtu.be/mOq9y54hqh8"
-      }
-    ],
-    "StudyMaterial":[
-      {
-        "MN": "",
-        "ML": ""
-      }
-    ]
-  },
-  {
     "ChapterName": "Inheritance and Variation",
     "Videos": [
       {
@@ -198,9 +171,56 @@
         
       },
       {
-          "VN": "Dout Session 1",
+          "VN": "Doubt Session 1",
           "VL": "https://youtu.be/CIvWMYjbD3E"
         
+      }
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "",
+        "ML": ""
+      }
+    ]
+  },
+  {
+    "ChapterName": "Molecular Basis of Inheritance",
+    "Videos": [
+      {
+        "VN": "Part 1",
+        "VL": "https://youtu.be/Pe6UK4xyJZw"
+      },
+      {
+        "VN": "Part 2",
+        "VL": "https://youtu.be/PQT7HuGsPs0"
+      },
+      {
+        "VN": "Part 3",
+        "VL": "https://youtu.be/nCAt4lgPMK0"
+      },
+      {
+        "VN": "Part 4",
+        "VL": "https://youtu.be/mOq9y54hqh8"
+      },
+      {
+        "VN": "Part 5",
+        "VL": "https://youtu.be/qXkmpZzRV8s"
+      },
+      {
+        "VN": "Part 6",
+        "VL": "https://youtu.be/s5CdsOB-oHQ"
+      },
+      {
+        "VN": "Part 7",
+        "VL": "https://youtu.be/SzGnGBEswN8"
+      },
+      {
+        "VN": "Part 8",
+        "VL": "https://youtu.be/gh3NxQ2oG5A"
+      },
+      {
+        "VN": "Part 9",
+        "VL": "https://youtu.be/CCQB6-Z8XG0"
       }
     ],
     "StudyMaterial":[
@@ -247,6 +267,16 @@
       {
           "VN": "Part 8",
           "VL": "https://youtu.be/estVCnbLuFI"
+        
+      },
+      {
+          "VN": "Part 9",
+          "VL": "https://youtu.be/l902OR8GfW8"
+        
+      },
+      {
+          "VN": "Part 10",
+          "VL": "https://youtu.be/qcAk5EHmiZo"
         
       }
     ],
@@ -295,6 +325,41 @@
           "VN": "Part 8",
           "VL": "https://youtu.be/LOC6KYxyp0Y"
         
+      }
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "",
+        "ML": ""
+      }
+    ]
+  },
+  {
+    "ChapterName": "Plant Growth & Mineral Nutrition",
+    "Videos": [
+      {
+        "VN": "Part 1",
+        "VL": "https://youtu.be/vXwpPdNCXqE"
+      },
+      {
+        "VN": "Part 2",
+        "VL": "https://youtu.be/k3vI1Uu5QZA"
+      },
+      {
+        "VN": "Part 3",
+        "VL": "https://youtu.be/NM9bM3W3w5s"
+      },
+      {
+        "VN": "Part 4",
+        "VL": "https://youtu.be/ioaJ3hbzQyk"
+      },
+      {
+        "VN": "Part 5",
+        "VL": "https://youtu.be/P0UfpgpXq60"
+      },
+      {
+        "VN": "Part 6",
+        "VL": "https://youtu.be/OTVx0hhjwHs"
       }
     ],
     "StudyMaterial":[
@@ -365,6 +430,26 @@
       {
         "VN": "Part 2",
         "VL": "https://youtu.be/YU2z65rm5UE"
+      },
+      {
+        "VN": "Part 3",
+        "VL": "https://youtu.be/VT4w75XI2DQ"
+      },
+      {
+        "VN": "Part 4",
+        "VL": "https://youtu.be/GEVVu4UKdeY"
+      },
+      {
+        "VN": "Part 5",
+        "VL": "https://youtu.be/_FM8Xhn0uyU"
+      },
+      {
+        "VN": "Part 6",
+        "VL": "https://youtu.be/DtPg8pMu8Io"
+      },
+      {
+        "VN": "Part 7",
+        "VL": "https://youtu.be/7FzbM8mFb9w"
       }
     ],
     "StudyMaterial":[
