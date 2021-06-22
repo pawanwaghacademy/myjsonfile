@@ -15,6 +15,76 @@
     ]
   },
   {
+    "ChapterName": "Laws of Motion",
+    "Videos": [
+      {
+        "VN": "Part 1",
+        "VL": "https://youtu.be/wzVrFDbXUw8"
+      },
+      {
+        "VN": "Part 2",
+        "VL": "https://youtu.be/1LSpENcGcR4"
+      },
+      {
+        "VN": "Part 3",
+        "VL": "https://youtu.be/DGH6GctOSNI"
+      },
+      {
+        "VN": "Part 4",
+        "VL": "https://youtu.be/awfL1dWkQLk"
+      },
+      {
+        "VN": "Part 5",
+        "VL": "https://youtu.be/Lxjgv6RNqzY"
+      },
+      {
+        "VN": "Part 6",
+        "VL": "https://youtu.be/OneERqr9qdU"
+      }
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "",
+        "ML": ""
+      }
+    ]
+  },
+  {
+    "ChapterName": "Current Electricity",
+    "Videos": [
+      {
+        "VN": "Part 1",
+        "VL": "https://youtu.be/D8MOMHTuG30"
+      },
+      {
+        "VN": "Part 2",
+        "VL": "https://youtu.be/pd1lU0N3-uU"
+      },
+      {
+        "VN": "Part 3",
+        "VL": "https://youtu.be/FjD0YFO51CI"
+      },
+      {
+        "VN": "Part 4",
+        "VL": "https://youtu.be/jIm5ykUi7Dg"
+      },
+      {
+        "VN": "Part 5",
+        "VL": "https://youtu.be/FNo6nmkeZ1o"
+      },
+      {
+        "VN": "Part 6",
+        "VL": "https://youtu.be/1ZaPMsoTSZc"
+      }
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "",
+        "ML": ""
+      }
+    ]
+  },
+  {
       "ChapterName": "Energy Flow in an Ecosystem",
       "Videos": [
         {
@@ -254,76 +324,6 @@
         {
           "VN": "Part 6",
           "VL": "https://youtu.be/-UU7K296-9I"
-        }
-      ],
-      "StudyMaterial":[
-        {
-          "MN": "",
-          "ML": ""
-        }
-      ]
-    },
-    {
-      "ChapterName": "Laws of Motion",
-      "Videos": [
-        {
-          "VN": "Part 1",
-          "VL": "https://youtu.be/wzVrFDbXUw8"
-        },
-        {
-          "VN": "Part 2",
-          "VL": "https://youtu.be/1LSpENcGcR4"
-        },
-        {
-          "VN": "Part 3",
-          "VL": "https://youtu.be/DGH6GctOSNI"
-        },
-        {
-          "VN": "Part 4",
-          "VL": "https://youtu.be/awfL1dWkQLk"
-        },
-        {
-          "VN": "Part 5",
-          "VL": "https://youtu.be/Lxjgv6RNqzY"
-        },
-        {
-          "VN": "Part 6",
-          "VL": "https://youtu.be/OneERqr9qdU"
-        }
-      ],
-      "StudyMaterial":[
-        {
-          "MN": "",
-          "ML": ""
-        }
-      ]
-    },
-    {
-      "ChapterName": "Current Electricity",
-      "Videos": [
-        {
-          "VN": "Part 1",
-          "VL": "https://youtu.be/D8MOMHTuG30"
-        },
-        {
-          "VN": "Part 2",
-          "VL": "https://youtu.be/pd1lU0N3-uU"
-        },
-        {
-          "VN": "Part 3",
-          "VL": "https://youtu.be/FjD0YFO51CI"
-        },
-        {
-          "VN": "Part 4",
-          "VL": "https://youtu.be/jIm5ykUi7Dg"
-        },
-        {
-          "VN": "Part 5",
-          "VL": "https://youtu.be/FNo6nmkeZ1o"
-        },
-        {
-          "VN": "Part 6",
-          "VL": "https://youtu.be/1ZaPMsoTSZc"
         }
       ],
       "StudyMaterial":[
