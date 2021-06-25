@@ -53,8 +53,16 @@
       ],
       "StudyMaterial":[
         {
-          "MN": "Practice Paper Based Graphical Method",
+          "MN": "Practice Paper 1 Based Graphical Method",
           "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FLinear%20Equations%20Practice%20Paper%20Based%20on%20Graphical%20Method.pdf?alt=media&token=84e4c6df-85d9-4fb0-ad9e-68248e9c930a"
+        },
+        {
+          "MN": "Practice Paper 2 Based Graphical Method",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FLinear%20Equations%20Graphical%20Method%20Paper%202.pdf?alt=media&token=190b9aa8-d47f-43cf-8aa9-61165ce6ef73"
+        },
+        {
+          "MN": "Practice Paper 3 Based Graphical Method",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FLinear%20Equations%20Graphical%20Method%20Paper%203.pdf?alt=media&token=e0de6f7b-f536-4d23-87a8-f2d0ed214eac"
         },
         {
           "MN": "Practice Paper Based on Practice Set 1.1",
