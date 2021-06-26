@@ -193,6 +193,10 @@
             ],
             "StudyMaterial":[
               {
+                "MN": "Notes",
+                "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FStructure%20of%20Atom%20Class%2011th%20Notes.pdf?alt=media&token=902f84e1-5a0f-44f7-8116-c23ceb27e59e"
+              },
+              {
                 "MN": "Practice Paper 1",
                 "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20....corrected%20.....chp%204....std%2011th.pdf?alt=media&token=6a3839a6-b884-40bd-82de-faa599517930"
               }
@@ -244,8 +248,8 @@
               ],
               "StudyMaterial":[
                 {
-                  "MN": "",
-                  "ML": ""
+                  "MN": "Notes",
+                  "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChemical%20Bonding%20Class%2011th%20Chemistry%20Notes.pdf?alt=media&token=d4529712-1d98-4cd7-9d80-25dd2b659889"
                 }
               ]
             },
@@ -271,8 +275,12 @@
               ],
               "StudyMaterial":[
                 {
-                  "MN": "",
-                  "ML": ""
+                  "MN": "Practice Paper 1",
+                  "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FRedox%20Reaction%2011th%20Practice%20Paper%201.pdf?alt=media&token=5736073a-bc78-44c1-8e33-14804bd7a928"
+                },
+                {
+                  "MN": "Practice Paper 2",
+                  "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FRedox%20Reaction%2011th%20Practice%20Paper%202.pdf?alt=media&token=a47ab9a4-41f9-4e3a-b5e9-848ec12318df"
                 }
               ]
             },
