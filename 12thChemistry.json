@@ -173,6 +173,10 @@
         {
           "MN": "Practice Paper 1",
           "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSolution%20Practice%20Paper%201.pdf?alt=media&token=355263d7-7b2f-4fc5-92ee-2cc62db90ac8"
+        },
+        {
+          "MN": "Notes",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSolutions%20Class%2012th%20Chemistry%20Notes.pdf?alt=media&token=0a160120-45e3-4832-ab02-4813607f3e16"
         }
       ]
     },
@@ -226,8 +230,12 @@
       ],
       "StudyMaterial":[
         {
-          "MN": "",
-          "ML": ""
+          "MN": "Practice Paper 1",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FIonic%20Equilibria%20Class%2012th%20Practice%20Paper.pdf?alt=media&token=79e17f18-964a-42cb-a81d-ce7359488323"
+        },
+        {
+          "MN": "Notes",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FIonic%20Equilibria%20Class%2012th%20Chemistry%20Notes.pdf?alt=media&token=68a14950-de27-450e-85b0-37a824f06ec1"
         }
       ]
     },
@@ -281,8 +289,8 @@
       ],
       "StudyMaterial":[
         {
-          "MN": "",
-          "ML": ""
+          "MN": "Practice Paper 1",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChemical%20Thermodynamics%20Class%2012th%20Pratcice%20Paper.pdf?alt=media&token=86a57e57-103d-4d48-a273-c91b40c000f4"
         }
       ]
     },
@@ -308,7 +316,7 @@
        {
         "VN": "Part 5",
         "VL": "https://youtu.be/gi4LnXP8dIg"
-      },
+       },
       {
        "VN": "Part 6",
        "VL": "https://youtu.be/_DGkBujNCDs"
@@ -328,8 +336,8 @@
       ],
       "StudyMaterial":[
         {
-          "MN": "",
-          "ML": ""
+          "MN": "Practice Paper 1",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FElectrochemistry%20Class%2012th%20Practice%20Paper.pdf?alt=media&token=bb3ce6b6-7271-4b4f-ab03-7ecff52d94a4"
         }
       ]
     },
@@ -368,8 +376,8 @@
     ],
     "StudyMaterial":[
       {
-        "MN": "",
-        "ML": ""
+        "MN": "Practice Paper 1",
+        "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChemical%20Kinetics%20Class%2012th%20Practice%20Paper.pdf?alt=media&token=3306d9be-3932-469f-832f-ac92c7b8c655"
       }
     ]
     },
