@@ -375,21 +375,6 @@
                     ]
                   },
                   {
-                      "ChapterName": "Adsorption and Colloids",
-                      "Videos": [
-                        {
-                          "VN": "Part 1",
-                          "VL": "https://youtu.be/U2c7CuVnY4Y"
-                        }
-                      ],
-                      "StudyMaterial":[
-                        {
-                          "MN": "",
-                          "ML": ""
-                        }
-                      ]
-                    } ,
-                    {
                         "ChapterName": "States of Matter",
                         "Videos": [
                           {
@@ -427,6 +412,75 @@
                             "ML": ""
                           }
                         ]
-                      }      
-
+                    },
+                    {
+                      "ChapterName": "Adsorption and Colloids",
+                      "Videos": [
+                        {
+                          "VN": "Part 1",
+                          "VL": "https://youtu.be/U2c7CuVnY4Y"
+                        },
+                        {
+                          "VN": "Part 2",
+                          "VL": "https://youtu.be/3LHqOx0gl74"
+                        },
+                        {
+                          "VN": "Part 3",
+                          "VL": "https://youtu.be/zwwTbkO15JI"
+                        },
+                        {
+                          "VN": "Part 4",
+                          "VL": "https://youtu.be/ka-TPAVUwsI"
+                        },
+                        {
+                          "VN": "Part 5",
+                          "VL": "https://youtu.be/cYZzDKauUDc"
+                        },
+                        {
+                          "VN": "Part 6",
+                          "VL": "https://youtu.be/nLQOxHv4FYo"
+                        },
+                      ],
+                      "StudyMaterial":[
+                        {
+                          "MN": "",
+                          "ML": ""
+                        }
+                      ]
+                    },
+                    {
+                      "ChapterName": "Chemical Equilibrium",
+                      "Videos": [
+                        {
+                          "VN": "Part 1",
+                          "VL": "https://youtu.be/IwJtse9bRPU"
+                        },
+                        {
+                          "VN": "Part 2",
+                          "VL": "https://youtu.be/yIZmcKBtUhM"
+                        },
+                        {
+                          "VN": "Part 3",
+                          "VL": "https://youtu.be/o7Rm_6R_oh4"
+                        },
+                        {
+                          "VN": "Part 4",
+                          "VL": "https://youtu.be/LJX7X-t8PKM"
+                        },
+                        {
+                          "VN": "Part 5",
+                          "VL": "https://youtu.be/9HBGkEfBYuU"
+                        },
+                        {
+                          "VN": "Part 6",
+                          "VL": "https://youtu.be/FKInkIaTds0"
+                        },
+                      ],
+                      "StudyMaterial":[
+                        {
+                          "MN": "",
+                          "ML": ""
+                        }
+                      ]
+                    }     
 ]
