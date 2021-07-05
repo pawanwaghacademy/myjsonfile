@@ -252,7 +252,6 @@
             }
         ]
     },
-
     {
         "ChapterName": "Vectors",
         "Videos": [
@@ -291,16 +290,127 @@
           {
             "VN": "Exercise 5.3 Part 2",
             "VL": "https://youtu.be/kOtYbNzTEAY"
+          },
+          {
+            "VN": "Exercise 5.3 Part 3",
+            "VL": "https://youtu.be/FB_w84WL3sY"
+          },
+          {
+            "VN": "Basic of Exercise 5.4",
+            "VL": "https://youtu.be/rv0loPf3VQU"
+          },
+          {
+            "VN": "Exercise 5.4 Part 1",
+            "VL": "https://youtu.be/B_sQ3BaPBms"
+          },
+          {
+            "VN": "Exercise 5.4 Part 2",
+            "VL": "https://youtu.be/bkoDLedowns"
+          },
+          {
+            "VN": "Exercise 5.4 Part 3",
+            "VL": "https://youtu.be/lDqnYmpGctQ"
+          },
+          {
+            "VN": "Exercise 5.4 Part 4",
+            "VL": "https://youtu.be/0CvIt47UBDM"
+          },
+          {
+            "VN": "Basic of Exercise 5.5",
+            "VL": "https://youtu.be/E1tud5J1Vbw"
+          },
+          {
+            "VN": "Exercise 5.5",
+            "VL": "https://youtu.be/7Qb-NJDu9qk"
           }
         ],
         "StudyMaterial":[
             {
               "MN": "",
               "ML": ""
-
+            }
+        ]
+    },
+    {
+        "ChapterName": "Lines & Planes",
+        "Videos": [
+          {
+            "VN": "Basic of Exercise 6.1",
+            "VL": "https://youtu.be/-VHhUT_cR8k"
+          },
+          {
+            "VN": "Exercise 6.1 Part 1",
+            "VL": "https://youtu.be/P1vMbuvJEpg"
+          },
+          {
+            "VN": "Exercise 6.1 Part 2",
+            "VL": "https://youtu.be/8pUGov46aZE"
+          },
+          {
+            "VN": "Exercise 6.2 Part 1",
+            "VL": "https://youtu.be/3JtwzEPwB64"
+          },
+          {
+            "VN": "Exercise 6.2 Part 2",
+            "VL": "https://youtu.be/o5Mwc13jPyM"
+          },
+          {
+            "VN": "Exercise 6.2 Part 3",
+            "VL": "https://youtu.be/qgDwGMVXyUc"
+          },
+          {
+            "VN": "Basic of Exercise 6.3",
+            "VL": "https://youtu.be/wvW82YmMsMM"
+          },
+          {
+            "VN": "Exercise 6.3 Part 1",
+            "VL": "https://youtu.be/OEifgs5kbnA"
+          },
+          {
+            "VN": "Exercise 6.3 Part 2",
+            "VL": "https://youtu.be/JC-EeQJJE8c"
+          },
+          {
+            "VN": "Basic of Exercise 6.4",
+            "VL": "https://youtu.be/dH7PpvRdlow"
+          },
+          {
+            "VN": "Exercise 6.4",
+            "VL": "https://youtu.be/HM9cC-UNCwg"
+          }    
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+            }
+        ]
+    },
+    {
+        "ChapterName": "Linear Programming",
+        "Videos": [
+          {
+            "VN": "Exercise 7.1 Part 1",
+            "VL": "https://youtu.be/azyiebTu2jU"
+          },
+          {
+            "VN": "Exercise 7.1 Part 2",
+            "VL": "https://youtu.be/XTGAUxkqhg0"
+          },
+          {
+            "VN": "Exercise 7.1 Part 3",
+            "VL": "https://youtu.be/P3endgET3YI"
+          },
+          {
+            "VN": "Exercise 7.2 Part 1",
+            "VL": "https://youtu.be/bNmQBSNnCUE"
+          }    
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
             }
         ]
     }
-
-
 ]
