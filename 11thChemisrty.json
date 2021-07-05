@@ -482,5 +482,20 @@
                           "ML": ""
                         }
                       ]
+                    },
+                    {
+                      "ChapterName": "Nuclear Chemistry & Radioactivity",
+                      "Videos": [
+                        {
+                          "VN": "Part 1",
+                          "VL": "https://youtu.be/oVpmdSQwZ1I"
+                        }
+                      ],
+                      "StudyMaterial":[
+                        {
+                          "MN": "",
+                          "ML": ""
+                        }
+                      ]
                     }     
 ]
