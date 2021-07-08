@@ -421,7 +421,82 @@
     ]
   },
   {
-    "ChapterName": "Human Health & Diseases",
+    "ChapterName": "Control and Coordination",
+    "Videos": [
+      {
+        "VN": "Part 1",
+        "VL": "https://youtu.be/dkINF0lHVtw"
+      },
+      {
+        "VN": "Part 2",
+        "VL": "https://youtu.be/YU2z65rm5UE"
+      },
+      {
+        "VN": "Part 3",
+        "VL": "https://youtu.be/VT4w75XI2DQ"
+      },
+      {
+        "VN": "Part 4",
+        "VL": "https://youtu.be/GEVVu4UKdeY"
+      },
+      {
+        "VN": "Part 5",
+        "VL": "https://youtu.be/_FM8Xhn0uyU"
+      },
+      {
+        "VN": "Part 6",
+        "VL": "https://youtu.be/DtPg8pMu8Io"
+      },
+      {
+        "VN": "Part 7",
+        "VL": "https://youtu.be/7FzbM8mFb9w"
+      },
+      {
+        "VN": "Part 8",
+        "VL": "https://youtu.be/SlMyxHiIuNc"
+      },
+      {
+        "VN": "Part 9",
+        "VL": "https://youtu.be/MKx55HDuOsY"
+      },
+      {
+        "VN": "Part 10",
+        "VL": "https://youtu.be/KMiKpaZnHhs"
+      },
+      {
+        "VN": "Part 11",
+        "VL": "https://youtu.be/kOStkW_l29o"
+      },
+      {
+        "VN": "Part 12",
+        "VL": "https://youtu.be/Q6cNNtkQ9-c"
+      },
+      {
+        "VN": "Part 13",
+        "VL": "https://youtu.be/LogmRiEOyIw"
+      },
+      {
+        "VN": "Part 14",
+        "VL": "https://youtu.be/1SiJdpZsRrg"
+      },
+      {
+        "VN": "Part 15",
+        "VL": "https://youtu.be/iaOkBTVy-nE"
+      },
+      {
+        "VN": "Part 16",
+        "VL": "https://youtu.be/n6JTc6_bKzY"
+      }
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "",
+        "ML": ""
+      }
+    ]
+  },
+  {
+    "ChapterName": "Human Health and Diseases",
     "Videos": [
       {
         "VN": "Part 1",
@@ -461,11 +536,11 @@
       },
       {
         "VN": "Part 10",
-        "VL": ""
+        "VL": "https://youtu.be/sLhmAi61cqM"
       },
       {
         "VN": "Part 11",
-        "VL": ""
+        "VL": "https://youtu.be/10ZuXfppQPw"
       }
     ],
     "StudyMaterial":[
