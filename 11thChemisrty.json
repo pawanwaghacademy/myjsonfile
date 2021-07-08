@@ -130,6 +130,10 @@
               {
                 "VN": "Part 7",
                 "VL": "https://youtu.be/5hYm8i-n20U"
+              },
+              {
+                "VN": "Part 8",
+                "VL": "https://youtu.be/2BAFV4c6rKM"
               }
             ],
             "StudyMaterial":[
@@ -193,10 +197,6 @@
             ],
             "StudyMaterial":[
               {
-                "MN": "Notes",
-                "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FStructure%20of%20Atom%20Class%2011th%20Notes.pdf?alt=media&token=902f84e1-5a0f-44f7-8116-c23ceb27e59e"
-              },
-              {
                 "MN": "Practice Paper 1",
                 "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20....corrected%20.....chp%204....std%2011th.pdf?alt=media&token=6a3839a6-b884-40bd-82de-faa599517930"
               }
@@ -248,8 +248,8 @@
               ],
               "StudyMaterial":[
                 {
-                  "MN": "Notes",
-                  "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChemical%20Bonding%20Class%2011th%20Chemistry%20Notes.pdf?alt=media&token=d4529712-1d98-4cd7-9d80-25dd2b659889"
+                  "MN": "",
+                  "ML": ""
                 }
               ]
             },
@@ -275,12 +275,8 @@
               ],
               "StudyMaterial":[
                 {
-                  "MN": "Practice Paper 1",
-                  "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FRedox%20Reaction%2011th%20Practice%20Paper%201.pdf?alt=media&token=5736073a-bc78-44c1-8e33-14804bd7a928"
-                },
-                {
-                  "MN": "Practice Paper 2",
-                  "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FRedox%20Reaction%2011th%20Practice%20Paper%202.pdf?alt=media&token=a47ab9a4-41f9-4e3a-b5e9-848ec12318df"
+                  "MN": "",
+                  "ML": ""
                 }
               ]
             },
@@ -365,6 +361,14 @@
                       {
                         "VN": "Part 3",
                         "VL": "https://youtu.be/hbPOpErTUYY"
+                      },
+                      {
+                        "VN": "Part 4",
+                        "VL": "https://youtu.be/_8TJQ4LEHAY"
+                      },
+                      {
+                        "VN": "Part 5",
+                        "VL": "https://youtu.be/kpxS3dexcTQ"
                       }
                     ],
                     "StudyMaterial":[
@@ -373,8 +377,8 @@
                         "ML": ""
                       }
                     ]
-                  },
-                  {
+                  } ,
+                    {
                         "ChapterName": "States of Matter",
                         "Videos": [
                           {
@@ -412,90 +416,95 @@
                             "ML": ""
                           }
                         ]
-                    },
-                    {
-                      "ChapterName": "Adsorption and Colloids",
-                      "Videos": [
+                      },
+                      {
+                          "ChapterName": "Adsorption and Colloids",
+                          "Videos": [
+                            {
+                              "VN": "Part 1",
+                              "VL": "https://youtu.be/U2c7CuVnY4Y"
+                            },
+                            {
+                              "VN": "Part 2",
+                              "VL": "https://youtu.be/3LHqOx0gl74"
+                            },
+                            {
+                              "VN": "Part 3",
+                              "VL": "https://youtu.be/zwwTbkO15JI"
+                            },
+                            {
+                              "VN": "Part 4",
+                              "VL": "https://youtu.be/ka-TPAVUwsI"
+                            }
+                          ],
+                          "StudyMaterial":[
+                            {
+                              "MN": "",
+                              "ML": ""
+                            }
+                          ]
+                        }      ,
                         {
-                          "VN": "Part 1",
-                          "VL": "https://youtu.be/U2c7CuVnY4Y"
-                        },
-                        {
-                          "VN": "Part 2",
-                          "VL": "https://youtu.be/3LHqOx0gl74"
-                        },
-                        {
-                          "VN": "Part 3",
-                          "VL": "https://youtu.be/zwwTbkO15JI"
-                        },
-                        {
-                          "VN": "Part 4",
-                          "VL": "https://youtu.be/ka-TPAVUwsI"
-                        },
-                        {
-                          "VN": "Part 5",
-                          "VL": "https://youtu.be/cYZzDKauUDc"
-                        },
-                        {
-                          "VN": "Part 6",
-                          "VL": "https://youtu.be/nLQOxHv4FYo"
-                        }
-                      ],
-                      "StudyMaterial":[
-                        {
-                          "MN": "",
-                          "ML": ""
-                        }
-                      ]
-                    },
-                    {
-                      "ChapterName": "Chemical Equilibrium",
-                      "Videos": [
-                        {
-                          "VN": "Part 1",
-                          "VL": "https://youtu.be/IwJtse9bRPU"
-                        },
-                        {
-                          "VN": "Part 2",
-                          "VL": "https://youtu.be/yIZmcKBtUhM"
-                        },
-                        {
-                          "VN": "Part 3",
-                          "VL": "https://youtu.be/o7Rm_6R_oh4"
-                        },
-                        {
-                          "VN": "Part 4",
-                          "VL": "https://youtu.be/LJX7X-t8PKM"
-                        },
-                        {
-                          "VN": "Part 5",
-                          "VL": "https://youtu.be/9HBGkEfBYuU"
-                        },
-                        {
-                          "VN": "Part 6",
-                          "VL": "https://youtu.be/FKInkIaTds0"
-                        }
-                      ],
-                      "StudyMaterial":[
-                        {
-                          "MN": "",
-                          "ML": ""
-                        }
-                      ]
-                    },
-                    {
-                      "ChapterName": "Nuclear Chemistry & Radioactivity",
-                      "Videos": [
-                        {
-                          "VN": "Part 1",
-                          "VL": "https://youtu.be/oVpmdSQwZ1I"
-                        }
-                      ],
-                      "StudyMaterial":[
-                        {
-                          "MN": "",
-                          "ML": ""
-                        }
-                      ]
-                    }     
+                            "ChapterName": "Chemical Equilibrium",
+                            "Videos": [
+                              {
+                                "VN": "Part 1",
+                                "VL": "https://youtu.be/IwJtse9bRPU"
+                              },
+                              {
+                                "VN": "Part 2",
+                                "VL": "https://youtu.be/yIZmcKBtUhM"
+                              },
+                              {
+                                "VN": "Part 3",
+                                "VL": "https://youtu.be/o7Rm_6R_oh4"
+                              },
+                              {
+                                "VN": "Part 4",
+                                "VL": "https://youtu.be/LJX7X-t8PKM"
+                              },
+                              {
+                                "VN": "Part 5",
+                                "VL": "https://youtu.be/9HBGkEfBYuU"
+                              },
+                              {
+                                "VN": "Part 6",
+                                "VL": "https://youtu.be/FKInkIaTds0"
+                              }
+                            ],
+                            "StudyMaterial":[
+                              {
+                                "MN": "",
+                                "ML": ""
+                              }
+                            ]
+                          }       ,
+                          {
+                              "ChapterName": "Nuclear Chemistry and Radioactivity",
+                              "Videos": [
+                                {
+                                  "VN": "Part 1",
+                                  "VL": "https://youtu.be/oVpmdSQwZ1I"
+                                },
+                                {
+                                  "VN": "Part 2",
+                                  "VL": "https://youtu.be/RtrxFVgzINU"
+                                },
+                                {
+                                  "VN": "Part 3",
+                                  "VL": ""
+                                },
+                                {
+                                  "VN": "Part 4",
+                                  "VL": ""
+                                }
+                              ],
+                              "StudyMaterial":[
+                                {
+                                  "MN": "",
+                                  "ML": ""
+                                }
+                              ]
+                            }      
+
 ]
