@@ -118,15 +118,62 @@
       {
         "VN": "Part 7",
         "VL": "https://youtu.be/_v-bppm0BL8"
+      },
+      {
+        "VN": "Part 8",
+        "VL": "https://youtu.be/_lUBiAXLpro"
       }
     ],
     "StudyMaterial":[
       {
-        "MN": "",
-        "ML": ""
+        "MN": "Practice Paper 1",
+        "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FCurrent%20Electricity%20Class%209th%20Science%20Practice%20Paper.pdf?alt=media&token=8b2f11d7-e4b0-4724-8d4c-2a343fb446b0"
+      },
+      {
+        "MN": "Notes",
+        "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FCurrent%20Electricity%20Class%209th%20Science%20Notes.pdf?alt=media&token=16fb1304-e3a3-4a55-87ac-10e9a6134ac6"
       }
     ]
   },
+  {
+        "ChapterName": "Measurement of Matter",
+        "Videos": [
+          {
+            "VN": "Part 1",
+            "VL": "https://youtu.be/hxSJj50YicI"
+          },
+          {
+            "VN": "Part 2",
+            "VL": "https://youtu.be/eE6i9s1-nq4"
+          },
+          {
+            "VN": "Part 3",
+            "VL": "https://youtu.be/8M-wEhhSpyg"
+          },
+          {
+            "VN": "Part 4",
+            "VL": "https://youtu.be/8sAAJzuszeM"
+          },
+          {
+            "VN": "Part 5",
+            "VL": "https://youtu.be/UBcjA8bvtkY"
+          },
+          {
+            "VN": "Part 6",
+            "VL": "https://youtu.be/uJvKorfj6J8"
+          },
+          {
+            "VN": "Part 7",
+            "VL": "https://youtu.be/iUZQat9vLcg"
+          }    
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+            }
+        ]
+    },
   {
       "ChapterName": "Energy Flow in an Ecosystem",
       "Videos": [
