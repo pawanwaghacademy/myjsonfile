@@ -1,5 +1,20 @@
 [
     {
+      "ChapterName": "Geometrical Construction",
+      "Videos": [
+        {
+          "VN": "Construction",
+          "VL": ""
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "Pracrice Paper",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FGeometrical%20Construction%20Practice%20Paper%207th%20Class.pdf?alt=media&token=4052f08a-298d-486b-8a45-53a3a3112c82"
+        }
+      ]
+    },
+    {
       "ChapterName": "Multiplication and Division of an Integers",
       "Videos": [
         {
