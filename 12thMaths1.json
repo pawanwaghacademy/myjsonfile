@@ -66,6 +66,10 @@
       ],
       "StudyMaterial":[
         {
+          "MN": "Practice Paper 1",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FMathematical%20Logic%20Class%2012th%20Math%201%20Practice%20Paper.pdf?alt=media&token=43307243-ef2e-46cb-bed6-58acccf1c70a"
+        },
+        {
           "MN": "Practice Paper Based on Exercise 1.1",
           "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2F12th%20paper%20Based%20on%20Chapter%201%20Exercise%201.1.pdf?alt=media&token=587e60df-7625-4194-861a-1d51b60ed040"
         },
