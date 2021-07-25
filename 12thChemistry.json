@@ -423,8 +423,8 @@
       ],
       "StudyMaterial":[
         {
-          "MN": "",
-          "ML": ""
+          "MN": "Term Paper",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FElements%20of%20Group%2016%2C17%2C18%20Class%2012th%20Chemistry%20Term%20Paper.pdf?alt=media&token=d5a9bcaa-e49c-4881-ae53-dac6bdaa3341"
         }
       ]
     },
@@ -466,8 +466,8 @@
       ],
       "StudyMaterial":[
         {
-          "MN": "",
-          "ML": ""
+          "MN": "Term Paper",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FTransition%20and%20Inner%20Transiton%20Elements%20Class%2012th%20Chemistry%20Term%20Paper.pdf?alt=media&token=a28e1834-9095-4e56-acf8-aebdf4dd4eb8"
         }
       ]
     },
@@ -584,6 +584,26 @@
         {
           "VN": "Part 5",
           "VL": "https://youtu.be/fSZoDxXWhGY"
+        },
+        {
+          "VN": "Part 6",
+          "VL": "https://youtu.be/RfpCd7JdN_A"
+        },
+        {
+          "VN": "Part 7",
+          "VL": "https://youtu.be/L0KaO6747_Q"
+        },
+        {
+          "VN": "Part 8",
+          "VL": "https://youtu.be/2TH7GanzINM"
+        },
+        {
+          "VN": "Part 9",
+          "VL": "https://youtu.be/T1u-PLVckMs"
+        },
+        {
+          "VN": "Part 10",
+          "VL": ""
         }
       ],
       "StudyMaterial":[
