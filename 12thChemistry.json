@@ -96,7 +96,7 @@
       ],
       "StudyMaterial":[
         {
-          "MN": "Practice Paper 1",
+          "MN": "Practice Paper",
           "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChapter%201%20Question%20PAper%201.pdf?alt=media&token=bf788dc7-c1f8-46c0-b581-922358919d36"
         },
         {
@@ -171,8 +171,12 @@
       ],
       "StudyMaterial":[
         {
-          "MN": "Practice Paper 1",
+          "MN": "Practice Paper",
           "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSolution%20Practice%20Paper%201.pdf?alt=media&token=355263d7-7b2f-4fc5-92ee-2cc62db90ac8"
+        },
+        {
+          "MN": "Notes",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSolutions%20Class%2012th%20Chemistry%20Notes.pdf?alt=media&token=309a081f-fbf7-4b97-ae5b-2eecb01aef47"
         }
       ]
     },
@@ -226,9 +230,13 @@
       ],
       "StudyMaterial":[
         {
-          "MN": "",
-          "ML": ""
-        }
+          "MN": "Pratice Paper",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FIonic%20Equilibria%20Class%2012th%20Practice%20Paper.pdf?alt=media&token=79e17f18-964a-42cb-a81d-ce7359488323"
+        },
+        {
+          "MN": "Notes",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FIonic%20Equilibria%20Class%2012th%20Chemistry%20Notes.pdf?alt=media&token=bfdc8d1f-1c45-4d7e-b7aa-5c7fa950848e"
+        },
       ]
     },
     {
@@ -281,8 +289,12 @@
       ],
       "StudyMaterial":[
         {
-          "MN": "",
-          "ML": ""
+          "MN": "Practice Paper",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChemical%20Thermodynamics%20Class%2012th%20Pratcice%20Paper.pdf?alt=media&token=86a57e57-103d-4d48-a273-c91b40c000f4"
+        },
+        {
+          "MN": "Notes",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChemical%20Thermodynamics%20Class%2012th%20Notes.pdf?alt=media&token=62a19280-5d24-4ab7-929f-55a20eb45782"
         }
       ]
     },
@@ -328,7 +340,7 @@
       ],
       "StudyMaterial":[
         {
-          "MN": "Term Paper",
+          "MN": "Practice Paper",
           "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FElectrochemistry%20Class%2012th%20Practice%20Paper.pdf?alt=media&token=bb3ce6b6-7271-4b4f-ab03-7ecff52d94a4"
         },
         {
@@ -372,8 +384,8 @@
     ],
     "StudyMaterial":[
       {
-        "MN": "",
-        "ML": ""
+        "MN": "Term Paper",
+        "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChemical%20Kinetics%20Class%2012th%20Practice%20Paper.pdf?alt=media&token=3306d9be-3932-469f-832f-ac92c7b8c655"
       }
     ]
     },
@@ -427,7 +439,7 @@
       ],
       "StudyMaterial":[
         {
-          "MN": "Term Paper",
+          "MN": "Practice Paper",
           "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FElements%20of%20Group%2016%2C17%2C18%20Class%2012th%20Chemistry%20Term%20Paper.pdf?alt=media&token=d5a9bcaa-e49c-4881-ae53-dac6bdaa3341"
         }
       ]
@@ -470,7 +482,7 @@
       ],
       "StudyMaterial":[
         {
-          "MN": "Term Paper",
+          "MN": "Practice Paper",
           "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FTransition%20and%20Inner%20Transiton%20Elements%20Class%2012th%20Chemistry%20Term%20Paper.pdf?alt=media&token=a28e1834-9095-4e56-acf8-aebdf4dd4eb8"
         }
       ]
