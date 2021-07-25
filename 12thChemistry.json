@@ -328,8 +328,12 @@
       ],
       "StudyMaterial":[
         {
-          "MN": "",
-          "ML": ""
+          "MN": "Term Paper",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FElectrochemistry%20Class%2012th%20Practice%20Paper.pdf?alt=media&token=bb3ce6b6-7271-4b4f-ab03-7ecff52d94a4"
+        },
+        {
+          "MN": "Notes",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FElectrochemistry%20Class%2012th%20Notes.pdf?alt=media&token=bfd1b2d1-46bb-4911-b1e6-8baa2c193cff"
         }
       ]
     },
