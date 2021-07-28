@@ -4,8 +4,16 @@
         "QLink": "https://raw.githubusercontent.com/pawanwaghacademy/10thQ/main/Lineareq.json"
     },
     {
+        "Topic": "Development in the West",
+        "QLink": "https://raw.githubusercontent.com/pawanwaghacademy/10thQ/main/Development%20in%20the%20West"
+    },
+    {
         "Topic": "Gravitation Quiz 1",
         "QLink": "https://raw.githubusercontent.com/pawanwaghacademy/10thQ/main/Gravitation"
+    },
+    {
+        "Topic": "Gravitation Quiz 2",
+        "QLink": "https://raw.githubusercontent.com/pawanwaghacademy/10thQ/main/Gravitation%20Quiz%202"
     },
     {
         "Topic": "Heredity & Evolution Quiz 1",
@@ -122,5 +130,9 @@
     {
         "Topic": "Space Mission Quiz 1",
         "QLink": "https://raw.githubusercontent.com/pawanwaghacademy/10thQ/main/Space%20Mission"
+    },
+    {
+        "Topic": "Space Mission Quiz 2",
+        "QLink": "https://raw.githubusercontent.com/pawanwaghacademy/10thQ/main/Space%20Mission%20Quiz%202"
     }
 ]
