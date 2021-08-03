@@ -17,8 +17,16 @@
       ],
       "StudyMaterial":[
         {
-          "MN": "Practice Paper",
-          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FRational%20and%20Irrational%20Numbers%20Practice%20Paper%208th%20Class.pdf?alt=media&token=5160a474-a81d-4090-b80c-6a4a05169753"
+          "MN": "Practice Paper 1",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FRational%20and%20Irrational%20Numbers%20Class%208th%20Practice%20Paper%201.pdf?alt=media&token=41d174ad-40ae-4064-913d-3b2c0cd2fd8c"
+        },
+        {
+          "MN": "Practice Paper 2",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FRational%20and%20Irrational%20Numbers%20Class%208th%20Practice%20Paper%202.pdf?alt=media&token=b7d16490-1dbe-43d2-a701-33d214cd613d"
+        },
+        {
+          "MN": "Practice Paper 3",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FRational%20and%20Irrational%20Numbers%20Class%208th%20Practice%20Paper%203.pdf?alt=media&token=25b97b58-9c2e-4964-a08e-11e766e70e63"
         }
       ]
     },
@@ -35,8 +43,12 @@
         ],
         "StudyMaterial":[
           {
-            "MN": "",
-            "ML": ""
+            "MN": "Practice Paper 1",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FParallel%20Lines%20and%20Transversal%20Class%208th%20Practice%20Paper%201.pdf?alt=media&token=90160333-c453-4f77-83ae-9ee53e31d7ea"
+          },
+          {
+            "MN": "Practice Paper 2",
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FParallel%20Lines%20and%20Transversal%20Class%208th%20Practice%20Paper%202.pdf?alt=media&token=4c1ec299-3e45-4474-9f06-06731f4b82e5"
           }
         ]
       },
