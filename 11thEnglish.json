@@ -313,15 +313,147 @@
         {
           "VN": "Part 1",
           "VL": "https://youtu.be/_7w2Gm863gE"
-        }, {
+        }, 
+        {
           "VN": "Part 2",
           "VL": "https://youtu.be/jlCSDCX7AF4"
-        }, {
+        }, 
+        {
           "VN": "Part 3",
           "VL": "https://youtu.be/reJFSJapWnQ"
-        }, {
+        }, 
+        {
           "VN": "Part 4",
           "VL": "https://youtu.be/wL2uGUSO_mY"
+        },
+        {
+          "VN": "Part 5",
+          "VL": "https://youtu.be/UyzWgqaDc5g"
+        },
+        {
+          "VN": "Part 6",
+          "VL": "https://youtu.be/N5hZPGgiQ4w"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "The Planners",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/CQ3gPgcCdcE"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "Expansion of Ideas",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/Ob-__6iDhF4"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "Blog Writting",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/kmu1BkdL27Q"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "Emails",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/KdjAbT1oOy8"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "Interview",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/o_IoGCIIlTQ"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/T7SYAykAcP0"
+        },
+        {
+          "VN": "Part 3",
+          "VL": "https://youtu.be/IhL8jMhQf2A"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "Film Review",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/JIalOCqgT3s"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/oVPc6ONvngg"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "Art of Compering",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/nRugqr_M0ZQ"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/A9ZxdfmE9pI"
         }
       ],
       "StudyMaterial":[
@@ -331,5 +463,4 @@
         }
       ]
     }
-
 ]
