@@ -197,6 +197,10 @@
             ],
             "StudyMaterial":[
               {
+                "MN": "Notes",
+                "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FStructure%20of%20Atom%20Class%2011th%20Notes.pdf?alt=media&token=cfe0e53a-1005-46df-9573-76037ac17ae9"
+              },
+              {
                 "MN": "Practice Paper 1",
                 "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20....corrected%20.....chp%204....std%2011th.pdf?alt=media&token=6a3839a6-b884-40bd-82de-faa599517930"
               }
@@ -248,8 +252,8 @@
               ],
               "StudyMaterial":[
                 {
-                  "MN": "",
-                  "ML": ""
+                  "MN": "Notes",
+                  "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChemical%20Bonding%20Class%2011th%20Chemistry%20Notes.pdf?alt=media&token=ce152a46-aac6-46aa-ac1d-ef4e75b9d58e"
                 }
               ]
             },
@@ -275,8 +279,12 @@
               ],
               "StudyMaterial":[
                 {
-                  "MN": "",
-                  "ML": ""
+                  "MN": "Practice Paper 1",
+                  "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FRedox%20Reaction%2011th%20Practice%20Paper%201.pdf?alt=media&token=ca5bcf4d-0842-4f2a-a0d2-1c588d90bdaa"
+                },
+                {
+                  "MN": "Practice Paper 2",
+                  "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FRedox%20Reaction%2011th%20Practice%20Paper%202.pdf?alt=media&token=5f9d7481-687c-4911-9980-a8a3f190959b"
                 }
               ]
             },
@@ -492,12 +500,21 @@
                                 },
                                 {
                                   "VN": "Part 3",
-                                  "VL": ""
+                                  "VL": "https://youtu.be/AVgAoNSEBaM"
                                 },
                                 {
                                   "VN": "Part 4",
-                                  "VL": ""
+                                  "VL": "https://youtu.be/N0zUW8ZXdVc"
+                                },
+                                {
+                                  "VN": "Part 5",
+                                  "VL": "https://youtu.be/1oONqBPJj2I"
+                                },
+                                {
+                                  "VN": "Part 6",
+                                  "VL": "https://youtu.be/6-ufZGqlHYU"
                                 }
+
                               ],
                               "StudyMaterial":[
                                 {
@@ -505,6 +522,36 @@
                                   "ML": ""
                                 }
                               ]
-                            }      
-
+                            },
+                            {
+                            "ChapterName": "Basic Principles of Organic Chemistry",
+                            "Videos": [
+                              {
+                                "VN": "Part 1",
+                                "VL": "https://youtu.be/J1dbQqiyuDk"
+                              },
+                              {
+                                "VN": "Part 2",
+                                "VL": "https://youtu.be/x8n1Gu0OH5U"
+                              },
+                              {
+                                "VN": "Part 3",
+                                "VL": "https://youtu.be/9KMWPGzcQx0"
+                              },
+                              {
+                                "VN": "Part 4",
+                                "VL": "https://youtu.be/279Al-UgaJ0"
+                              },
+                              {
+                                "VN": "Part 5",
+                                "VL": "https://youtu.be/LmuVjePLUg4"
+                              }
+                            ],
+                            "StudyMaterial":[
+                              {
+                                "MN": "",
+                                "ML": ""
+                              }
+                            ]
+                          }      
 ]
