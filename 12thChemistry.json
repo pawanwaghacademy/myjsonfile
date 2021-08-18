@@ -695,28 +695,5 @@
           "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fchemistry%20question%20paper%20for%20aldehyde%20and%20carboxylic%20acid.pdf?alt=media&token=da09fe98-76ee-40c8-9ddb-0f0311fb8468"
         }
       ]
-    },
-    {
-      "ChapterName": "Amines",
-      "Videos": [
-        {
-          "VN": "Part 1",
-          "VL": ""
-        },
-        {
-          "VN": "Part 2",
-          "VL": ""
-        },
-        {
-          "VN": "Part 3",
-          "VL": ""
-        }
-      ],
-      "StudyMaterial":[
-        {
-          "MN": "",
-          "ML": ""
-        }
-      ]
     }
 ]
