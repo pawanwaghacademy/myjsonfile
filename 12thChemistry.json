@@ -387,7 +387,11 @@
     ],
     "StudyMaterial":[
       {
-        "MN": "Term Paper",
+        "MN": "Notes",
+        "ML": ""
+      },
+      {
+        "MN": "Practice Paper",
         "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChemical%20Kinetics%20Class%2012th%20Practice%20Paper.pdf?alt=media&token=3306d9be-3932-469f-832f-ac92c7b8c655"
       }
     ]
@@ -441,6 +445,10 @@
         }
       ],
       "StudyMaterial":[
+        {
+        "MN": "Notes",
+        "ML": ""
+        },
         {
           "MN": "Practice Paper",
           "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FElements%20of%20Group%2016%2C17%2C18%20Class%2012th%20Chemistry%20Term%20Paper.pdf?alt=media&token=d5a9bcaa-e49c-4881-ae53-dac6bdaa3341"
@@ -528,8 +536,8 @@
       ],
       "StudyMaterial":[
         {
-          "MN": "",
-          "ML": ""
+          "MN": "Practice Paper",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FCoordination%20Compounds%2012th%20Practice%20Paper.pdf?alt=media&token=9df7c6c0-d263-4c7e-9257-cb3489c085c3"
         }
       ]
     },
@@ -619,6 +627,10 @@
         {
           "VN": "Part 9",
           "VL": "https://youtu.be/T1u-PLVckMs"
+        },
+        {
+          "VN": "Part 10",
+          "VL": "https://youtu.be/sqj-xaj2ELQ"
         }
       ],
       "StudyMaterial":[
@@ -634,31 +646,47 @@
       "Videos": [
         {
           "VN": "Part 1",
-          "VL": "https://youtu.be/X44p8IaBf7A"
+          "VL": "https://youtu.be/8mQcp15qBu8"
         },
         {
           "VN": "Part 2",
-          "VL": "https://youtu.be/AtsjhIGRKy0"
+          "VL": "https://youtu.be/9VGIGdAPx3o"
         },
         {
           "VN": "Part 3",
-          "VL": "https://youtu.be/F2pUEFFJaHY"
+          "VL": "https://youtu.be/QLekG_EyytY"
         },
         {
           "VN": "Part 4",
-          "VL": "https://youtu.be/G-9ePLEb4e4"
+          "VL": "https://youtu.be/dLoj2wnE_uc"
         },
         {
           "VN": "Part 5",
-          "VL": "https://youtu.be/8MVy_MGMI3I"
+          "VL": "https://youtu.be/zDxxCN3xAe0"
         },
         {
           "VN": "Part 6",
-          "VL": "https://youtu.be/T2b5dD5deck"
+          "VL": "https://youtu.be/GNeEcqmqGxY"
         },
         {
           "VN": "Part 7",
-          "VL": "https://youtu.be/V0QvcYuls00"
+          "VL": "https://youtu.be/PIwamJqR1ns"
+        },
+        {
+          "VN": "Part 8",
+          "VL": "https://youtu.be/AsQT_r-B1Vo"
+        },
+        {
+          "VN": "Part 9",
+          "VL": "https://youtu.be/W9TpXo6-P1Y"
+        },
+        {
+          "VN": "Part 10",
+          "VL": "https://youtu.be/bGQGGJ0jKxM"
+        },
+        {
+          "VN": "Part 11",
+          "VL": "https://youtu.be/tlHCa3_H0yM"
         }
       ],
       "StudyMaterial":[
@@ -673,91 +701,15 @@
       "Videos": [
         {
           "VN": "Part 1",
-          "VL": "https://youtu.be/sfrbxSry7N8"
+          "VL": ""
         },
         {
           "VN": "Part 2",
-          "VL": "https://youtu.be/9C1Fq-NA53c"
+          "VL": ""
         },
         {
           "VN": "Part 3",
-          "VL": "https://youtu.be/lXCgJFWSDBE"
-        }
-      ],
-      "StudyMaterial":[
-        {
-          "MN": "",
-          "ML": ""
-        }
-      ]
-    },
-    {
-      "ChapterName": "Biomolecules",
-      "Videos": [
-        {
-          "VN": "Part 1",
-          "VL": "https://youtu.be/FBuvsqonLco"
-        },
-        {
-          "VN": "Part 2",
-          "VL": "https://youtu.be/f_lpyX1jjEU"
-        },
-        {
-          "VN": "Part 3",
-          "VL": "https://youtu.be/ghl2aNwjkEw"
-        }
-      ],
-      "StudyMaterial":[
-        {
-          "MN": "",
-          "ML": ""
-        }
-      ]
-    },
-    {
-      "ChapterName": "Introduction to Polymer Chemistry",
-      "Videos": [
-        {
-          "VN": "Part 1",
-          "VL": "https://youtu.be/sy4IfQLHY7s"
-        },
-        {
-          "VN": "Part 2",
-          "VL": "https://youtu.be/2UPTpyTqa7o"
-        }
-      ],
-      "StudyMaterial":[
-        {
-          "MN": "",
-          "ML": ""
-        }
-      ]
-    },
-    {
-    "ChapterName": "Green Chemistry & Nano Chemistry",
-    "Videos": [
-      {
-        "VN": "Part 1",
-        "VL": "https://youtu.be/ldrmvoQfhaQ"
-      }
-    ],
-    "StudyMaterial":[
-      {
-        "MN": "",
-        "ML": ""
-      }
-    ]
-    },
-    {
-      "ChapterName": "Revision Videos",
-      "Videos": [
-        {
-          "VN": "Revision of Chapter 1 & 2 Organic Chemistry",
-          "VL": "https://youtu.be/BxYCgK4_EZM"
-        },
-        {
-          "VN": "Revision of Chapter 3 & 4 Organic Chemistry",
-          "VL": "https://youtu.be/BxYCgK4_EZM"
+          "VL": ""
         }
       ],
       "StudyMaterial":[
