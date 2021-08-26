@@ -388,7 +388,7 @@
     "StudyMaterial":[
       {
         "MN": "Notes",
-        "ML": ""
+        "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChemical%20Kinetics%20Class%2012th%20Notes.pdf?alt=media&token=24a65b4f-2360-46ab-a347-e0dfe071ee24"
       },
       {
         "MN": "Practice Paper",
@@ -640,7 +640,6 @@
         }
       ]
     },
-    
     {
       "ChapterName": "Aldehydes Ketones and Carboxylic Acid",
       "Videos": [
@@ -687,12 +686,39 @@
         {
           "VN": "Part 11",
           "VL": "https://youtu.be/tlHCa3_H0yM"
+        },
+        {
+          "VN": "Part 12",
+          "VL": "https://youtu.be/H4KDXOSYw7Y"
         }
       ],
       "StudyMaterial":[
         {
           "MN": "Paper 1",
           "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fchemistry%20question%20paper%20for%20aldehyde%20and%20carboxylic%20acid.pdf?alt=media&token=da09fe98-76ee-40c8-9ddb-0f0311fb8468"
+        }
+      ]
+    },
+    {
+      "ChapterName": "Amines",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/nLTIdL5Cz-Q"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/AQHCC8zvktY"
+        },
+        {
+          "VN": "Part 3",
+          "VL": "https://youtu.be/53b-pLikRcE"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "Paper 1",
+          "ML": ""
         }
       ]
     }
