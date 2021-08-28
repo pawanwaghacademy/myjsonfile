@@ -381,8 +381,8 @@
                     ],
                     "StudyMaterial":[
                       {
-                        "MN": "",
-                        "ML": ""
+                        "MN": "Practice Paper",
+                        "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FElements%20of%20Group%2013%2014%20%26%2015%20Class%2011th%20Practice%20Paper.pdf?alt=media&token=5d5fc2ae-02ef-47f8-81df-e5fab3a2199a"
                       }
                     ]
                   } ,
@@ -420,8 +420,8 @@
                         ],
                         "StudyMaterial":[
                           {
-                            "MN": "",
-                            "ML": ""
+                            "MN": "Practice Paper",
+                            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FStates%20of%20Matter%20Class%2011th%20Practice%20Paper.pdf?alt=media&token=6dcfaf3f-bb4d-405e-a686-5d301d3f39ca"
                           }
                         ]
                       },
@@ -549,9 +549,13 @@
                               {
                                 "VN": "Part 6",
                                 "VL": "https://youtu.be/nQufV6Gyptw"
+                              },
+                              {
+                                "VN": "Part 7",
+                                "VL": "https://youtu.be/sPrZcszfTJc"
                               }
-                            ],
-                            "StudyMaterial":[
+                              ],
+                              "StudyMaterial":[
                               {
                                 "MN": "",
                                 "ML": ""
