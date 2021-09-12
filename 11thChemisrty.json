@@ -279,6 +279,10 @@
               ],
               "StudyMaterial":[
                 {
+                  "MN": "Notes",
+                  "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FRedox%20Reaction%20Class%2011th%20Chemistry%20Notes.pdf?alt=media&token=be90824e-f644-41d4-9601-35c82c15d958"
+                },
+                {
                   "MN": "Practice Paper 1",
                   "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FRedox%20Reaction%2011th%20Practice%20Paper%201.pdf?alt=media&token=ca5bcf4d-0842-4f2a-a0d2-1c588d90bdaa"
                 },
@@ -310,8 +314,8 @@
                 ],
                 "StudyMaterial":[
                   {
-                    "MN": "",
-                    "ML": ""
+                    "MN": "Notes",
+                    "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FModern%20Periodic%20Table%2011th%20Chemistry%20Notes.pdf?alt=media&token=b41efa1c-4e72-4876-a7a1-744e2066014f"
                   }
                 ]
               }
@@ -553,6 +557,22 @@
                               {
                                 "VN": "Part 7",
                                 "VL": "https://youtu.be/sPrZcszfTJc"
+                              },
+                              {
+                                "VN": "Part 8",
+                                "VL": "https://youtu.be/b8l1wTBJHfY"
+                              },
+                              {
+                                "VN": "Part 9",
+                                "VL": "https://youtu.be/nOhEfCWPzUk"
+                              },
+                              {
+                                "VN": "Part 10",
+                                "VL": "https://youtu.be/-zmw9TkGCe4"
+                              },
+                              {
+                                "VN": "Part 11",
+                                "VL": "https://youtu.be/K5JWB-2rFQ8"
                               }
                               ],
                               "StudyMaterial":[
