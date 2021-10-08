@@ -451,8 +451,8 @@
                           ],
                           "StudyMaterial":[
                             {
-                              "MN": "",
-                              "ML": ""
+                              "MN": "Practice Paper",
+                              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FAdsorption%20and%20Colloids%20Class%2011th%20Practice%20Paper.pdf?alt=media&token=84ac64dd-88df-4080-8a63-78e4a2408467"
                             }
                           ]
                         }      ,
@@ -486,8 +486,8 @@
                             ],
                             "StudyMaterial":[
                               {
-                                "MN": "",
-                                "ML": ""
+                                "MN": "Practice Paper",
+                                "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChemical%20Equilibrium%20Class%2011th%20Practice%20Paper.pdf?alt=media&token=2dc4c449-f58f-4892-baf2-af1babb92360"
                               }
                             ]
                           }       ,
@@ -522,8 +522,8 @@
                               ],
                               "StudyMaterial":[
                                 {
-                                  "MN": "",
-                                  "ML": ""
+                                  "MN": "Practice Paper",
+                                  "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FNuclear%20Chemistry%20and%20Radioactivity%20Class%2011th%20Practice%20Paper.pdf?alt=media&token=80fd8eea-822e-49e3-9b6f-6e7356d51247"
                                 }
                               ]
                             },
@@ -573,6 +573,22 @@
                               {
                                 "VN": "Part 11",
                                 "VL": "https://youtu.be/K5JWB-2rFQ8"
+                              },
+                              {
+                                "VN": "Part 12",
+                                "VL": "https://youtu.be/iqfEftEpdWE"
+                              },
+                              {
+                                "VN": "Part 13",
+                                "VL": "https://youtu.be/KdvL60AoAJw"
+                              },
+                              {
+                                "VN": "Part 14",
+                                "VL": "https://youtu.be/gGNbdK40gdQ"
+                              },
+                              {
+                                "VN": "Part 15",
+                                "VL": "https://youtu.be/Gn1EWe5D1-w"
                               }
                               ],
                               "StudyMaterial":[
@@ -581,5 +597,24 @@
                                 "ML": ""
                               }
                             ]
-                          }      
+                          },
+                          {
+                              "ChapterName": "Hydrocarbons",
+                              "Videos": [
+                                {
+                                  "VN": "Part 1",
+                                  "VL": "https://youtu.be/GQK73SwrB0g"
+                                },
+                                {
+                                  "VN": "Part 2",
+                                  "VL": "https://youtu.be/JpJwSKEmwTQ"
+                                }
+                                ],
+                              "StudyMaterial":[
+                                {
+                                  "MN": "",
+                                  "ML": ""
+                                }
+                              ]
+                            }      
 ]
