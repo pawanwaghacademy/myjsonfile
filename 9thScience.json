@@ -174,7 +174,105 @@
             }
         ]
     },
-  {
+    {
+        "ChapterName": "Acids Bases & Salts",
+        "Videos": [
+          {
+            "VN": "Part 1",
+            "VL": "https://youtu.be/GgvEVZ0AH0E"
+          },
+          {
+            "VN": "Part 2",
+            "VL": "https://youtu.be/AkT_2M85IiQ"
+          },
+          {
+            "VN": "Part 3",
+            "VL": "https://youtu.be/m567etKF0K4"
+          },
+          {
+            "VN": "Part 4",
+            "VL": "https://youtu.be/NWLYLYnN7ec"
+          },
+          {
+            "VN": "Part 5",
+            "VL": "https://youtu.be/KPESNHbqZlg"
+          },
+          {
+            "VN": "Part 6",
+            "VL": "https://youtu.be/-WTweEdPL60"
+          },
+          {
+            "VN": "Part 7",
+            "VL": "https://youtu.be/cOPLfa2OFoE"
+          },
+          {
+            "VN": "Part 8",
+            "VL": "https://youtu.be/81K2SL6m0dE"
+          },
+          {
+            "VN": "Part 9",
+            "VL": "https://youtu.be/CFNl4WzDE0Q"
+          },
+          {
+            "VN": "Part 10",
+            "VL": "https://youtu.be/aGu0w0RQj8o"
+          },
+          {
+            "VN": "Part 11",
+            "VL": "https://youtu.be/GPBNvKmnWaM"
+          }    
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "Notes",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FAcid%20Bases%20and%20Salts%20Class%209th%20Science%20Notes.pdf?alt=media&token=23f1f3cb-abba-48b3-a01f-393955986cf7"
+            }
+        ]
+    },
+    {
+        "ChapterName": "Reflection of Light",
+        "Videos": [
+          {
+            "VN": "Part 1",
+            "VL": "https://youtu.be/E-XuhLrl5s0"
+          },
+          {
+            "VN": "Part 2",
+            "VL": "https://youtu.be/XU6tDJHTsSA"
+          },
+          {
+            "VN": "Part 3",
+            "VL": "https://youtu.be/jEnpXgwlPjw"
+          },
+          {
+            "VN": "Part 4",
+            "VL": "https://youtu.be/PN0NOGAEIiE"
+          },
+          {
+            "VN": "Part 5",
+            "VL": "https://youtu.be/YOiVhRSKnDE"
+          },
+          {
+            "VN": "Part 6",
+            "VL": "https://youtu.be/zQMm9fdmayE"
+          },
+          {
+            "VN": "Part 7",
+            "VL": "https://youtu.be/mgsxysmxl-I"
+          },
+          {
+            "VN": "Part 8",
+            "VL": "https://youtu.be/p3yUbPTk9n8"
+          }    
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+            }
+        ]
+    },
+    {
       "ChapterName": "Energy Flow in an Ecosystem",
       "Videos": [
         {
@@ -424,3 +522,4 @@
       ]
     }
 ]
+
