@@ -1,4 +1,65 @@
 [
+    
+    {
+        "ChapterName": "One Shot Lectures",
+        "Videos": [
+          {
+            "VN": "Similarity",
+            "VL": "https://youtu.be/cfVI0FyICDk"
+          },
+          {
+            "VN": "Phythagoras Theorem",
+            "VL": "https://youtu.be/TEgH8rBpscE"
+          },
+          {
+            "VN": "Circles",
+            "VL": "https://youtu.be/Yg-8qoBmyIs"
+          },
+          {
+            "VN": "Co-ordinate Geometry",
+            "VL": "https://youtu.be/ZU6_AN5ljaw"
+          },
+          {
+            "VN": "Trigonometry",
+            "VL": "https://youtu.be/ApluAeqjlb4"
+          }
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    },
+    {
+        "ChapterName": "Hot with Most Importat Que",
+        "Videos": [
+          {
+            "VN": "Part 1",
+            "VL": "https://youtu.be/FgFfMrQq1M4"
+          },
+          {
+            "VN": "Part 2",
+            "VL": "https://youtu.be/cSnwDcwbNt8"
+          },
+          {
+            "VN": "Part 3",
+            "VL": "https://youtu.be/AFdEzim38xg"
+          },
+          {
+            "VN": "Part 4",
+            "VL": "https://youtu.be/-FD3I34j0mw"
+          }
+        ],
+        "StudyMaterial":[
+            {
+              "MN": "",
+              "ML": ""
+
+            }
+        ]
+    },
     {
       "ChapterName": "Similarity",
       "Videos": [
