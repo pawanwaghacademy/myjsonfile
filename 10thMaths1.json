@@ -20,6 +20,68 @@
     ]
   },
   {
+      "ChapterName": "One Shot Lectures",
+      "Videos": [
+        {
+          "VN": "Linear Equation in Two Variables",
+          "VL": "https://youtu.be/Ew06X-THvZE"
+        },
+        {
+          "VN": "Quadratic Equations",
+          "VL": "https://youtu.be/glGIeFVirdU"
+        },
+        {
+          "VN": "Arithmetic Progression",
+          "VL": "https://youtu.be/-nEbU3OqYo0"
+        },
+        {
+          "VN": "Probability",
+          "VL": "https://youtu.be/U5ywqWMSKpM"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        },
+        {
+      "ChapterName": "Hots with Most Important Que.",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/Hamdq2cJphQ"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/UyaYMcW75JQ"
+        },
+        {
+          "VN": "Part 3",
+          "VL": "https://youtu.be/E3v7oo_txIA"
+        },
+        {
+          "VN": "Part 4",
+          "VL": "https://youtu.be/WiklJL5bxmE"
+        },
+        {
+          "VN": "Part 5",
+          "VL": "https://youtu.be/-xBezK3dGjI"
+        },
+        {
+          "VN": "Part 6",
+          "VL": "https://youtu.be/DhKknEoR52w"
+        },
+        {
+          "VN": "Part 7",
+          "VL": "https://youtu.be/bwtVn-ad1J0"
+        }
+      ],
+      "StudyMaterial":[
+        {
+          "MN": "",
+          "ML": ""
+        },
+        {
       "ChapterName": "Linear Equation in Two Variables ",
       "Videos": [
         {
@@ -504,3 +566,5 @@
         ]
     }
 ]
+
+          
