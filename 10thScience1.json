@@ -22,6 +22,47 @@
         }
       ]
     },
+     {
+          "ChapterName": "One Shot Lectures",
+          "Videos": [
+            {
+              "VN": "Gravitation",
+              "VL": "https://youtu.be/SKAq6hYIEkg"
+            },
+            {
+              "VN": "Periodic Classifications of Elements",
+              "VL": "https://youtu.be/buNgUK0mvg0"
+            },
+            {
+              "VN": "Chemical Reactions and Equations",
+              "VL": "https://youtu.be/j4QD34D2K-E"
+            },
+            {
+              "VN": "Effects of Electric Current",
+              "VL": "https://youtu.be/gNgp9-ehT8A"
+            },
+            {
+              "VN": "Heat",
+              "VL": "https://youtu.be/pgzHuQcjNoE"
+            }, 
+            {
+              "VN": "Refraction of Light",
+              "VL": "https://youtu.be/95WZ14apm4o"
+            },
+            {
+              "VN": "Lenses",
+              "VL": "https://youtu.be/eV1Mghyrgno"
+          
+            }
+          ],
+          "StudyMaterial":[
+              {
+                "MN": "",
+                "ML": ""
+  
+              }
+          ]
+      },
     {
         "ChapterName": "Gravitation",
         "Videos": [
