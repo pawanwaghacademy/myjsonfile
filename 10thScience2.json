@@ -15,6 +15,75 @@
     ]
   },
   {
+    "ChapterName": "One Shot Lectures",
+    "Videos": [
+      {
+        "VN": "Heredity and Evolution",
+        "VL": "https://youtu.be/DCFbISV7U84"
+      },
+      {
+        "VN": "Life Processes in Living Organisms Part 1",
+        "VL": "https://youtu.be/AbmnKXuj97c"
+      },
+      {
+        "VN": "Life Process in Living Organisms Part 2",
+        "VL": "https://youtu.be/d5uIdQ7ZsoE"
+      },
+      {
+        "VN": "Environmental Management",
+        "VL": "https://youtu.be/8S8OcQYrBKE"
+      },
+      {
+        "VN": "Introduction to Microbiology",
+        "VL": "https://youtu.be/hPwy48ocUUE"
+      },
+      {
+        "VN": "Animal Classifications",
+        "VL": "https://youtu.be/JaujolbDskI"
+      },
+      {
+        "VN": "Cell Biology and Biotechnology",
+        "VL": "https://youtu.be/8Dn2Z1AFE38"
+      },
+      {
+        "VN": "Social Health and Disaster Management",
+        "VL": "https://youtu.be/O6pMPFu8dOc"
+      }
+
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "",
+        "ML": ""
+    }
+    ]
+  },
+
+  {
+    "ChapterName": "Most Important Questions",
+    "Videos": [
+      {
+        "VN": "Chapter 1 to 3",
+        "VL": "https://youtu.be/OyoB86beD1E"
+      },
+      {
+        "VN": "Chapter 4 to 6",
+        "VL": "https://youtu.be/Rbj0mUY-ItY"
+      },
+      {
+        "VN": "Chapter 7 to 10",
+        "VL": "https://youtu.be/9NGPc_B388U"
+      }
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "",
+        "ML": ""
+      }
+    ]
+  },
+
+  {
     "ChapterName": "Mid Section Questions",
     "Videos": [
       {
