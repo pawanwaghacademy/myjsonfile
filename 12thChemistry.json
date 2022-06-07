@@ -788,8 +788,73 @@
         {
           "VN": "Part 9",
           "VL": "https://youtu.be/D812Hgk0aac"
+        },
+        {
+          "VN": "Part 10",
+          "VL": "https://youtu.be/g-SxnQmRd7M"
+        },
+        {
+          "VN": "Part 11",
+          "VL": "https://youtu.be/rOp0I2wgjsg"
         }
       ],
+      "StudyMaterial":[
+        {
+          "MN": "Paper 1",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "Introduction to Polymer Chemistry",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/9UFsPQxole8"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/IeGIE2mvGI8"
+        },
+        {
+          "VN": "Part 3",
+          "VL": "https://youtu.be/2cMSiM1aZ3E"
+        },
+        {
+          "VN": "Part 4",
+          "VL": "https://youtu.be/PlGHuGx5hJc"
+        },
+        {
+          "VN": "Part 5",
+          "VL": "https://youtu.be/tI3YKakdbtg"
+        },
+        {
+          "VN": "Part 6",
+          "VL": "https://youtu.be/i2TrfroMwHw"
+        }      ],
+      "StudyMaterial":[
+        {
+          "MN": "Paper 1",
+          "ML": ""
+        }
+      ]
+    },
+    {
+      "ChapterName": "Green Chemistry and Nano Chemistry",
+      "Videos": [
+        {
+          "VN": "Part 1",
+          "VL": "https://youtu.be/_xKnxHcR3qM"
+        },
+        {
+          "VN": "Part 2",
+          "VL": "https://youtu.be/Phrf-onzGA4"
+        },
+        {
+          "VN": "Part 3",
+          "VL": "https://youtu.be/p2LKBfI3HWU"
+        }
+        ],
       "StudyMaterial":[
         {
           "MN": "Paper 1",
