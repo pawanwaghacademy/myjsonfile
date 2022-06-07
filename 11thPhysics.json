@@ -1,67 +1,10 @@
 [
     {
-      "ChapterName": "Units and measurement",
+      "ChapterName": "Introduction of Class 11th Physics",
       "Videos": [
         {
           "VN": "Part 1",
-          "VL": "https://youtu.be/hVzLZTt0_YM"
-        },
-        {
-          "VN": "Part 2",
-          "VL": "https://youtu.be/YntFcEKcgms"
-        },
-        {
-          "VN": "Part 3",
-          "VL": "https://youtu.be/3MM1Loksa6A"
-        },
-        {
-          "VN": "Part 4",
-          "VL": "https://youtu.be/VswuIBhcZsM"
-        },
-        {
-            "VN": "Part 5",
-            "VL": "https://youtu.be/m56oHHN15KU"
-          
-        },
-        {
-            "VN": "Part 6",
-            "VL": "https://youtu.be/J5b1Nn_F1Qk"
-          
-        },
-        {
-            "VN": "Part 7",
-            "VL": "https://youtu.be/npffXHb0nZo"
-          
-        },
-        {
-            "VN": "Part 8",
-            "VL": "https://youtu.be/yyl24qR7VIw"
-          
-        },
-        {
-            "VN": "Part 9",
-            "VL": "https://youtu.be/YNP8i3CGmS0"
-          
-        },
-        {
-            "VN": "Part 10",
-            "VL": "https://youtu.be/jQtx1knp1yw"
-          
-        },
-        {
-            "VN": "Part 11",
-            "VL": "https://youtu.be/3veqloZlIEo"
-          
-        },
-        {
-            "VN": "Part 12",
-            "VL": "https://youtu.be/WV__Ifbc4H0"
-          
-        },
-        {
-            "VN": "Part 13",
-            "VL": "https://youtu.be/2bS0DYwuiq8"
-          
+          "VL": "https://youtu.be/01_x6550Bfk"
         }
       ],
       "StudyMaterial":[
@@ -71,6 +14,79 @@
         }
       ]
     },
+    {
+        "ChapterName": "Units and measurement",
+        "Videos": [
+          {
+            "VN": "Part 1",
+            "VL": "https://youtu.be/hVzLZTt0_YM"
+          },
+          {
+            "VN": "Part 2",
+            "VL": "https://youtu.be/YntFcEKcgms"
+          },
+          {
+            "VN": "Part 3",
+            "VL": "https://youtu.be/3MM1Loksa6A"
+          },
+          {
+            "VN": "Part 4",
+            "VL": "https://youtu.be/VswuIBhcZsM"
+          },
+          {
+              "VN": "Part 5",
+              "VL": "https://youtu.be/m56oHHN15KU"
+            
+          },
+          {
+              "VN": "Part 6",
+              "VL": "https://youtu.be/J5b1Nn_F1Qk"
+            
+          },
+          {
+              "VN": "Part 7",
+              "VL": "https://youtu.be/npffXHb0nZo"
+            
+          },
+          {
+              "VN": "Part 8",
+              "VL": "https://youtu.be/yyl24qR7VIw"
+            
+          },
+          {
+              "VN": "Part 9",
+              "VL": "https://youtu.be/YNP8i3CGmS0"
+            
+          },
+          {
+              "VN": "Part 10",
+              "VL": "https://youtu.be/jQtx1knp1yw"
+            
+          },
+          {
+              "VN": "Part 11",
+              "VL": "https://youtu.be/3veqloZlIEo"
+            
+          },
+          {
+              "VN": "Part 12",
+              "VL": "https://youtu.be/WV__Ifbc4H0"
+            
+          },
+          {
+              "VN": "Part 13",
+              "VL": "https://youtu.be/2bS0DYwuiq8"
+            
+          }
+        ],
+        "StudyMaterial":[
+          {
+            "MN": "",
+            "ML": ""
+          }
+        ]
+      },
+  
 
     {
         "ChapterName": "Mathematical method",
