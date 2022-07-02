@@ -1,701 +1,715 @@
 [
-    {
-      "ChapterName": "Basic of Periodic Table",
+  {
+    "ChapterName": "Basic of Periodic Table",
+    "Videos": [
+      {
+        "VN": "Part 1",
+        "VL": "https://youtu.be/kp94jwHDk8A"
+      }
+    ],
+    "StudyMaterial":[
+      {
+        "MN": "",
+        "ML": ""
+      }
+    ]
+  },
+  {
+      "ChapterName": "Some Basic Concepts of Chemistry",
       "Videos": [
         {
           "VN": "Part 1",
-          "VL": "https://youtu.be/kp94jwHDk8A"
+          "VL": "https://youtu.be/EZgRR8ZppB4"
+        },
+        {
+            "VN": "Part 2",
+            "VL": "https://youtu.be/jcFKttElNQ4"
+        },
+        {
+            "VN": "Part 3",
+            "VL": "https://youtu.be/f5kVm_xq7kc"
+        },
+        {
+            "VN": "Part 4",
+            "VL": "https://youtu.be/HpZSYqanXgQ"
+        },
+        {
+            "VN": "Part 5",
+            "VL": "https://youtu.be/w-IFFF4KNEM"
+        },
+        {
+            "VN": "Part 6",
+            "VL": "https://youtu.be/whhKGABMzjA"
         }
       ],
       "StudyMaterial":[
         {
-          "MN": "",
-          "ML": ""
+          "MN": "Notes",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSome%20baic%20concepts%20of%20chemistry.pdf?alt=media&token=1b914d81-81fa-4e5c-ad71-b3dc24fd3159"
+        },
+        {
+          "MN": "Practice Paper 1",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSome%20Baic%20Concepts%20Paper%201.pdf?alt=media&token=d71ceef0-0cd6-48f3-84f3-80237ebc20eb"
         }
       ]
     },
     {
-        "ChapterName": "Some Basic Concepts of Chemistry",
+        "ChapterName": "Introduction to Analytical Chemistry",
         "Videos": [
           {
             "VN": "Part 1",
-            "VL": "https://youtu.be/EZgRR8ZppB4"
+            "VL": "https://youtu.be/a7lg5HRi5XU"
           },
           {
               "VN": "Part 2",
-              "VL": "https://youtu.be/jcFKttElNQ4"
+              "VL": "https://youtu.be/x29-kLLNeV4"
           },
           {
               "VN": "Part 3",
-              "VL": "https://youtu.be/f5kVm_xq7kc"
+              "VL": "https://youtu.be/wmkQZf6IaSc"
           },
           {
               "VN": "Part 4",
-              "VL": "https://youtu.be/HpZSYqanXgQ"
+              "VL": "https://youtu.be/hVL9T5G9zSU"
           },
           {
               "VN": "Part 5",
-              "VL": "https://youtu.be/w-IFFF4KNEM"
+              "VL": "https://youtu.be/XZABrUepFOU"
           },
           {
               "VN": "Part 6",
-              "VL": "https://youtu.be/whhKGABMzjA"
+              "VL": "https://youtu.be/hYz9gvqiDm8"
+          },
+          {
+              "VN": "Part 7",
+              "VL": "https://youtu.be/zSaX2c5YX_k"
+          },
+          {
+              "VN": "Part 8",
+              "VL": "https://youtu.be/2BAFV4c6rKM"
           }
         ],
         "StudyMaterial":[
           {
             "MN": "Notes",
-            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSome%20baic%20concepts%20of%20chemistry.pdf?alt=media&token=1b914d81-81fa-4e5c-ad71-b3dc24fd3159"
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChapter%202%20notes.pdf?alt=media&token=138cebf1-37f8-4c15-8e28-551137a44170"
           },
           {
             "MN": "Practice Paper 1",
-            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FSome%20Baic%20Concepts%20Paper%201.pdf?alt=media&token=d71ceef0-0cd6-48f3-84f3-80237ebc20eb"
+            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20corrected%20chap%202%20....std%2011%20th.pdf?alt=media&token=cee61620-c8f1-4da6-bfe2-2c93c3cd88d9"
           }
         ]
       },
       {
-          "ChapterName": "Introduction to Analytical Chemistry",
+          "ChapterName": "Basic Analytical Techniques",
           "Videos": [
             {
               "VN": "Part 1",
-              "VL": "https://youtu.be/a7lg5HRi5XU"
+              "VL": "https://youtu.be/RGydKkNj6VY"
             },
             {
-                "VN": "Part 2",
-                "VL": "https://youtu.be/x29-kLLNeV4"
+              "VN": "Part 2",
+              "VL": "https://youtu.be/9W9gtE4-kXg"
             },
             {
-                "VN": "Part 3",
-                "VL": "https://youtu.be/wmkQZf6IaSc"
+              "VN": "Part 3",
+              "VL": "https://youtu.be/TdbQGhipk5o"
             },
             {
-                "VN": "Part 4",
-                "VL": "https://youtu.be/hVL9T5G9zSU"
+              "VN": "Part 4",
+              "VL": "https://youtu.be/MzPDck2trwQ"
             },
             {
-                "VN": "Part 5",
-                "VL": "https://youtu.be/XZABrUepFOU"
+              "VN": "Part 5",
+              "VL": "https://youtu.be/Yijexj1in4o"
             },
             {
-                "VN": "Part 6",
-                "VL": "https://youtu.be/hYz9gvqiDm8"
+              "VN": "Part 6",
+              "VL": "https://youtu.be/zE3DNvTCEAo"
             },
             {
-                "VN": "Part 7",
-                "VL": "https://youtu.be/zSaX2c5YX_k"
+              "VN": "Part 7",
+              "VL": "https://youtu.be/5hYm8i-n20U"
             },
             {
-                "VN": "Part 8",
-                "VL": "https://youtu.be/2BAFV4c6rKM"
+              "VN": "Part 8",
+              "VL": "https://youtu.be/2BAFV4c6rKM"
             }
           ],
           "StudyMaterial":[
             {
               "MN": "Notes",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChapter%202%20notes.pdf?alt=media&token=138cebf1-37f8-4c15-8e28-551137a44170"
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FBasic%20analyitical%20tecniques.pdf?alt=media&token=07331ecd-34f6-4809-a2b4-36e6cb0d4534"
             },
             {
               "MN": "Practice Paper 1",
-              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20corrected%20chap%202%20....std%2011%20th.pdf?alt=media&token=cee61620-c8f1-4da6-bfe2-2c93c3cd88d9"
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20....corrected....chap%203....std%2011%20th.pdf?alt=media&token=5fe593cb-5ae0-48f6-b818-df950b785d9a"
+            }
+          ]
+        },
+      {
+          "ChapterName": "Structure of Atom",
+          "Videos": [
+            {
+              "VN": "Part 1",
+              "VL": "https://youtu.be/6B0Mh_mE92g"
+            },
+            {
+              "VN": "Part 2",
+              "VL": "https://youtu.be/fUbILmc74c4"
+            },
+            {
+              "VN": "Part 3",
+              "VL": "https://youtu.be/rtcYWbforPc"
+            },
+            {
+              "VN": "Part 4",
+              "VL": "https://youtu.be/8UEC0LBYsPg"
+            },
+            {
+              "VN": "Part 5",
+              "VL": "https://youtu.be/VyRY7lO_1Ac"
+            },
+            {
+              "VN": "Part 6",
+              "VL": "https://youtu.be/NWNQVFTS1JU"
+            },
+            {
+              "VN": "Part 7",
+              "VL": "https://youtu.be/aZzBmXy8R88"
+            },
+            {
+              "VN": "Part 8",
+              "VL": "https://youtu.be/1p7rLKfyWH4"
+            },
+            {
+              "VN": "Part 9",
+              "VL": "https://youtu.be/IKc8ateP-XM"
+            },
+            {
+              "VN": "Part 10",
+              "VL": "https://youtu.be/yz9t__A66YU"
+            },
+            {
+              "VN": "Part 11",
+              "VL": "https://youtu.be/1560hK0l_cI"
+            }
+          ],
+          "StudyMaterial":[
+            {
+              "MN": "Notes",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FStructure%20of%20Atom%20Class%2011th%20Notes.pdf?alt=media&token=cfe0e53a-1005-46df-9573-76037ac17ae9"
+            },
+            {
+              "MN": "Practice Paper 1",
+              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20....corrected%20.....chp%204....std%2011th.pdf?alt=media&token=6a3839a6-b884-40bd-82de-faa599517930"
             }
           ]
         },
         {
-            "ChapterName": "Basic Analytical Techniques",
+            "ChapterName": "Chemical Bonding",
             "Videos": [
               {
                 "VN": "Part 1",
-                "VL": "https://youtu.be/RGydKkNj6VY"
+                "VL": "https://youtu.be/u-Mx67wMkkk"
               },
               {
                 "VN": "Part 2",
-                "VL": "https://youtu.be/9W9gtE4-kXg"
+                "VL": "https://youtu.be/SP_8cdCgCnM"
               },
               {
                 "VN": "Part 3",
-                "VL": "https://youtu.be/TdbQGhipk5o"
+                "VL": "https://youtu.be/5fTV6Jzo4_Q"
               },
               {
                 "VN": "Part 4",
-                "VL": "https://youtu.be/MzPDck2trwQ"
+                "VL": "https://youtu.be/qeOnY3XuTko"
               },
               {
                 "VN": "Part 5",
-                "VL": "https://youtu.be/Yijexj1in4o"
+                "VL": "https://youtu.be/p5ytLvVIQaU"
               },
               {
                 "VN": "Part 6",
-                "VL": "https://youtu.be/zE3DNvTCEAo"
+                "VL": "https://youtu.be/l7qxNc1eh4c"
               },
               {
                 "VN": "Part 7",
-                "VL": "https://youtu.be/5hYm8i-n20U"
+                "VL": "https://youtu.be/PSRwQY_xg7A"
               },
               {
                 "VN": "Part 8",
-                "VL": "https://youtu.be/2BAFV4c6rKM"
+                "VL": "https://youtu.be/MAB-jqnuxOM"
+              },
+              {
+                "VN": "Part 9",
+                "VL": "https://youtu.be/dFP0VxKCovQ"
+              },
+              {
+                "VN": "Part 10",
+                "VL": "https://youtu.be/VP5coV5KZ7w"
               }
             ],
             "StudyMaterial":[
               {
                 "MN": "Notes",
-                "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FBasic%20analyitical%20tecniques.pdf?alt=media&token=07331ecd-34f6-4809-a2b4-36e6cb0d4534"
-              },
-              {
-                "MN": "Practice Paper 1",
-                "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20....corrected....chap%203....std%2011%20th.pdf?alt=media&token=5fe593cb-5ae0-48f6-b818-df950b785d9a"
+                "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChemical%20Bonding%20Class%2011th%20Chemistry%20Notes.pdf?alt=media&token=ce152a46-aac6-46aa-ac1d-ef4e75b9d58e"
               }
             ]
           },
         {
-            "ChapterName": "Structure of Atom",
+            "ChapterName": "Redox Reaction",
             "Videos": [
               {
                 "VN": "Part 1",
-                "VL": "https://youtu.be/6B0Mh_mE92g"
+                "VL": "https://youtu.be/8wpvya5PAAU"
               },
               {
                 "VN": "Part 2",
-                "VL": "https://youtu.be/fUbILmc74c4"
+                "VL": "https://youtu.be/gja6Rkw_l4Q"
               },
               {
                 "VN": "Part 3",
-                "VL": "https://youtu.be/rtcYWbforPc"
+                "VL": "https://youtu.be/zV3VEhApzo0"
               },
               {
                 "VN": "Part 4",
-                "VL": "https://youtu.be/8UEC0LBYsPg"
-              },
-              {
-                "VN": "Part 5",
-                "VL": "https://youtu.be/VyRY7lO_1Ac"
-              },
-              {
-                "VN": "Part 6",
-                "VL": "https://youtu.be/NWNQVFTS1JU"
-              },
-              {
-                "VN": "Part 7",
-                "VL": "https://youtu.be/aZzBmXy8R88"
-              },
-              {
-                "VN": "Part 8",
-                "VL": "https://youtu.be/1p7rLKfyWH4"
-              },
-              {
-                "VN": "Part 9",
-                "VL": "https://youtu.be/IKc8ateP-XM"
-              },
-              {
-                "VN": "Part 10",
-                "VL": "https://youtu.be/yz9t__A66YU"
-              },
-              {
-                "VN": "Part 11",
-                "VL": "https://youtu.be/1560hK0l_cI"
+                "VL": "https://youtu.be/T1f9omrIfvI"
               }
             ],
             "StudyMaterial":[
               {
                 "MN": "Notes",
-                "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FStructure%20of%20Atom%20Class%2011th%20Notes.pdf?alt=media&token=cfe0e53a-1005-46df-9573-76037ac17ae9"
+                "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FRedox%20Reaction%20Class%2011th%20Chemistry%20Notes.pdf?alt=media&token=be90824e-f644-41d4-9601-35c82c15d958"
               },
               {
                 "MN": "Practice Paper 1",
-                "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fpractise%20paper%20....corrected%20.....chp%204....std%2011th.pdf?alt=media&token=6a3839a6-b884-40bd-82de-faa599517930"
+                "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FRedox%20Reaction%2011th%20Practice%20Paper%201.pdf?alt=media&token=ca5bcf4d-0842-4f2a-a0d2-1c588d90bdaa"
+              },
+              {
+                "MN": "Practice Paper 2",
+                "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FRedox%20Reaction%2011th%20Practice%20Paper%202.pdf?alt=media&token=5f9d7481-687c-4911-9980-a8a3f190959b"
               }
             ]
           },
           {
-              "ChapterName": "Chemical Bonding",
+              "ChapterName": "Modern Periodic Table",
               "Videos": [
                 {
                   "VN": "Part 1",
-                  "VL": "https://youtu.be/u-Mx67wMkkk"
+                  "VL": "https://youtu.be/VomxQZWHYVw"
                 },
                 {
                   "VN": "Part 2",
-                  "VL": "https://youtu.be/SP_8cdCgCnM"
+                  "VL": "https://youtu.be/9XQwCQojikI"
                 },
                 {
                   "VN": "Part 3",
-                  "VL": "https://youtu.be/5fTV6Jzo4_Q"
+                  "VL": "https://youtu.be/eQOIUl0UF6w"
                 },
                 {
-                  "VN": "Part 4",
-                  "VL": "https://youtu.be/qeOnY3XuTko"
-                },
-                {
-                  "VN": "Part 5",
-                  "VL": "https://youtu.be/p5ytLvVIQaU"
-                },
-                {
-                  "VN": "Part 6",
-                  "VL": "https://youtu.be/l7qxNc1eh4c"
-                },
-                {
-                  "VN": "Part 7",
-                  "VL": "https://youtu.be/PSRwQY_xg7A"
-                },
-                {
-                  "VN": "Part 8",
-                  "VL": "https://youtu.be/MAB-jqnuxOM"
-                },
-                {
-                  "VN": "Part 9",
-                  "VL": "https://youtu.be/dFP0VxKCovQ"
-                },
-                {
-                  "VN": "Part 10",
-                  "VL": "https://youtu.be/VP5coV5KZ7w"
+                  "VN": "Part 4 ",
+                  "VL": "https://youtu.be/ny2GzK-QVUM"
                 }
               ],
               "StudyMaterial":[
                 {
                   "MN": "Notes",
-                  "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChemical%20Bonding%20Class%2011th%20Chemistry%20Notes.pdf?alt=media&token=ce152a46-aac6-46aa-ac1d-ef4e75b9d58e"
+                  "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FModern%20Periodic%20Table%2011th%20Chemistry%20Notes.pdf?alt=media&token=b41efa1c-4e72-4876-a7a1-744e2066014f"
                 }
               ]
-            },
-          {
-              "ChapterName": "Redox Reaction",
-              "Videos": [
-                {
-                  "VN": "Part 1",
-                  "VL": "https://youtu.be/8wpvya5PAAU"
-                },
-                {
-                  "VN": "Part 2",
-                  "VL": "https://youtu.be/gja6Rkw_l4Q"
-                },
-                {
-                  "VN": "Part 3",
-                  "VL": "https://youtu.be/zV3VEhApzo0"
-                },
-                {
-                  "VN": "Part 4",
-                  "VL": "https://youtu.be/T1f9omrIfvI"
-                }
-              ],
-              "StudyMaterial":[
-                {
-                  "MN": "Notes",
-                  "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FRedox%20Reaction%20Class%2011th%20Chemistry%20Notes.pdf?alt=media&token=be90824e-f644-41d4-9601-35c82c15d958"
-                },
-                {
-                  "MN": "Practice Paper 1",
-                  "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FRedox%20Reaction%2011th%20Practice%20Paper%201.pdf?alt=media&token=ca5bcf4d-0842-4f2a-a0d2-1c588d90bdaa"
-                },
-                {
-                  "MN": "Practice Paper 2",
-                  "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FRedox%20Reaction%2011th%20Practice%20Paper%202.pdf?alt=media&token=5f9d7481-687c-4911-9980-a8a3f190959b"
-                }
-              ]
-            },
+            }
+            ,
             {
-                "ChapterName": "Modern Periodic Table",
+                "ChapterName": "Elements of Group 1 & 2",
                 "Videos": [
                   {
                     "VN": "Part 1",
-                    "VL": "https://youtu.be/VomxQZWHYVw"
+                    "VL": "https://youtu.be/QEkr0BA7gBs"
                   },
                   {
                     "VN": "Part 2",
-                    "VL": "https://youtu.be/9XQwCQojikI"
+                    "VL": "https://youtu.be/V6kLwgQwtIs"
                   },
                   {
                     "VN": "Part 3",
-                    "VL": "https://youtu.be/eQOIUl0UF6w"
+                    "VL": "https://youtu.be/Q54ZLpbKafs"
                   },
                   {
-                    "VN": "Part 4 ",
-                    "VL": "https://youtu.be/ny2GzK-QVUM"
+                    "VN": "Part 4",
+                    "VL": "https://youtu.be/9ShlUwAYdqw"
+                  },
+                  {
+                    "VN": "Part 5",
+                    "VL": "https://youtu.be/AZYpdma0gsg"
+                  },
+                  {
+                    "VN": "Part 6",
+                    "VL": "https://youtu.be/w2LHRPLtLuM"
+                  },
+                  {
+                    "VN": "Part 7",
+                    "VL": "https://youtu.be/oBqvpJat57U"
                   }
                 ],
                 "StudyMaterial":[
                   {
-                    "MN": "Notes",
-                    "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FModern%20Periodic%20Table%2011th%20Chemistry%20Notes.pdf?alt=media&token=b41efa1c-4e72-4876-a7a1-744e2066014f"
+                    "MN": "",
+                    "ML": ""
                   }
                 ]
-              }
-              ,
+              },
               {
-                  "ChapterName": "Elements of Group 1 & 2",
+                  "ChapterName": "Elements of Group 13 14 and 15",
                   "Videos": [
                     {
                       "VN": "Part 1",
-                      "VL": "https://youtu.be/QEkr0BA7gBs"
+                      "VL": "https://youtu.be/9LVqnCh7S3k"
                     },
                     {
                       "VN": "Part 2",
-                      "VL": "https://youtu.be/V6kLwgQwtIs"
+                      "VL": "https://youtu.be/qxSva9gj2v0"
                     },
                     {
                       "VN": "Part 3",
-                      "VL": "https://youtu.be/Q54ZLpbKafs"
+                      "VL": "https://youtu.be/hbPOpErTUYY"
                     },
                     {
                       "VN": "Part 4",
-                      "VL": "https://youtu.be/9ShlUwAYdqw"
+                      "VL": "https://youtu.be/_8TJQ4LEHAY"
                     },
                     {
                       "VN": "Part 5",
-                      "VL": "https://youtu.be/AZYpdma0gsg"
-                    },
-                    {
-                      "VN": "Part 6",
-                      "VL": "https://youtu.be/w2LHRPLtLuM"
-                    },
-                    {
-                      "VN": "Part 7",
-                      "VL": "https://youtu.be/oBqvpJat57U"
+                      "VL": "https://youtu.be/kpxS3dexcTQ"
                     }
                   ],
                   "StudyMaterial":[
                     {
-                      "MN": "",
-                      "ML": ""
+                      "MN": "Practice Paper",
+                      "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FElements%20of%20Group%2013%2014%20%26%2015%20Class%2011th%20Practice%20Paper.pdf?alt=media&token=5d5fc2ae-02ef-47f8-81df-e5fab3a2199a"
                     }
                   ]
-                },
-                {
-                    "ChapterName": "Elements of Group 13 14 and 15",
-                    "Videos": [
-                      {
-                        "VN": "Part 1",
-                        "VL": "https://youtu.be/9LVqnCh7S3k"
-                      },
-                      {
-                        "VN": "Part 2",
-                        "VL": "https://youtu.be/qxSva9gj2v0"
-                      },
-                      {
-                        "VN": "Part 3",
-                        "VL": "https://youtu.be/hbPOpErTUYY"
-                      },
-                      {
-                        "VN": "Part 4",
-                        "VL": "https://youtu.be/_8TJQ4LEHAY"
-                      },
-                      {
-                        "VN": "Part 5",
-                        "VL": "https://youtu.be/kpxS3dexcTQ"
-                      }
-                    ],
-                    "StudyMaterial":[
-                      {
-                        "MN": "Practice Paper",
-                        "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FElements%20of%20Group%2013%2014%20%26%2015%20Class%2011th%20Practice%20Paper.pdf?alt=media&token=5d5fc2ae-02ef-47f8-81df-e5fab3a2199a"
-                      }
-                    ]
-                  } ,
+                } ,
+                  {
+                      "ChapterName": "States of Matter",
+                      "Videos": [
+                        {
+                          "VN": "Part 1",
+                          "VL": "https://youtu.be/cL-Yc9hY1qk"
+                        },
+                        {
+                          "VN": "Part 2",
+                          "VL": "https://youtu.be/nzSR_q0039k"
+                        },
+                        {
+                          "VN": "Part 3",
+                          "VL": "https://youtu.be/3mu1br7ReGE"
+                        },
+                        {
+                          "VN": "Part 4",
+                          "VL": "https://youtu.be/6kpBT9CwW-w"
+                        },
+                        {
+                          "VN": "Part 5",
+                          "VL": "https://youtu.be/V_dOFxoKg2I"
+                        },
+                        {
+                          "VN": "Part 6",
+                          "VL": "https://youtu.be/7wlM3CuPrNQ"
+                        },
+                        {
+                          "VN": "Part 7",
+                          "VL": "https://youtu.be/i855X0VXTjc"
+                        }
+                      ],
+                      "StudyMaterial":[
+                        {
+                          "MN": "Practice Paper",
+                          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FStates%20of%20Matter%20Class%2011th%20Practice%20Paper.pdf?alt=media&token=6dcfaf3f-bb4d-405e-a686-5d301d3f39ca"
+                        }
+                      ]
+                    },
                     {
-                        "ChapterName": "States of Matter",
+                        "ChapterName": "Adsorption and Colloids",
                         "Videos": [
                           {
                             "VN": "Part 1",
-                            "VL": "https://youtu.be/cL-Yc9hY1qk"
+                            "VL": "https://youtu.be/U2c7CuVnY4Y"
                           },
                           {
                             "VN": "Part 2",
-                            "VL": "https://youtu.be/nzSR_q0039k"
+                            "VL": "https://youtu.be/3LHqOx0gl74"
                           },
                           {
                             "VN": "Part 3",
-                            "VL": "https://youtu.be/3mu1br7ReGE"
+                            "VL": "https://youtu.be/zwwTbkO15JI"
                           },
                           {
                             "VN": "Part 4",
-                            "VL": "https://youtu.be/6kpBT9CwW-w"
-                          },
-                          {
-                            "VN": "Part 5",
-                            "VL": "https://youtu.be/V_dOFxoKg2I"
-                          },
-                          {
-                            "VN": "Part 6",
-                            "VL": "https://youtu.be/7wlM3CuPrNQ"
-                          },
-                          {
-                            "VN": "Part 7",
-                            "VL": "https://youtu.be/i855X0VXTjc"
+                            "VL": "https://youtu.be/ka-TPAVUwsI"
                           }
                         ],
                         "StudyMaterial":[
                           {
                             "MN": "Practice Paper",
-                            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FStates%20of%20Matter%20Class%2011th%20Practice%20Paper.pdf?alt=media&token=6dcfaf3f-bb4d-405e-a686-5d301d3f39ca"
+                            "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FAdsorption%20and%20Colloids%20Class%2011th%20Practice%20Paper.pdf?alt=media&token=84ac64dd-88df-4080-8a63-78e4a2408467"
                           }
                         ]
-                      },
+                      }      ,
                       {
-                          "ChapterName": "Adsorption and Colloids",
+                          "ChapterName": "Chemical Equilibrium",
                           "Videos": [
                             {
                               "VN": "Part 1",
-                              "VL": "https://youtu.be/U2c7CuVnY4Y"
+                              "VL": "https://youtu.be/IwJtse9bRPU"
                             },
                             {
                               "VN": "Part 2",
-                              "VL": "https://youtu.be/3LHqOx0gl74"
+                              "VL": "https://youtu.be/yIZmcKBtUhM"
                             },
                             {
                               "VN": "Part 3",
-                              "VL": "https://youtu.be/zwwTbkO15JI"
+                              "VL": "https://youtu.be/o7Rm_6R_oh4"
                             },
                             {
                               "VN": "Part 4",
-                              "VL": "https://youtu.be/ka-TPAVUwsI"
+                              "VL": "https://youtu.be/LJX7X-t8PKM"
+                            },
+                            {
+                              "VN": "Part 5",
+                              "VL": "https://youtu.be/9HBGkEfBYuU"
+                            },
+                            {
+                              "VN": "Part 6",
+                              "VL": "https://youtu.be/FKInkIaTds0"
                             }
                           ],
                           "StudyMaterial":[
                             {
                               "MN": "Practice Paper",
-                              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FAdsorption%20and%20Colloids%20Class%2011th%20Practice%20Paper.pdf?alt=media&token=84ac64dd-88df-4080-8a63-78e4a2408467"
+                              "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChemical%20Equilibrium%20Class%2011th%20Practice%20Paper.pdf?alt=media&token=2dc4c449-f58f-4892-baf2-af1babb92360"
                             }
                           ]
-                        }      ,
+                        }       ,
                         {
-                            "ChapterName": "Chemical Equilibrium",
+                            "ChapterName": "Nuclear Chemistry and Radioactivity",
                             "Videos": [
                               {
                                 "VN": "Part 1",
-                                "VL": "https://youtu.be/IwJtse9bRPU"
+                                "VL": "https://youtu.be/oVpmdSQwZ1I"
                               },
                               {
                                 "VN": "Part 2",
-                                "VL": "https://youtu.be/yIZmcKBtUhM"
+                                "VL": "https://youtu.be/RtrxFVgzINU"
                               },
                               {
                                 "VN": "Part 3",
-                                "VL": "https://youtu.be/o7Rm_6R_oh4"
+                                "VL": "https://youtu.be/AVgAoNSEBaM"
                               },
                               {
                                 "VN": "Part 4",
-                                "VL": "https://youtu.be/LJX7X-t8PKM"
+                                "VL": "https://youtu.be/N0zUW8ZXdVc"
                               },
                               {
                                 "VN": "Part 5",
-                                "VL": "https://youtu.be/9HBGkEfBYuU"
+                                "VL": "https://youtu.be/1oONqBPJj2I"
                               },
                               {
                                 "VN": "Part 6",
-                                "VL": "https://youtu.be/FKInkIaTds0"
+                                "VL": "https://youtu.be/6-ufZGqlHYU"
                               }
+
                             ],
                             "StudyMaterial":[
                               {
                                 "MN": "Practice Paper",
-                                "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FChemical%20Equilibrium%20Class%2011th%20Practice%20Paper.pdf?alt=media&token=2dc4c449-f58f-4892-baf2-af1babb92360"
+                                "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FNuclear%20Chemistry%20and%20Radioactivity%20Class%2011th%20Practice%20Paper.pdf?alt=media&token=80fd8eea-822e-49e3-9b6f-6e7356d51247"
                               }
                             ]
-                          }       ,
-                          {
-                              "ChapterName": "Nuclear Chemistry and Radioactivity",
-                              "Videos": [
-                                {
-                                  "VN": "Part 1",
-                                  "VL": "https://youtu.be/oVpmdSQwZ1I"
-                                },
-                                {
-                                  "VN": "Part 2",
-                                  "VL": "https://youtu.be/RtrxFVgzINU"
-                                },
-                                {
-                                  "VN": "Part 3",
-                                  "VL": "https://youtu.be/AVgAoNSEBaM"
-                                },
-                                {
-                                  "VN": "Part 4",
-                                  "VL": "https://youtu.be/N0zUW8ZXdVc"
-                                },
-                                {
-                                  "VN": "Part 5",
-                                  "VL": "https://youtu.be/1oONqBPJj2I"
-                                },
-                                {
-                                  "VN": "Part 6",
-                                  "VL": "https://youtu.be/6-ufZGqlHYU"
-                                }
-
-                              ],
-                              "StudyMaterial":[
-                                {
-                                  "MN": "Practice Paper",
-                                  "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FNuclear%20Chemistry%20and%20Radioactivity%20Class%2011th%20Practice%20Paper.pdf?alt=media&token=80fd8eea-822e-49e3-9b6f-6e7356d51247"
-                                }
-                              ]
+                          },
+                        {
+                          "ChapterName": "Basic Principles of Organic Chemistry",
+                          "Videos": [
+                            {
+                              "VN": "Part 1",
+                              "VL": "https://youtu.be/J1dbQqiyuDk"
                             },
                             {
-                            "ChapterName": "Basic Principles of Organic Chemistry",
+                              "VN": "Part 2",
+                              "VL": "https://youtu.be/x8n1Gu0OH5U"
+                            },
+                            {
+                              "VN": "Part 3",
+                              "VL": "https://youtu.be/9KMWPGzcQx0"
+                            },
+                            {
+                              "VN": "Part 4",
+                              "VL": "https://youtu.be/279Al-UgaJ0"
+                            },
+                            {
+                              "VN": "Part 5",
+                              "VL": "https://youtu.be/LmuVjePLUg4"
+                            },
+                            {
+                              "VN": "Part 6",
+                              "VL": "https://youtu.be/nQufV6Gyptw"
+                            },
+                            {
+                              "VN": "Part 7",
+                              "VL": "https://youtu.be/sPrZcszfTJc"
+                            },
+                            {
+                              "VN": "Part 8",
+                              "VL": "https://youtu.be/b8l1wTBJHfY"
+                            },
+                            {
+                              "VN": "Part 9",
+                              "VL": "https://youtu.be/nOhEfCWPzUk"
+                            },
+                            {
+                              "VN": "Part 10",
+                              "VL": "https://youtu.be/-zmw9TkGCe4"
+                            },
+                            {
+                              "VN": "Part 11",
+                              "VL": "https://youtu.be/K5JWB-2rFQ8"
+                            },
+                            {
+                              "VN": "Part 12",
+                              "VL": "https://youtu.be/iqfEftEpdWE"
+                            },
+                            {
+                              "VN": "Part 13",
+                              "VL": "https://youtu.be/KdvL60AoAJw"
+                            },
+                            {
+                              "VN": "Part 14",
+                              "VL": "https://youtu.be/gGNbdK40gdQ"
+                            },
+                            {
+                              "VN": "Part 15",
+                              "VL": "https://youtu.be/Gn1EWe5D1-w"
+                            }
+                            ],
+                            "StudyMaterial":[
+                            {
+                              "MN": "",
+                              "ML": ""
+                            }
+                          ]
+                        },
+                        {
+                            "ChapterName": "Hydrocarbons",
                             "Videos": [
                               {
                                 "VN": "Part 1",
-                                "VL": "https://youtu.be/J1dbQqiyuDk"
+                                "VL": "https://youtu.be/GQK73SwrB0g"
                               },
                               {
                                 "VN": "Part 2",
-                                "VL": "https://youtu.be/x8n1Gu0OH5U"
+                                "VL": "https://youtu.be/JpJwSKEmwTQ"
                               },
                               {
                                 "VN": "Part 3",
-                                "VL": "https://youtu.be/9KMWPGzcQx0"
+                                "VL": "https://youtu.be/DspGkbCtGiQ"
                               },
                               {
                                 "VN": "Part 4",
-                                "VL": "https://youtu.be/279Al-UgaJ0"
+                                "VL": "https://youtu.be/l7NDPwB43FE"
                               },
                               {
                                 "VN": "Part 5",
-                                "VL": "https://youtu.be/LmuVjePLUg4"
+                                "VL": "https://youtu.be/X5-BMxF6E6A"
                               },
                               {
                                 "VN": "Part 6",
-                                "VL": "https://youtu.be/nQufV6Gyptw"
+                                "VL": "https://youtu.be/cv4M8nfMxUo"
                               },
                               {
                                 "VN": "Part 7",
-                                "VL": "https://youtu.be/sPrZcszfTJc"
+                                "VL": "https://youtu.be/-x1fS2EjtZA"
                               },
                               {
                                 "VN": "Part 8",
-                                "VL": "https://youtu.be/b8l1wTBJHfY"
+                                "VL": "https://youtu.be/iSj5geMREIk"
                               },
                               {
                                 "VN": "Part 9",
-                                "VL": "https://youtu.be/nOhEfCWPzUk"
+                                "VL": "https://youtu.be/ftximzAaItY"
                               },
                               {
                                 "VN": "Part 10",
-                                "VL": "https://youtu.be/-zmw9TkGCe4"
+                                "VL": "https://youtu.be/lTLfn-gkEHw"
                               },
                               {
                                 "VN": "Part 11",
-                                "VL": "https://youtu.be/K5JWB-2rFQ8"
+                                "VL": "https://youtu.be/C-7it2iAgkg"
                               },
                               {
                                 "VN": "Part 12",
-                                "VL": "https://youtu.be/iqfEftEpdWE"
+                                "VL": "https://youtu.be/lcknliICgVk"
                               },
                               {
                                 "VN": "Part 13",
-                                "VL": "https://youtu.be/KdvL60AoAJw"
+                                "VL": "https://youtu.be/xlHB3UgsuCw"
                               },
                               {
                                 "VN": "Part 14",
-                                "VL": "https://youtu.be/gGNbdK40gdQ"
+                                "VL": "https://youtu.be/D3nf5-Q1QtM"
                               },
                               {
                                 "VN": "Part 15",
-                                "VL": "https://youtu.be/Gn1EWe5D1-w"
+                                "VL": "https://youtu.be/L7R306cXjPk"
+                              },
+                              {
+                                "VN": "Part 16",
+                                "VL": "https://youtu.be/7FVwiwWqB1Q"
                               }
                               ],
                               "StudyMaterial":[
+                                {
+                                  "MN": "",
+                                  "ML": ""
+                    
+                                },
+                                {
+                                  "MN": "",
+                                  "ML": ""
+                    
+                                },
+                                {
+                                  "MN": "",
+                                  "ML": ""
+                    
+                                }
+                            ]
+                        },
+                        {
+                          "ChapterName": "Chemistry in Everyday Life",
+                          "Videos": [
+                            {
+                              "VN": "Part 1",
+                              "VL": "https://youtu.be/E25Ux16P9cs"
+                            },
+                            {
+                              "VN": "Part 2",
+                              "VL": "https://youtu.be/GtnNlnYD4NI"
+                            },
+                            {
+                              "VN": "Part 3",
+                              "VL": "https://youtu.be/DDASoSTeBiM"
+                            },
+                            {
+                              "VN": "Part 4",
+                              "VL": "https://youtu.be/MlLmx77Pvew"
+                            }
+                            ],
+                            "StudyMaterial":[
                               {
                                 "MN": "",
                                 "ML": ""
                               }
                             ]
-                          },
-                          {
-                              "ChapterName": "Hydrocarbons",
-                              "Videos": [
-                                {
-                                  "VN": "Part 1",
-                                  "VL": "https://youtu.be/GQK73SwrB0g"
-                                },
-                                {
-                                  "VN": "Part 2",
-                                  "VL": "https://youtu.be/JpJwSKEmwTQ"
-                                },
-                                {
-                                  "VN": "Part 3",
-                                  "VL": "https://youtu.be/DspGkbCtGiQ"
-                                },
-                                {
-                                  "VN": "Part 4",
-                                  "VL": "https://youtu.be/l7NDPwB43FE"
-                                },
-                                {
-                                  "VN": "Part 5",
-                                  "VL": "https://youtu.be/X5-BMxF6E6A"
-                                },
-                                {
-                                  "VN": "Part 6",
-                                  "VL": "https://youtu.be/cv4M8nfMxUo"
-                                },
-                                {
-                                  "VN": "Part 7",
-                                  "VL": "https://youtu.be/-x1fS2EjtZA"
-                                },
-                                {
-                                  "VN": "Part 8",
-                                  "VL": "https://youtu.be/iSj5geMREIk"
-                                },
-                                {
-                                  "VN": "Part 9",
-                                  "VL": "https://youtu.be/ftximzAaItY"
-                                },
-                                {
-                                  "VN": "Part 10",
-                                  "VL": "https://youtu.be/lTLfn-gkEHw"
-                                },
-                                {
-                                  "VN": "Part 11",
-                                  "VL": "https://youtu.be/C-7it2iAgkg"
-                                },
-                                {
-                                  "VN": "Part 12",
-                                  "VL": "https://youtu.be/lcknliICgVk"
-                                },
-                                {
-                                  "VN": "Part 13",
-                                  "VL": "https://youtu.be/xlHB3UgsuCw"
-                                },
-                                {
-                                  "VN": "Part 14",
-                                  "VL": "https://youtu.be/D3nf5-Q1QtM"
-                                },
-                                {
-                                  "VN": "Part 15",
-                                  "VL": "https://youtu.be/L7R306cXjPk"
-                                },
-                                {
-                                  "VN": "Part 16",
-                                  "VL": "https://youtu.be/7FVwiwWqB1Q"
-                                }
-                                ],
-                              "StudyMaterial":[
-                                {
-                                  "MN": "",
-                                  "ML": ""
-                                },
-                                {
-                              "ChapterName": "Chemistry in Everyday Life",
-                              "Videos": [
-                                {
-                                  "VN": "Part 1",
-                                  "VL": "https://youtu.be/E25Ux16P9cs"
-                                },
-                                {
-                                  "VN": "Part 2",
-                                  "VL": "https://youtu.be/GtnNlnYD4NI"
-                                },
-                                {
-                                  "VN": "Part 3",
-                                  "VL": "https://youtu.be/DDASoSTeBiM"
-                                },
-                                {
-                                  "VN": "Part 4",
-                                  "VL": "https://youtu.be/MlLmx77Pvew"
-                                }
-                                ],
-                              "StudyMaterial":[
-                                {
-                                  "MN": "",
-                                  "ML": ""
-                                }
-                              ]
-                            }      
-]
+                          }
+                        ]      
+                            
