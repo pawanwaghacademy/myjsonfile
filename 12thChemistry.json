@@ -493,6 +493,10 @@
       ],
       "StudyMaterial":[
         {
+          "MN": "Notes",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FTransition%20and%20inner%20transiton%20elements%20notes.pdf?alt=media&token=d48f708f-d945-4a90-b977-22aa0fd3d0fb"
+          },
+          {
           "MN": "Practice Paper",
           "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FTransition%20and%20Inner%20Transiton%20Elements%20Class%2012th%20Chemistry%20Term%20Paper.pdf?alt=media&token=a28e1834-9095-4e56-acf8-aebdf4dd4eb8"
         }
@@ -536,6 +540,10 @@
       ],
       "StudyMaterial":[
         {
+          "MN": "Notes",
+          "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2Fco-ordination%20compounds%20Notes%20(1).pdf?alt=media&token=d9770f08-8f1d-4124-a1c1-f9862bc8aad6"
+          },
+          {
           "MN": "Practice Paper",
           "ML": "https://firebasestorage.googleapis.com/v0/b/pawanwaghacademyapp.appspot.com/o/Notes%2FCoordination%20Compounds%2012th%20Practice%20Paper.pdf?alt=media&token=9df7c6c0-d263-4c7e-9257-cb3489c085c3"
         }
